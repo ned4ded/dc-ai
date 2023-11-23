@@ -1,0 +1,3527 @@
+[
+  {
+    "model_name": "RTX 4060",
+    "rating": 100,
+    "price": 300
+  },
+  {
+    "model_name": "RTX 4060-Ti",
+    "rating": 98,
+    "price": 390
+  },
+  {
+    "model_name": "RTX 4070-Ti",
+    "rating": 96,
+    "price": 750
+  },
+  {
+    "model_name": "RTX 3060-Ti",
+    "rating": 96,
+    "price": 440
+  },
+  {
+    "model_name": "GTX 1660S (Super)",
+    "rating": 95,
+    "price": 220
+  },
+  {
+    "model_name": "RTX 3060",
+    "rating": 95,
+    "price": 270
+  },
+  {
+    "model_name": "RTX 3070",
+    "rating": 94,
+    "price": 425
+  },
+  {
+    "model_name": "RTX 4090",
+    "rating": 93,
+    "price": 2184
+  },
+  {
+    "model_name": "RTX 3080",
+    "rating": 92,
+    "price": 830
+  },
+  {
+    "model_name": "RTX 3050",
+    "rating": 90,
+    "price": 210
+  },
+  {
+    "model_name": "GTX 1060-6GB",
+    "rating": 88,
+    "price": 399
+  },
+  {
+    "model_name": "RTX 2060",
+    "rating": 87,
+    "price": 200
+  },
+  {
+    "model_name": "RTX 4070",
+    "rating": 87,
+    "price": 580
+  },
+  {
+    "model_name": "RTX 2070S (Super)",
+    "rating": 86,
+    "price": 1061
+  },
+  {
+    "model_name": "RTX 4080",
+    "rating": 86,
+    "price": 1130
+  },
+  {
+    "model_name": "GTX 1650S (Super)",
+    "rating": 84,
+    "price": 250
+  },
+  {
+    "model_name": "RTX 2060S (Super)",
+    "rating": 83,
+    "price": 0
+  },
+  {
+    "model_name": "GTX 1660-Ti",
+    "rating": 81,
+    "price": 380
+  },
+  {
+    "model_name": "GTX 1650",
+    "rating": 80,
+    "price": 189
+  },
+  {
+    "model_name": "GTX 1050-Ti",
+    "rating": 79,
+    "price": 219
+  },
+  {
+    "model_name": "GTX 1070",
+    "rating": 78,
+    "price": 579
+  },
+  {
+    "model_name": "RX 580",
+    "rating": 78,
+    "price": 110
+  },
+  {
+    "model_name": "RX 590",
+    "rating": 77,
+    "price": 0
+  },
+  {
+    "model_name": "GTX 1080-Ti",
+    "rating": 76,
+    "price": 679
+  },
+  {
+    "model_name": "GTX 1660",
+    "rating": 76,
+    "price": 220
+  },
+  {
+    "model_name": "RTX 2080S (Super)",
+    "rating": 74,
+    "price": 0
+  },
+  {
+    "model_name": "GTX 1080",
+    "rating": 72,
+    "price": 399
+  },
+  {
+    "model_name": "RTX 2080-Ti",
+    "rating": 72,
+    "price": 0
+  },
+  {
+    "model_name": "RTX 3090",
+    "rating": 71,
+    "price": 1550
+  },
+  {
+    "model_name": "GTX 1070-Ti",
+    "rating": 70,
+    "price": 299
+  },
+  {
+    "model_name": "GTX 970",
+    "rating": 70,
+    "price": 0
+  },
+  {
+    "model_name": "RX 570",
+    "rating": 69,
+    "price": 0
+  },
+  {
+    "model_name": "RX 5700",
+    "rating": 68,
+    "price": 0
+  },
+  {
+    "model_name": "RTX 2070",
+    "rating": 67,
+    "price": 0
+  },
+  {
+    "model_name": "GTX 980-Ti",
+    "rating": 67,
+    "price": 0
+  },
+  {
+    "model_name": "GTX 980",
+    "rating": 67,
+    "price": 0
+  },
+  {
+    "model_name": "RX 480",
+    "rating": 66,
+    "price": 375
+  },
+  {
+    "model_name": "GTX 1060-3GB",
+    "rating": 65,
+    "price": 0
+  },
+  {
+    "model_name": "R9 380",
+    "rating": 64,
+    "price": 0
+  },
+  {
+    "model_name": "RTX 3070-Ti",
+    "rating": 64,
+    "price": 618
+  },
+  {
+    "model_name": "R9 290X",
+    "rating": 63,
+    "price": 0
+  },
+  {
+    "model_name": "RTX 2080",
+    "rating": 63,
+    "price": 849
+  },
+  {
+    "model_name": "R9 Fury-X",
+    "rating": 62,
+    "price": 0
+  },
+  {
+    "model_name": "GTX 750-Ti",
+    "rating": 62,
+    "price": 0
+  },
+  {
+    "model_name": "GTX 960",
+    "rating": 62,
+    "price": 0
+  },
+  {
+    "model_name": "RX 6700-XT",
+    "rating": 62,
+    "price": 0
+  },
+  {
+    "model_name": "R9 390",
+    "rating": 62,
+    "price": 0
+  },
+  {
+    "model_name": "R9 390X",
+    "rating": 61,
+    "price": 0
+  },
+  {
+    "model_name": "RX 470",
+    "rating": 61,
+    "price": 0
+  },
+  {
+    "model_name": "R9 270X",
+    "rating": 60,
+    "price": 0
+  },
+  {
+    "model_name": "NVS 510",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce GTX 570M",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "FirePro V5900 (FireGL V)",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "Mobility Radeon HD 530v",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce 710M",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "Radeon HD 8370D",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce GTX 555",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "GTX 760 (192-bit)",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "GTX 760 Ti OEM",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "Quadro 4000M",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce 9500 GS",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "Quadro K5100M",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "Radeon HD 8400-R3",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce GT 130",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "R9 M290X",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "FirePro M5100 (FireGL V)",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "FirePro V5800 (FireGL V)",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "Quadro FX 3450/4000 SDI",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "Radeon HD 7600G",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce GT620M",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "RemoteFX Graphics Device - WDDM",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "GTX 775M",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "Core M HD 5300",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "Quadro K5200",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "GTX Titan Z (SLI Disabled)",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "Quadro K1200",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "R9 M370X",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "HD 530 (Mobile Skylake)",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "Quadro M6000",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "Iris Pro 580 (Mobile Skylake)",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "Quadro M6000 24GB",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "Quadro M2000",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "MX150-2",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "Radeon RX 560-B",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "Iris Plus 650 (Mobile Kaby Lake)",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "GTX 1050-Ti (Mobile Max-Q)",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "Iris Xe DG1",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce G210",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce GT 620",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "Quadro FX 5800",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "Radeon HD 6770M",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "HD P4000 (Server 1.25 GHz)",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "Radeon HD 3870",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "Radeon HD 5700",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "UHD Graphics 605",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "HD Graphics (Arrandale 0.667/0.766 GHz)",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "NVS 310",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "Quadro K1100M",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "Quadro 5000",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "HD 6000 (Mobile)",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "Quadro P1000",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce 8800 GTS",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "FirePro V4900",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "Radeon HD 7480D",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "Quadro P5000-M (Mobile)",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce GT 635M",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce GTX 280",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce GT 520M",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce GT 525M",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "GTX 670M",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "HD Graphics (Clarkdale 0.733/0.9 GHz)",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "Arc A380",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "GTX 675MX",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce GT 635",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "FirePro M8900",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce 9600M-GS",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "RX 6700M",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "NVS 4200M",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "GTX 1630",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce GT 705",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "HD 615 (Mobile Kaby Lake)",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "UHD Graphics 630 (Desktop Coffee Lake i3)",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "Radeon X1300",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "GTX 650",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "Mobile Series 4 Express Chipset Family",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "HD Graphics (G4 Pentium/Celeron 1.05/1.15 GHz)",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "HD Graphics (G3 Pentium/Celeron 1.0/1.1 GHz)",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "HD Graphics (Bay Trail 0.667 - 0.854 GHz)",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce 9300M GS",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce GTX 580M",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "Quadro NVS 135M",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "Quadro FX 2700M",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "FirePro M6000",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce 7300 GS",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "Radeon HD 6490M",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "Quadro FX 1800M",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce Go 7300",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "Quadro NVS 450",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "Radeon HD 6290",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "FirePro 2270",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "Radeon HD 4290",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "Display Adapter (WDDM)",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "EAH6770",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce Go 7600",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "Mobility Radeon X1400",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "HD 5970 (Crossfire Disabled)",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "Mobility Radeon HD 3650",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "Radeon HD 3300",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "Mobility Radeon HD 4670",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "Radeon HD 2600-XT",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce 8200M G",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "ION",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce 7300 LE",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "Quadro NVS 140M",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "Quadro FX 770M",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce GT 230M",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "Iris Pro HD 5200 (V1 Mobile 1.15 GHz)",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce GTX 260M",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce 8800 GS",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "Radeon HD 7660G",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce GTX 590 (SLI Disabled)",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce 7600 GT",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "Quadro NVS 290",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce 7300 GT",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "Radeon HD 4800",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce 8600M GS",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "Radeon HD 6480G",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "Quadro FX 570",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "Iris Pro HD 5200 (V2 Mobile 1.2 GHz)",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "Radeon HD 6410D",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "Quadro NVS 320M",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "Quadro NVS 160M",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce GT 230",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce GTX 460M",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce GT 435M",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "Mobility Radeon X2300",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "MOBILITY FireGL V5250",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "Radeon HD 6250",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce G105M",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce GT 530",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "NVS 5100M",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "Radeon HD 8610G",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "HD 5000 (Mobile 1.0/1.1 GHz)",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "Mobility Radeon HD 2400",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "HD 6970M",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "Radeon HD 3800",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "Radeon HD 2600-PRO",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce GTS 250M",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce 8400M GS",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce 7900 GS",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce 7100 / nForce 630i",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce 6600",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce Go 7400",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "Radeon HD 7520G",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "Mobility Radeon HD 4300",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "FirePro M7740",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "Mobility Radeon HD 5870",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "Mobility Radeon HD 4250",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "Mobility Radeon HD 545v",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "Quadro FX 1600M",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce 6600 GT",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "HD 4200 (Mobile 0.85 GHz)",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "Mobility Radeon X1600",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "Mobility Radeon HD 5850",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "GTX 675M",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "Radeon HD 7340",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "FirePro V7900 (FireGL V)",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce 8400M G",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "Radeon HD 2400-PRO",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce GTS 240",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "NVS 300",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "Radeon HD 6550D",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "Radeon HD 7310",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce Go 7900",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce GTS 360M",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "Radeon HD 6730M",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "GTX 560 Ti-OEM",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "Quadro FX 570M",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "Mobility Radeon HD 4350",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "Quadro FX 3800M",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce GT 130M",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "Radeon HD 8510G",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce 9650M-GT",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "Radeon HD 7500G",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce 6200",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "Quadro FX 3600M",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "HD 8240",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce 9800M-GS",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "Mobility Radeon HD 5730",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "Radeon 3100 Graphics",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "Mobility Radeon HD 2600-XT",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "4 Series Internal Chipset",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce GTX 485M",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "FirePro 2260",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "Mobility Radeon HD 2600",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "Quadro NVS 440",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "Quadro FX 3700M",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "Mobility Radeon HD 3870-X2 (Crossfire Disabled)",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "Radeon HD 6350",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "Quadro FX 3500",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce 305M",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce GTX 285M",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "Mobility Radeon HD 3670",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "Mobility FireGL V5700",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce GTX 560 SE",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce 8400M GT",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce 7900 GTX",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce GT 335M",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "Quadro FX 3700",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce 9300 GS",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "Radeon HD 7610M",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "Radeon HD 7400G",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "Radeon X1650",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "Quadro K5000M",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "Mobility Radeon X1300",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "Radeon HD 2600",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "Mobility Radeon HD 6370",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "Radeon HD 4850-X2",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "Radeon X1550",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce 7100 GS",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "Quadro FX 1500",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce GT 320",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce 7800 GS",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "Radeon HD 7350",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce 9700M GT",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce GT 220M",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce 8200",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce 7600 GS",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce 7800 GTX",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "Radeon HD 8760",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce GTX 280M",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce 9800M GTS",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "Quadro NVS 295",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "Radeon HD 6250M",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce 8800 Ultra",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce GT 415M",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "HD Graphics P4600",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce GTX 480M",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce GT 445M",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce GT625M",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "Iris Pro HD 6200 (Desktop)",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "R9 M290",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "HD 515 (Mobile Skylake)",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "HD P530 (Server Skylake)",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "Quadro P3000",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "Quadro GP100",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "Iris Plus G4",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "HD 2000 (Desktop 1.1 GHz)",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "Radeon HD 3450",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "GTX 465",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce 8800 GT",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "Radeon HD 5400",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce 6100",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "HD Graphics (G2 Pentium/Celeron 1.1/1.15 GHz)",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce GT 745M",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce 9600M-GT",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "GTX 940M",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce 6150",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "Quadro 2000M",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "RX 7900-XT",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "Radeon HD 6500M",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "Arc A580",
+    "rating": 50,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce GT 550M",
+    "rating": 49,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce 7800 GT",
+    "rating": 49,
+    "price": 0
+  },
+  {
+    "model_name": "RX 6500-XT",
+    "rating": 47,
+    "price": 180
+  },
+  {
+    "model_name": "R9 290",
+    "rating": 60,
+    "price": 0
+  },
+  {
+    "model_name": "R9 Fury",
+    "rating": 60,
+    "price": 0
+  },
+  {
+    "model_name": "R9 280X",
+    "rating": 60,
+    "price": 0
+  },
+  {
+    "model_name": "RTX 3090-Ti",
+    "rating": 60,
+    "price": 0
+  },
+  {
+    "model_name": "GT 1030",
+    "rating": 60,
+    "price": 0
+  },
+  {
+    "model_name": "RX 6900-XT",
+    "rating": 60,
+    "price": 0
+  },
+  {
+    "model_name": "RTX 3080-Ti",
+    "rating": 60,
+    "price": 1100
+  },
+  {
+    "model_name": "RX 6600-XT",
+    "rating": 60,
+    "price": 352
+  },
+  {
+    "model_name": "Radeon-VII",
+    "rating": 59,
+    "price": 0
+  },
+  {
+    "model_name": "RX 6800-XT",
+    "rating": 59,
+    "price": 0
+  },
+  {
+    "model_name": "GTX 950",
+    "rating": 59,
+    "price": 0
+  },
+  {
+    "model_name": "R9 380X",
+    "rating": 58,
+    "price": 0
+  },
+  {
+    "model_name": "GTX 780-Ti",
+    "rating": 58,
+    "price": 0
+  },
+  {
+    "model_name": "Iris Xe",
+    "rating": 58,
+    "price": 0
+  },
+  {
+    "model_name": "RX Vega 8 (Ryzen iGPU)",
+    "rating": 58,
+    "price": 0
+  },
+  {
+    "model_name": "HD 7970",
+    "rating": 58,
+    "price": 0
+  },
+  {
+    "model_name": "RTX 3060 (Laptop)",
+    "rating": 58,
+    "price": 0
+  },
+  {
+    "model_name": "RX Vega-56",
+    "rating": 58,
+    "price": 0
+  },
+  {
+    "model_name": "RX 5500-XT",
+    "rating": 58,
+    "price": 0
+  },
+  {
+    "model_name": "RX 460",
+    "rating": 58,
+    "price": 0
+  },
+  {
+    "model_name": "RX 5700-XT",
+    "rating": 58,
+    "price": 440
+  },
+  {
+    "model_name": "HD 7950",
+    "rating": 57,
+    "price": 0
+  },
+  {
+    "model_name": "R7 360",
+    "rating": 57,
+    "price": 0
+  },
+  {
+    "model_name": "GTX 1660-Ti (Mobile)",
+    "rating": 57,
+    "price": 0
+  },
+  {
+    "model_name": "R9 280",
+    "rating": 57,
+    "price": 0
+  },
+  {
+    "model_name": "HD 7850",
+    "rating": 57,
+    "price": 0
+  },
+  {
+    "model_name": "RTX 2060 (Mobile)",
+    "rating": 57,
+    "price": 0
+  },
+  {
+    "model_name": "RX Vega 11 (Ryzen iGPU)",
+    "rating": 57,
+    "price": 0
+  },
+  {
+    "model_name": "RTX 3050-Ti (Laptop)",
+    "rating": 57,
+    "price": 0
+  },
+  {
+    "model_name": "RX 550",
+    "rating": 57,
+    "price": 0
+  },
+  {
+    "model_name": "GTX 1060 (Mobile)",
+    "rating": 57,
+    "price": 0
+  },
+  {
+    "model_name": "R7 260X",
+    "rating": 57,
+    "price": 0
+  },
+  {
+    "model_name": "RX 6800",
+    "rating": 57,
+    "price": 0
+  },
+  {
+    "model_name": "R9 270",
+    "rating": 57,
+    "price": 0
+  },
+  {
+    "model_name": "RX 6650-XT",
+    "rating": 57,
+    "price": 0
+  },
+  {
+    "model_name": "GTX 1050",
+    "rating": 57,
+    "price": 98
+  },
+  {
+    "model_name": "Titan RTX",
+    "rating": 57,
+    "price": 1790
+  },
+  {
+    "model_name": "RX 6600",
+    "rating": 57,
+    "price": 0
+  },
+  {
+    "model_name": "GTX 680",
+    "rating": 56,
+    "price": 0
+  },
+  {
+    "model_name": "GTX 1070 (Mobile)",
+    "rating": 56,
+    "price": 0
+  },
+  {
+    "model_name": "Titan Xp",
+    "rating": 56,
+    "price": 0
+  },
+  {
+    "model_name": "Titan V",
+    "rating": 56,
+    "price": 0
+  },
+  {
+    "model_name": "RTX 2070 (Mobile Max-Q)",
+    "rating": 56,
+    "price": 0
+  },
+  {
+    "model_name": "HD 520 (Mobile Skylake)",
+    "rating": 56,
+    "price": 0
+  },
+  {
+    "model_name": "GTX 1650-Ti (Mobile)",
+    "rating": 56,
+    "price": 0
+  },
+  {
+    "model_name": "GTX 780",
+    "rating": 56,
+    "price": 0
+  },
+  {
+    "model_name": "GTX 770",
+    "rating": 56,
+    "price": 0
+  },
+  {
+    "model_name": "R7 370",
+    "rating": 56,
+    "price": 0
+  },
+  {
+    "model_name": "HD 7870",
+    "rating": 56,
+    "price": 0
+  },
+  {
+    "model_name": "GTX 560 Ti",
+    "rating": 56,
+    "price": 0
+  },
+  {
+    "model_name": "RTX 3070 (Laptop)",
+    "rating": 56,
+    "price": 0
+  },
+  {
+    "model_name": "MX130",
+    "rating": 56,
+    "price": 0
+  },
+  {
+    "model_name": "RX 6950-XT",
+    "rating": 56,
+    "price": 0
+  },
+  {
+    "model_name": "RX 6750-XT",
+    "rating": 56,
+    "price": 0
+  },
+  {
+    "model_name": "GTX 550-Ti",
+    "rating": 56,
+    "price": 0
+  },
+  {
+    "model_name": "RX 7900-XTX",
+    "rating": 56,
+    "price": 0
+  },
+  {
+    "model_name": "RTX 4050 (Laptop)",
+    "rating": 56,
+    "price": 0
+  },
+  {
+    "model_name": "HD 7770",
+    "rating": 55,
+    "price": 0
+  },
+  {
+    "model_name": "HD 6950",
+    "rating": 55,
+    "price": 0
+  },
+  {
+    "model_name": "Quadro K6000",
+    "rating": 55,
+    "price": 0
+  },
+  {
+    "model_name": "R9 285",
+    "rating": 55,
+    "price": 0
+  },
+  {
+    "model_name": "GTX 960M",
+    "rating": 55,
+    "price": 0
+  },
+  {
+    "model_name": "Radeon 520",
+    "rating": 55,
+    "price": 0
+  },
+  {
+    "model_name": "GTX 1060 (Mobile Max-Q)",
+    "rating": 55,
+    "price": 0
+  },
+  {
+    "model_name": "RX Vega 10 (Ryzen iGPU)",
+    "rating": 55,
+    "price": 0
+  },
+  {
+    "model_name": "RTX 2070 (Mobile)",
+    "rating": 55,
+    "price": 0
+  },
+  {
+    "model_name": "Quadro K620",
+    "rating": 55,
+    "price": 0
+  },
+  {
+    "model_name": "GTX 1050 (Mobile)",
+    "rating": 55,
+    "price": 0
+  },
+  {
+    "model_name": "R7 240",
+    "rating": 55,
+    "price": 0
+  },
+  {
+    "model_name": "Radeon 530",
+    "rating": 55,
+    "price": 0
+  },
+  {
+    "model_name": "MX150-0",
+    "rating": 55,
+    "price": 0
+  },
+  {
+    "model_name": "GTX 650 Ti Boost",
+    "rating": 55,
+    "price": 0
+  },
+  {
+    "model_name": "GTX 760",
+    "rating": 55,
+    "price": 0
+  },
+  {
+    "model_name": "HD 4600 (Desktop 1.25 GHz)",
+    "rating": 55,
+    "price": 0
+  },
+  {
+    "model_name": "Titan X Pascal",
+    "rating": 55,
+    "price": 0
+  },
+  {
+    "model_name": "R7 265",
+    "rating": 55,
+    "price": 0
+  },
+  {
+    "model_name": "GTX 1660-Ti (Mobile Max-Q)",
+    "rating": 55,
+    "price": 0
+  },
+  {
+    "model_name": "GTX Titan X",
+    "rating": 55,
+    "price": 0
+  },
+  {
+    "model_name": "UHD Graphics 630 (Desktop Coffee Lake i5 i7)",
+    "rating": 55,
+    "price": 0
+  },
+  {
+    "model_name": "HD 630 (Desktop Kaby Lake)",
+    "rating": 55,
+    "price": 0
+  },
+  {
+    "model_name": "RX 560",
+    "rating": 55,
+    "price": 0
+  },
+  {
+    "model_name": "GTX 1650 (Mobile)",
+    "rating": 55,
+    "price": 0
+  },
+  {
+    "model_name": "940MX",
+    "rating": 55,
+    "price": 0
+  },
+  {
+    "model_name": "GTX 660-Ti",
+    "rating": 55,
+    "price": 0
+  },
+  {
+    "model_name": "RX 5600-XT",
+    "rating": 55,
+    "price": 0
+  },
+  {
+    "model_name": "GTX 570",
+    "rating": 54,
+    "price": 0
+  },
+  {
+    "model_name": "GTX 860M",
+    "rating": 54,
+    "price": 0
+  },
+  {
+    "model_name": "GTX 980M",
+    "rating": 54,
+    "price": 0
+  },
+  {
+    "model_name": "Vega Frontier Edition",
+    "rating": 54,
+    "price": 0
+  },
+  {
+    "model_name": "RX Vega-64LC (Liquid Cooled)",
+    "rating": 54,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce MX250",
+    "rating": 54,
+    "price": 0
+  },
+  {
+    "model_name": "Radeon Pro 5500M",
+    "rating": 54,
+    "price": 0
+  },
+  {
+    "model_name": "Quadro RTX 8000",
+    "rating": 54,
+    "price": 0
+  },
+  {
+    "model_name": "RTX 3080 (Laptop)",
+    "rating": 54,
+    "price": 0
+  },
+  {
+    "model_name": "RX 5700XT 50th Anniversary",
+    "rating": 54,
+    "price": 0
+  },
+  {
+    "model_name": "HD 530 (Desktop Skylake)",
+    "rating": 54,
+    "price": 0
+  },
+  {
+    "model_name": "Radeon HD 6670",
+    "rating": 54,
+    "price": 0
+  },
+  {
+    "model_name": "GTX 970M",
+    "rating": 54,
+    "price": 0
+  },
+  {
+    "model_name": "HD 5850",
+    "rating": 54,
+    "price": 0
+  },
+  {
+    "model_name": "RX 5500",
+    "rating": 54,
+    "price": 0
+  },
+  {
+    "model_name": "GTX 1050-Ti (Mobile)",
+    "rating": 54,
+    "price": 0
+  },
+  {
+    "model_name": "RTX 2080 (Mobile Max-Q)",
+    "rating": 54,
+    "price": 0
+  },
+  {
+    "model_name": "HD 620 (Mobile Kaby Lake)",
+    "rating": 54,
+    "price": 0
+  },
+  {
+    "model_name": "GTX 950M",
+    "rating": 54,
+    "price": 0
+  },
+  {
+    "model_name": "GTX 660",
+    "rating": 54,
+    "price": 0
+  },
+  {
+    "model_name": "GTX 750",
+    "rating": 54,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce GT 720M",
+    "rating": 54,
+    "price": 0
+  },
+  {
+    "model_name": "GTX 1650 (Mobile Max-Q)",
+    "rating": 54,
+    "price": 0
+  },
+  {
+    "model_name": "Quadro RTX 5000",
+    "rating": 54,
+    "price": 0
+  },
+  {
+    "model_name": "RTX 3050 (Laptop)",
+    "rating": 54,
+    "price": 0
+  },
+  {
+    "model_name": "R7 250",
+    "rating": 54,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce MX350",
+    "rating": 54,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce GT 740M",
+    "rating": 54,
+    "price": 0
+  },
+  {
+    "model_name": "Arc A750",
+    "rating": 54,
+    "price": 0
+  },
+  {
+    "model_name": "HD 6850",
+    "rating": 54,
+    "price": 0
+  },
+  {
+    "model_name": "GTX 650-Ti",
+    "rating": 54,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce 820M",
+    "rating": 54,
+    "price": 0
+  },
+  {
+    "model_name": "Radeon R7 Graphics",
+    "rating": 54,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce GT 730",
+    "rating": 54,
+    "price": 0
+  },
+  {
+    "model_name": "Arc A770",
+    "rating": 54,
+    "price": 0
+  },
+  {
+    "model_name": "RTX 3070-Ti (Laptop)",
+    "rating": 54,
+    "price": 0
+  },
+  {
+    "model_name": "RTX 4060 (Laptop)",
+    "rating": 54,
+    "price": 0
+  },
+  {
+    "model_name": "HD 3000 (Mobile V2 1.3 GHz)",
+    "rating": 53,
+    "price": 0
+  },
+  {
+    "model_name": "Radeon HD 6770",
+    "rating": 53,
+    "price": 0
+  },
+  {
+    "model_name": "HD 6970",
+    "rating": 53,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce GTS 250",
+    "rating": 53,
+    "price": 0
+  },
+  {
+    "model_name": "HD 5770",
+    "rating": 53,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce GT 630",
+    "rating": 53,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce GT 750M",
+    "rating": 53,
+    "price": 0
+  },
+  {
+    "model_name": "Quadro K2000",
+    "rating": 53,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce 7150M / nForce 630M",
+    "rating": 53,
+    "price": 0
+  },
+  {
+    "model_name": "Radeon HD 7800M",
+    "rating": 53,
+    "price": 0
+  },
+  {
+    "model_name": "Radeon R3 Graphics",
+    "rating": 53,
+    "price": 0
+  },
+  {
+    "model_name": "930MX",
+    "rating": 53,
+    "price": 0
+  },
+  {
+    "model_name": "Quadro P6000",
+    "rating": 53,
+    "price": 0
+  },
+  {
+    "model_name": "GTX 1070 (Mobile Max-Q)",
+    "rating": 53,
+    "price": 0
+  },
+  {
+    "model_name": "Radeon RX Vega M GL",
+    "rating": 53,
+    "price": 0
+  },
+  {
+    "model_name": "RX Vega 8 5000 (iGPU)",
+    "rating": 53,
+    "price": 0
+  },
+  {
+    "model_name": "Quadro RTX A6000",
+    "rating": 53,
+    "price": 0
+  },
+  {
+    "model_name": "UHD Graphics 750",
+    "rating": 53,
+    "price": 0
+  },
+  {
+    "model_name": "Radeon 540",
+    "rating": 53,
+    "price": 0
+  },
+  {
+    "model_name": "Radeon RX Vega M GH",
+    "rating": 53,
+    "price": 0
+  },
+  {
+    "model_name": "GTX 560",
+    "rating": 53,
+    "price": 0
+  },
+  {
+    "model_name": "Quadro K1000M",
+    "rating": 53,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce 9800 GT",
+    "rating": 53,
+    "price": 0
+  },
+  {
+    "model_name": "RX Vega 6 (Ryzen iGPU)",
+    "rating": 53,
+    "price": 0
+  },
+  {
+    "model_name": "RTX 2070S (Super Mobile)",
+    "rating": 53,
+    "price": 0
+  },
+  {
+    "model_name": "GTX 670",
+    "rating": 53,
+    "price": 0
+  },
+  {
+    "model_name": "GTX 850M",
+    "rating": 53,
+    "price": 0
+  },
+  {
+    "model_name": "HD 7790",
+    "rating": 53,
+    "price": 0
+  },
+  {
+    "model_name": "Quadro 2000",
+    "rating": 53,
+    "price": 0
+  },
+  {
+    "model_name": "Quadro K4200",
+    "rating": 53,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce GT 220",
+    "rating": 53,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce GT 430",
+    "rating": 53,
+    "price": 0
+  },
+  {
+    "model_name": "GTX 460",
+    "rating": 53,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce GTX 470",
+    "rating": 53,
+    "price": 0
+  },
+  {
+    "model_name": "HD 5500 (Mobile 0.95 GHz)",
+    "rating": 53,
+    "price": 0
+  },
+  {
+    "model_name": "GTX 1080 (Mobile)",
+    "rating": 53,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce 840M",
+    "rating": 53,
+    "price": 0
+  },
+  {
+    "model_name": "Quadro RTX 4000",
+    "rating": 53,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce GTS 450",
+    "rating": 53,
+    "price": 0
+  },
+  {
+    "model_name": "RX 6400",
+    "rating": 53,
+    "price": 0
+  },
+  {
+    "model_name": "UHD G1",
+    "rating": 53,
+    "price": 0
+  },
+  {
+    "model_name": "Radeon HD 7600M",
+    "rating": 53,
+    "price": 0
+  },
+  {
+    "model_name": "920MX",
+    "rating": 53,
+    "price": 0
+  },
+  {
+    "model_name": "RX 6600M",
+    "rating": 53,
+    "price": 0
+  },
+  {
+    "model_name": "FirePro W7000",
+    "rating": 53,
+    "price": 0
+  },
+  {
+    "model_name": "Radeon HD 7570",
+    "rating": 53,
+    "price": 0
+  },
+  {
+    "model_name": "UHD Graphics 620 (Mobile Kaby Lake R)",
+    "rating": 53,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce MX230",
+    "rating": 53,
+    "price": 0
+  },
+  {
+    "model_name": "RTX 4070 (Laptop)",
+    "rating": 53,
+    "price": 0
+  },
+  {
+    "model_name": "RX 6800M",
+    "rating": 53,
+    "price": 0
+  },
+  {
+    "model_name": "GTX 580",
+    "rating": 53,
+    "price": 0
+  },
+  {
+    "model_name": "MX110",
+    "rating": 53,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce GT 710",
+    "rating": 53,
+    "price": 0
+  },
+  {
+    "model_name": "UHD Graphics 730",
+    "rating": 53,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce GT 740",
+    "rating": 53,
+    "price": 0
+  },
+  {
+    "model_name": "RX 7800-XT",
+    "rating": 53,
+    "price": 0
+  },
+  {
+    "model_name": "Radeon HD 6700",
+    "rating": 53,
+    "price": 0
+  },
+  {
+    "model_name": "RX 7600",
+    "rating": 53,
+    "price": 0
+  },
+  {
+    "model_name": "UHD Graphics 770",
+    "rating": 53,
+    "price": 0
+  },
+  {
+    "model_name": "RX Vega 3 (Ryzen iGPU)",
+    "rating": 53,
+    "price": 0
+  },
+  {
+    "model_name": "RX Vega-64",
+    "rating": 53,
+    "price": 0
+  },
+  {
+    "model_name": "HD 3000 (Desktop V1 1.1 GHz)",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "HD 4000 (Mobile 1.25 GHz)",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce 8600 GT",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "HD 4400 (Mobile 1.0/1.1 GHz)",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "HD 4600 (Mobile 1.15 GHz)",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "Quadro 4000",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "Radeon HD 5570",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "NVS 5200M",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "HD 7750",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "GTX 770M",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "G41 Express Chipset",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "GTX 765M",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce GT 650M",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce 6150SE nForce 430",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce GT 520",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "HD 5750",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "Quadro FX 880M",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "Quadro FX 3800",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce GT 630M",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "Radeon HD 4650",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "Radeon HD 6750M",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "Quadro 1000M",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "Quadro FX 1800",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce GT 240",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce 9400 GT",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "HD 7990 (CrossFire Disabled)",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce GT 540M",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce GT 640M",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "HD 7730",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "HD 6790",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce 310M",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "Radeon HD 5670",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce GT 555M",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "GTX 275",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce 9800 GTX",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "Radeon HD 7500M",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "Quadro K2000M",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "GTX 680M",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "Radeon HD 5500",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "Radeon HD 7560D",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "Quadro K5000",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce 410M",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "Radeon HD 7970M",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "Radeon HD 8570",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "GTX Titan Black",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "GTX 870M",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "Radeon HD 7650M",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "Radeon HD 7700M",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "GTX 780 4GB",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "Radeon R5",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "R9 295X2 (CrossFire Disabled)",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "FirePro W9000",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "Quadro K2200",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "GTX 965M",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce 830M",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "Iris Pro HD 6100 (Mobile)",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "Iris 540 (Mobile Skylake)",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "HD 510 (Desktop Skylake)",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "R9 Nano",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "Iris 550 (Mobile Skylake)",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "Quadro P5000",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "Iris Plus 640 (Mobile Kaby Lake)",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "Quadro P4000",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "RTX 2080 (Mobile)",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "Iris Plus G7",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "RTX 2080S (Super Mobile Max-Q)",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "RX Vega 8 4000 (iGPU)",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "Radeon Pro 5300M",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "RTX 2070S (Super Mobile Max-Q)",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "RTX 2080S (Super Mobile)",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "HD 610 (Desktop Kaby Lake)",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "GTX 1080 (Mobile Max-Q)",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "Radeon HD 7670",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "GTX 480",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "Radeon HD 4770",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "Radeon HD 7400M",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "FirePro M6100 (FireGL V)",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "UHD Graphics 600",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce GT 420",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "Graphics Media Accelerator 3150",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce 8800 GTX",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce GT 330M",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "Radeon HD 4850",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce 610M",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "HD 6870",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "R7 250X",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "G45/G43 Express Chipset",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "RTX 3080-Ti (Laptop)",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "Radeon HD 7670M",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce 9600 GT",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "Radeon HD 4670",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce GTX 690 (SLI Disabled)",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "HD 3000 (Desktop V2 1.35 GHz)",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "GTX 745 (OEM)",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce 210",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "Radeon HD 7660D",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "HD 4400 (Desktop 1.15 GHz)",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "GTX 780M",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce GTX 560M",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "HD 5870",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "Quadro M4000",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "Quadro RTX 6000",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce 8500 GT",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "Radeon HD 6450",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "Q45/Q43 Express Chipset",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce 8400 GS",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "GTX 880M",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "GTX 660M",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "FirePro V4800 (FireGL V)",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "Radeon HD 8570D",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "Quadro K600",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "NVS 5400M",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "GTX Titan",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce GT 610",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "Quadro K4000",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce GT 720",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "RTX 4090 (Laptop)",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce GT 755M",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "Quadro P2000",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce GT 640",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "RTX 4080 (Laptop)",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "RX 6700S (Laptop)",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "Radeon RX 7600S",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "Radeon HD 6570",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "Radeon HD 5450",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce 9500 GT",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "RX 7700-XT",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "RX 6700",
+    "rating": 52,
+    "price": 0
+  },
+  {
+    "model_name": "HD 4000 (Desktop 1.15 GHz)",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "HD 3000 (Mobile V1 1.1/1.2 GHz)",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "Quadro 6000",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "Mobility Radeon HD 4650",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "Radeon HD 6470M",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "HD 2500 (Desktop 1.05 GHz)",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "GTX 460 SE",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "HD 6990 (Crossfire Disabled)",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce GTX 285",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "GTX 260",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "Radeon HD 7540D",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "Quadro FX 580",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "HD 4870",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "HD 4890",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "Radeon HD 6700M",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce GT 440",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "SVGA 3D",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "Radeon HD 8550G",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "Radeon HD 6520G",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "Radeon HD 6310",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "Radeon HD 6530D",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce GT 320M",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "Mobility Radeon HD 5470",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce GT 425M",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "Mobility Radeon HD 4570",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "Quadro K2100M",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "Radeon HD 4300",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "HD 8210",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "NVS 3100M",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "Radeon 3000 Graphics",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "GTX 670MX",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "Radeon HD 7640G",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "Radeon HD 8650G",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "Radeon HD 4250",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "Mobility Radeon HD 4500",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "HD 3650",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce 9400M",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce 8800 GTS-512",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce GTX 295 (SLI Disabled)",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "Quadro FX 4500",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "Radeon HD 8670D",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "Radeon HD 7450",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce GT 520MX",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "Radeon HD 6320",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "Radeon HD 6620G",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "Quadro 600",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce 8600M GT",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "Radeon HD 8330",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "Quadro FX 2800M",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "Radeon HD 4200",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "GTX 560 Ti (448 Core LE)",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "Quadro 3000M",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce 8600 GTS",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "HD 5830",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "Quadro FX 4600",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "Mobility Radeon HD 3400",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "Quadro K3000M",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "FirePro M4000",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "Radeon HD 3200",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce GT 240M",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "Quadro K3100M",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce 7300 SE",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "HD 7470",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "Quadro FX 380",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "Radeon HD 8950",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce G210M",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "Iris Pro HD 5100 (Mobile 1.1 GHz)",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "R7 250E",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce 9200M GS",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "Quadro K4000M",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "Radeon HD 4550",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "GTX 460 v2",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce GTX 645",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce GT 420M",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "GTX 680MX",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce 310",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce 7025 / nForce 630a",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce 320M",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "Quadro FX 1700",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "Radeon X1600",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "Radeon HD 7470M",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "Quadro 400",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "Radeon HD 6630M",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "Radeon HD 8470D",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "GTX 760M",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "Radeon HD 6370M",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce GT 545",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "Radeon HD 6300M",
+    "rating": 51,
+    "price": 0
+  },
+  {
+    "model_name": "GeForce 315M",
+    "rating": 51,
+    "price": 0
+  }
+]
