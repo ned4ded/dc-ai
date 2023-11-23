@@ -1,0 +1,562 @@
+[
+  {
+    "model_name": "GeForce RTX 4090",
+    "1080p_ultra": 151.6,
+    "1080p_medium": 189.6,
+    "1440p_ultra": 143.1,
+    "4k_ultra": 114.1
+  },
+  {
+    "model_name": "Radeon RX 7900 XTX",
+    "1080p_ultra": 147.5,
+    "1080p_medium": 187.2,
+    "1440p_ultra": 133.7,
+    "4k_ultra": 93
+  },
+  {
+    "model_name": "GeForce RTX 4080",
+    "1080p_ultra": 142.6,
+    "1080p_medium": 184.4,
+    "1440p_ultra": 129,
+    "4k_ultra": 88.7
+  },
+  {
+    "model_name": "Radeon RX 7900 XT",
+    "1080p_ultra": 141.2,
+    "1080p_medium": 183,
+    "1440p_ultra": 124.3,
+    "4k_ultra": 79.6
+  },
+  {
+    "model_name": "Radeon RX 6950 XT",
+    "1080p_ultra": 135.8,
+    "1080p_medium": 187.4,
+    "1440p_ultra": 113.7,
+    "4k_ultra": 67.6
+  },
+  {
+    "model_name": "GeForce RTX 4070 Ti",
+    "1080p_ultra": 135.4,
+    "1080p_medium": 180.9,
+    "1440p_ultra": 115.1,
+    "4k_ultra": 71.8
+  },
+  {
+    "model_name": "GeForce RTX 3090 Ti",
+    "1080p_ultra": 132.6,
+    "1080p_medium": 178.8,
+    "1440p_ultra": 114.7,
+    "4k_ultra": 76.4
+  },
+  {
+    "model_name": "Radeon RX 6900 XT",
+    "1080p_ultra": 132,
+    "1080p_medium": 185.3,
+    "1440p_ultra": 108.6,
+    "4k_ultra": 63.5
+  },
+  {
+    "model_name": "GeForce RTX 3090",
+    "1080p_ultra": 127.6,
+    "1080p_medium": 175.8,
+    "1440p_ultra": 107.9,
+    "4k_ultra": 71
+  },
+  {
+    "model_name": "Radeon RX 6800 XT",
+    "1080p_ultra": 127.3,
+    "1080p_medium": 181.2,
+    "1440p_ultra": 103,
+    "4k_ultra": 59.4
+  },
+  {
+    "model_name": "Radeon RX 7800 XT",
+    "1080p_ultra": 127.2,
+    "1080p_medium": 181.5,
+    "1440p_ultra": 104,
+    "4k_ultra": 60.7
+  },
+  {
+    "model_name": "GeForce RTX 3080 Ti",
+    "1080p_ultra": 126,
+    "1080p_medium": 173.4,
+    "1440p_ultra": 105.8,
+    "4k_ultra": 69.1
+  },
+  {
+    "model_name": "GeForce RTX 3080 12GB",
+    "1080p_ultra": 124.2,
+    "1080p_medium": 170.9,
+    "1440p_ultra": 104,
+    "4k_ultra": 67
+  },
+  {
+    "model_name": "GeForce RTX 4070",
+    "1080p_ultra": 123.6,
+    "1080p_medium": 176.3,
+    "1440p_ultra": 98.9,
+    "4k_ultra": 57.2
+  },
+  {
+    "model_name": "GeForce RTX 3080",
+    "1080p_ultra": 119,
+    "1080p_medium": 169.2,
+    "1440p_ultra": 98.1,
+    "4k_ultra": 62.4
+  },
+  {
+    "model_name": "Radeon RX 6800",
+    "1080p_ultra": 116.3,
+    "1080p_medium": 174,
+    "1440p_ultra": 90.2,
+    "4k_ultra": 50.9
+  },
+  {
+    "model_name": "Radeon RX 7700 XT",
+    "1080p_ultra": 113.7,
+    "1080p_medium": 169.4,
+    "1440p_ultra": 90.9,
+    "4k_ultra": 50.2
+  },
+  {
+    "model_name": "GeForce RTX 3070 Ti",
+    "1080p_ultra": 105.8,
+    "1080p_medium": 161.3,
+    "1440p_ultra": 84.4,
+    "4k_ultra": 47.7
+  },
+  {
+    "model_name": "Radeon RX 6750 XT",
+    "1080p_ultra": 104.2,
+    "1080p_medium": 164.9,
+    "1440p_ultra": 77.7,
+    "4k_ultra": 42.8
+  },
+  {
+    "model_name": "GeForce RTX 4060 Ti 16GB",
+    "1080p_ultra": 102,
+    "1080p_medium": 162.5,
+    "1440p_ultra": 75.7,
+    "4k_ultra": 41.6
+  },
+  {
+    "model_name": "GeForce RTX 4060 Ti",
+    "1080p_ultra": 101.7,
+    "1080p_medium": 159.8,
+    "1440p_ultra": 75.5,
+    "4k_ultra": 39.6
+  },
+  {
+    "model_name": "GeForce RTX 3070",
+    "1080p_ultra": 100.5,
+    "1080p_medium": 156.2,
+    "1440p_ultra": 79,
+    "4k_ultra": 44.4
+  },
+  {
+    "model_name": "Radeon RX 6700 XT",
+    "1080p_ultra": 100.3,
+    "1080p_medium": 160.6,
+    "1440p_ultra": 73.5,
+    "4k_ultra": 40.3
+  },
+  {
+    "model_name": "Titan RTX",
+    "1080p_ultra": 99.3,
+    "1080p_medium": 156.6,
+    "1440p_ultra": 79.5,
+    "4k_ultra": 47.8
+  },
+  {
+    "model_name": "GeForce RTX 2080 Ti",
+    "1080p_ultra": 98.1,
+    "1080p_medium": 154,
+    "1440p_ultra": 77,
+    "4k_ultra": 44.9
+  },
+  {
+    "model_name": "GeForce RTX 3060 Ti",
+    "1080p_ultra": 92.3,
+    "1080p_medium": 148.2,
+    "1440p_ultra": 71,
+    "4k_ultra": null
+  },
+  {
+    "model_name": "GeForce RTX 2080 Super",
+    "1080p_ultra": 86.8,
+    "1080p_medium": 141.7,
+    "1440p_ultra": 65.8,
+    "4k_ultra": 36.7
+  },
+  {
+    "model_name": "Radeon RX 6700 10GB",
+    "1080p_ultra": 86.2,
+    "1080p_medium": 145.1,
+    "1440p_ultra": 62.6,
+    "4k_ultra": 32.9
+  },
+  {
+    "model_name": "GeForce RTX 4060",
+    "1080p_ultra": 84.9,
+    "1080p_medium": 142.3,
+    "1440p_ultra": 61.2,
+    "4k_ultra": 31.9
+  },
+  {
+    "model_name": "GeForce RTX 2080",
+    "1080p_ultra": 83.6,
+    "1080p_medium": 136.5,
+    "1440p_ultra": 62.8,
+    "4k_ultra": null
+  },
+  {
+    "model_name": "Radeon RX 7600",
+    "1080p_ultra": 82.3,
+    "1080p_medium": 143.9,
+    "1440p_ultra": 57.3,
+    "4k_ultra": 29.1
+  },
+  {
+    "model_name": "Radeon RX 6650 XT",
+    "1080p_ultra": 80,
+    "1080p_medium": 138.2,
+    "1440p_ultra": 56.5,
+    "4k_ultra": null
+  },
+  {
+    "model_name": "GeForce RTX 2070 Super",
+    "1080p_ultra": 78.3,
+    "1080p_medium": 129.5,
+    "1440p_ultra": 58.1,
+    "4k_ultra": null
+  },
+  {
+    "model_name": "Radeon RX 6600 XT",
+    "1080p_ultra": 78.1,
+    "1080p_medium": 135.8,
+    "1440p_ultra": 55.2,
+    "4k_ultra": null
+  },
+  {
+    "model_name": "Intel Arc A770 16GB",
+    "1080p_ultra": 76.9,
+    "1080p_medium": 116.4,
+    "1440p_ultra": 59.8,
+    "4k_ultra": 35.3
+  },
+  {
+    "model_name": "Intel Arc A770 8GB",
+    "1080p_ultra": 75.3,
+    "1080p_medium": 115.5,
+    "1440p_ultra": 57.5,
+    "4k_ultra": 33.2
+  },
+  {
+    "model_name": "Radeon RX 5700 XT",
+    "1080p_ultra": 73.3,
+    "1080p_medium": 124.9,
+    "1440p_ultra": 53.1,
+    "4k_ultra": 29.3
+  },
+  {
+    "model_name": "GeForce RTX 3060",
+    "1080p_ultra": 73,
+    "1080p_medium": 121,
+    "1440p_ultra": 54,
+    "4k_ultra": null
+  },
+  {
+    "model_name": "Intel Arc A750",
+    "1080p_ultra": 70.8,
+    "1080p_medium": 110.4,
+    "1440p_ultra": 53.7,
+    "4k_ultra": 31.1
+  },
+  {
+    "model_name": "GeForce RTX 2070",
+    "1080p_ultra": 70.3,
+    "1080p_medium": 119,
+    "1440p_ultra": 51.6,
+    "4k_ultra": null
+  },
+  {
+    "model_name": "Radeon VII",
+    "1080p_ultra": 69.5,
+    "1080p_medium": 113.9,
+    "1440p_ultra": 53,
+    "4k_ultra": 31.5
+  },
+  {
+    "model_name": "Radeon RX 6600",
+    "1080p_ultra": 67.3,
+    "1080p_medium": 117.7,
+    "1440p_ultra": 46.6,
+    "4k_ultra": null
+  },
+  {
+    "model_name": "GeForce GTX 1080 Ti",
+    "1080p_ultra": 66.4,
+    "1080p_medium": 110.2,
+    "1440p_ultra": 50.2,
+    "4k_ultra": 29.5
+  },
+  {
+    "model_name": "GeForce RTX 2060 Super",
+    "1080p_ultra": 66.2,
+    "1080p_medium": 111.8,
+    "1440p_ultra": 48.1,
+    "4k_ultra": null
+  },
+  {
+    "model_name": "Intel Arc A580",
+    "1080p_ultra": 65.1,
+    "1080p_medium": 101.1,
+    "1440p_ultra": 48.8,
+    "4k_ultra": 27.9
+  },
+  {
+    "model_name": "Radeon RX 5700",
+    "1080p_ultra": 64.5,
+    "1080p_medium": 110.8,
+    "1440p_ultra": 46.7,
+    "4k_ultra": null
+  },
+  {
+    "model_name": "Radeon RX 5600 XT",
+    "1080p_ultra": 57.8,
+    "1080p_medium": 100,
+    "1440p_ultra": 42,
+    "4k_ultra": null
+  },
+  {
+    "model_name": "Radeon RX Vega 64",
+    "1080p_ultra": 56.7,
+    "1080p_medium": 94.3,
+    "1440p_ultra": 41.6,
+    "4k_ultra": 23.5
+  },
+  {
+    "model_name": "GeForce RTX 2060",
+    "1080p_ultra": 55.9,
+    "1080p_medium": 100.2,
+    "1440p_ultra": 39.9,
+    "4k_ultra": null
+  },
+  {
+    "model_name": "GeForce GTX 1080",
+    "1080p_ultra": 53,
+    "1080p_medium": 89.9,
+    "1440p_ultra": 39.4,
+    "4k_ultra": null
+  },
+  {
+    "model_name": "GeForce RTX 3050",
+    "1080p_ultra": 51.9,
+    "1080p_medium": 88.8,
+    "1440p_ultra": 38.5,
+    "4k_ultra": null
+  },
+  {
+    "model_name": "GeForce GTX 1070 Ti",
+    "1080p_ultra": 51.1,
+    "1080p_medium": 85.7,
+    "1440p_ultra": 37.9,
+    "4k_ultra": null
+  },
+  {
+    "model_name": "Radeon RX Vega 56",
+    "1080p_ultra": 50.6,
+    "1080p_medium": 84.2,
+    "1440p_ultra": 37,
+    "4k_ultra": null
+  },
+  {
+    "model_name": "GeForce GTX 1660 Super",
+    "1080p_ultra": 45.3,
+    "1080p_medium": 82.5,
+    "1440p_ultra": 32.5,
+    "4k_ultra": null
+  },
+  {
+    "model_name": "GeForce GTX 1660 Ti",
+    "1080p_ultra": 45,
+    "1080p_medium": 82.1,
+    "1440p_ultra": 32.3,
+    "4k_ultra": null
+  },
+  {
+    "model_name": "GeForce GTX 1070",
+    "1080p_ultra": 44.7,
+    "1080p_medium": 75,
+    "1440p_ultra": 33.1,
+    "4k_ultra": null
+  },
+  {
+    "model_name": "GeForce GTX 1660",
+    "1080p_ultra": 40.3,
+    "1080p_medium": 74.7,
+    "1440p_ultra": 28.7,
+    "4k_ultra": null
+  },
+  {
+    "model_name": "Radeon RX 5500 XT 8GB",
+    "1080p_ultra": 39.7,
+    "1080p_medium": 72.1,
+    "1440p_ultra": 28.2,
+    "4k_ultra": null
+  },
+  {
+    "model_name": "Radeon RX 590",
+    "1080p_ultra": 39.3,
+    "1080p_medium": 68.5,
+    "1440p_ultra": 29,
+    "4k_ultra": null
+  },
+  {
+    "model_name": "GeForce GTX 980 Ti",
+    "1080p_ultra": 35.9,
+    "1080p_medium": 62.6,
+    "1440p_ultra": 26.6,
+    "4k_ultra": null
+  },
+  {
+    "model_name": "Radeon RX 580 8GB",
+    "1080p_ultra": 35.3,
+    "1080p_medium": 61.7,
+    "1440p_ultra": 26,
+    "4k_ultra": null
+  },
+  {
+    "model_name": "Radeon R9 Fury X",
+    "1080p_ultra": 35.2,
+    "1080p_medium": 63.8,
+    "1440p_ultra": null,
+    "4k_ultra": null
+  },
+  {
+    "model_name": "GeForce GTX 1650 Super",
+    "1080p_ultra": 33.9,
+    "1080p_medium": 67.7,
+    "1440p_ultra": null,
+    "4k_ultra": null
+  },
+  {
+    "model_name": "Radeon RX 5500 XT 4GB",
+    "1080p_ultra": 33.3,
+    "1080p_medium": 66.8,
+    "1440p_ultra": null,
+    "4k_ultra": null
+  },
+  {
+    "model_name": "GeForce GTX 1060 6GB",
+    "1080p_ultra": 32.1,
+    "1080p_medium": 57.7,
+    "1440p_ultra": 23,
+    "4k_ultra": null
+  },
+  {
+    "model_name": "Radeon RX 6500 XT",
+    "1080p_ultra": 30.6,
+    "1080p_medium": 65.8,
+    "1440p_ultra": 18,
+    "4k_ultra": null
+  },
+  {
+    "model_name": "Radeon R9 390",
+    "1080p_ultra": 29.8,
+    "1080p_medium": 51.1,
+    "1440p_ultra": null,
+    "4k_ultra": null
+  },
+  {
+    "model_name": "GeForce GTX 980",
+    "1080p_ultra": 28.9,
+    "1080p_medium": 53.6,
+    "1440p_ultra": null,
+    "4k_ultra": null
+  },
+  {
+    "model_name": "GeForce GTX 1650 GDDR6",
+    "1080p_ultra": 28.8,
+    "1080p_medium": 56.6,
+    "1440p_ultra": null,
+    "4k_ultra": null
+  },
+  {
+    "model_name": "Intel Arc A380",
+    "1080p_ultra": 28.4,
+    "1080p_medium": 54.3,
+    "1440p_ultra": 19.5,
+    "4k_ultra": null
+  },
+  {
+    "model_name": "Radeon RX 570 4GB",
+    "1080p_ultra": 28.1,
+    "1080p_medium": 53.6,
+    "1440p_ultra": 19.9,
+    "4k_ultra": null
+  },
+  {
+    "model_name": "GeForce GTX 1650",
+    "1080p_ultra": 27,
+    "1080p_medium": 51.3,
+    "1440p_ultra": null,
+    "4k_ultra": null
+  },
+  {
+    "model_name": "GeForce GTX 970",
+    "1080p_ultra": 26.5,
+    "1080p_medium": 49,
+    "1440p_ultra": null,
+    "4k_ultra": null
+  },
+  {
+    "model_name": "Radeon RX 6400",
+    "1080p_ultra": 24.1,
+    "1080p_medium": 51.1,
+    "1440p_ultra": null,
+    "4k_ultra": null
+  },
+  {
+    "model_name": "GeForce GTX 1050 Ti",
+    "1080p_ultra": 19.8,
+    "1080p_medium": 38,
+    "1440p_ultra": null,
+    "4k_ultra": null
+  },
+  {
+    "model_name": "GeForce GTX 1060 3GB*",
+    "1080p_ultra": null,
+    "1080p_medium": 52.5,
+    "1440p_ultra": null,
+    "4k_ultra": null
+  },
+  {
+    "model_name": "GeForce GTX 1630",
+    "1080p_ultra": 16.9,
+    "1080p_medium": 33.8,
+    "1440p_ultra": null,
+    "4k_ultra": null
+  },
+  {
+    "model_name": "Radeon RX 560 4GB",
+    "1080p_ultra": 14.7,
+    "1080p_medium": 31.7,
+    "1440p_ultra": null,
+    "4k_ultra": null
+  },
+  {
+    "model_name": "GeForce GTX 1050*",
+    "1080p_ultra": null,
+    "1080p_medium": 29.7,
+    "1440p_ultra": null,
+    "4k_ultra": null
+  },
+  {
+    "model_name": "Radeon RX 550 4GB",
+    "1080p_ultra": null,
+    "1080p_medium": 19.5,
+    "1440p_ultra": null,
+    "4k_ultra": null
+  }
+]
