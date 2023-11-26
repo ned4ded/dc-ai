@@ -1,0 +1,30 @@
+{
+  "name": "parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "date-fns": "^2.30.0",
+    "hash-sum": "^2.0.0",
+    "https-proxy-agent": "^7.0.2",
+    "lodash": "^4.17.21",
+    "node-fetch": "^3.3.2",
+    "puppeteer": "^21.5.2",
+    "sharp": "^0.32.6"
+  },
+  "devDependencies": {
+    "@types/hash-sum": "^1.0.2",
+    "@types/lodash": "^4.14.202",
+    "eslint": "^8.54.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-config-prettier": "^9.0.0",
+    "eslint-plugin-import": "^2.29.0"
+  },
+  "author": "",
+  "license": "ISC"
+}

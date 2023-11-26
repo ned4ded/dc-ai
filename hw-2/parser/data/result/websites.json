@@ -1,0 +1,765 @@
+[
+  {
+    "position": 2,
+    "name": "zillow.com",
+    "url": "https://zillow.com/",
+    "category": "business-and-consumer-services",
+    "path": "screenshots/8c9df540_https___zillow.com_.png"
+  },
+  {
+    "position": 3,
+    "name": "usps.com",
+    "url": "https://usps.com/",
+    "category": "business-and-consumer-services",
+    "path": "screenshots/4e4f3456_https___usps.com_.png"
+  },
+  {
+    "position": 6,
+    "name": "ups.com",
+    "url": "https://ups.com/",
+    "category": "business-and-consumer-services",
+    "path": "screenshots/232df189_https___ups.com_.png"
+  },
+  {
+    "position": 9,
+    "name": "realtor.com",
+    "url": "https://realtor.com/",
+    "category": "business-and-consumer-services",
+    "path": "screenshots/3d7521e8_https___realtor.com_.png"
+  },
+  {
+    "position": 11,
+    "name": "shopify.com",
+    "url": "https://shopify.com/",
+    "category": "business-and-consumer-services",
+    "path": "screenshots/6a17b4bb_https___shopify.com_.png"
+  },
+  {
+    "position": 12,
+    "name": "redfin.com",
+    "url": "https://redfin.com/",
+    "category": "business-and-consumer-services",
+    "path": "screenshots/398bb706_https___redfin.com_.png"
+  },
+  {
+    "position": 16,
+    "name": "shop.app",
+    "url": "https://shop.app/",
+    "category": "business-and-consumer-services",
+    "path": "screenshots/7513bf01_https___shop.app_.png"
+  },
+  {
+    "position": 23,
+    "name": "realestate.com.au",
+    "url": "https://realestate.com.au/",
+    "category": "business-and-consumer-services",
+    "path": "screenshots/71e67ae2_https___realestate.com.au_.png"
+  },
+  {
+    "position": 26,
+    "name": "dhl.com",
+    "url": "https://dhl.com/",
+    "category": "business-and-consumer-services",
+    "path": "screenshots/ebd39f4e_https___dhl.com_.png"
+  },
+  {
+    "position": 27,
+    "name": "service-now.com",
+    "url": "https://service-now.com/",
+    "category": "business-and-consumer-services",
+    "path": "screenshots/709e7c7a_https___service-now.com_.png"
+  },
+  {
+    "position": 32,
+    "name": "totaladblock.com",
+    "url": "https://totaladblock.com/",
+    "category": "business-and-consumer-services",
+    "path": "screenshots/5060a711_https___totaladblock.com_.png"
+  },
+  {
+    "position": 34,
+    "name": "hubspot.com",
+    "url": "https://hubspot.com/",
+    "category": "business-and-consumer-services",
+    "path": "screenshots/b6455fac_https___hubspot.com_.png"
+  },
+  {
+    "position": 37,
+    "name": "pochta.ru",
+    "url": "https://pochta.ru/",
+    "category": "business-and-consumer-services",
+    "path": "screenshots/4ffc2d74_https___pochta.ru_.png"
+  },
+  {
+    "position": 42,
+    "name": "trulia.com",
+    "url": "https://trulia.com/",
+    "category": "business-and-consumer-services",
+    "path": "screenshots/b33c966c_https___trulia.com_.png"
+  },
+  {
+    "position": 43,
+    "name": "cian.ru",
+    "url": "https://cian.ru/",
+    "category": "business-and-consumer-services",
+    "path": "screenshots/47c3c4b6_https___cian.ru_.png"
+  },
+  {
+    "position": 45,
+    "name": "chatwork.com",
+    "url": "https://chatwork.com/",
+    "category": "business-and-consumer-services",
+    "path": "screenshots/52d6da8e_https___chatwork.com_.png"
+  },
+  {
+    "position": 50,
+    "name": "evri.com",
+    "url": "https://evri.com/",
+    "category": "business-and-consumer-services",
+    "path": "screenshots/cb3069a2_https___evri.com_.png"
+  },
+  {
+    "position": 6,
+    "name": "yandex.ru",
+    "url": "https://yandex.ru/",
+    "category": "computers-electronics-and-technology",
+    "path": "screenshots/55928154_https___yandex.ru_.png"
+  },
+  {
+    "position": 7,
+    "name": "whatsapp.com",
+    "url": "https://whatsapp.com/",
+    "category": "computers-electronics-and-technology",
+    "path": "screenshots/d7261df6_https___whatsapp.com_.png"
+  },
+  {
+    "position": 8,
+    "name": "tiktok.com",
+    "url": "https://tiktok.com/",
+    "category": "computers-electronics-and-technology",
+    "path": "screenshots/5ac0b546_https___tiktok.com_.png"
+  },
+  {
+    "position": 9,
+    "name": "live.com",
+    "url": "https://live.com/",
+    "category": "computers-electronics-and-technology",
+    "path": "screenshots/2e9d176b_https___live.com_.png"
+  },
+  {
+    "position": 14,
+    "name": "office.com",
+    "url": "https://office.com/",
+    "category": "computers-electronics-and-technology",
+    "path": "screenshots/2c40e0db_https___office.com_.png"
+  },
+  {
+    "position": 17,
+    "name": "mail.ru",
+    "url": "https://mail.ru/",
+    "category": "computers-electronics-and-technology",
+    "path": "screenshots/862f7d4c_https___mail.ru_.png"
+  },
+  {
+    "position": 19,
+    "name": "vk.com",
+    "url": "https://vk.com/",
+    "category": "computers-electronics-and-technology",
+    "path": "screenshots/b4a92bfc_https___vk.com_.png"
+  },
+  {
+    "position": 20,
+    "name": "pinterest.com",
+    "url": "https://pinterest.com/",
+    "category": "computers-electronics-and-technology",
+    "path": "screenshots/37b904a7_https___pinterest.com_.png"
+  },
+  {
+    "position": 21,
+    "name": "microsoft.com",
+    "url": "https://microsoft.com/",
+    "category": "computers-electronics-and-technology",
+    "path": "screenshots/dc1c805a_https___microsoft.com_.png"
+  },
+  {
+    "position": 22,
+    "name": "discord.com",
+    "url": "https://discord.com/",
+    "category": "computers-electronics-and-technology",
+    "path": "screenshots/c90830d6_https___discord.com_.png"
+  },
+  {
+    "position": 25,
+    "name": "sharepoint.com",
+    "url": "https://sharepoint.com/",
+    "category": "computers-electronics-and-technology",
+    "path": "screenshots/6d06a3b4_https___sharepoint.com_.png"
+  },
+  {
+    "position": 29,
+    "name": "ok.ru",
+    "url": "https://ok.ru/",
+    "category": "computers-electronics-and-technology",
+    "path": "screenshots/3334dc3f_https___ok.ru_.png"
+  },
+  {
+    "position": 31,
+    "name": "ya.ru",
+    "url": "https://ya.ru/",
+    "category": "computers-electronics-and-technology",
+    "path": "screenshots/43b8676b_https___ya.ru_.png"
+  },
+  {
+    "position": 32,
+    "name": "apple.com",
+    "url": "https://apple.com/",
+    "category": "computers-electronics-and-technology",
+    "path": "screenshots/dca84932_https___apple.com_.png"
+  },
+  {
+    "position": 35,
+    "name": "github.com",
+    "url": "https://github.com/",
+    "category": "computers-electronics-and-technology",
+    "path": "screenshots/6e33b7d8_https___github.com_.png"
+  },
+  {
+    "position": 40,
+    "name": "office365.com",
+    "url": "https://office365.com/",
+    "category": "computers-electronics-and-technology",
+    "path": "screenshots/268c97cb_https___office365.com_.png"
+  },
+  {
+    "position": 45,
+    "name": "wordpress.com",
+    "url": "https://wordpress.com/",
+    "category": "computers-electronics-and-technology",
+    "path": "screenshots/49ca1c28_https___wordpress.com_.png"
+  },
+  {
+    "position": 48,
+    "name": "fc2.com",
+    "url": "https://fc2.com/",
+    "category": "computers-electronics-and-technology",
+    "path": "screenshots/233f6468_https___fc2.com_.png"
+  },
+  {
+    "position": 49,
+    "name": "music.youtube.com",
+    "url": "https://music.youtube.com/",
+    "category": "computers-electronics-and-technology",
+    "path": "screenshots/31d77567_https___music.youtube.com_.png"
+  },
+  {
+    "position": 50,
+    "name": "google.it",
+    "url": "https://google.it/",
+    "category": "computers-electronics-and-technology",
+    "path": "screenshots/55a089b4_https___google.it_.png"
+  },
+  {
+    "position": 8,
+    "name": "aliexpress.com",
+    "url": "https://aliexpress.com/",
+    "category": "e-commerce-and-shopping",
+    "path": "screenshots/40a557c5_https___aliexpress.com_.png"
+  },
+  {
+    "position": 10,
+    "name": "ozon.ru",
+    "url": "https://ozon.ru/",
+    "category": "e-commerce-and-shopping",
+    "path": "screenshots/7d00b1a6_https___ozon.ru_.png"
+  },
+  {
+    "position": 11,
+    "name": "walmart.com",
+    "url": "https://walmart.com/",
+    "category": "e-commerce-and-shopping",
+    "path": "screenshots/102ceb89_https___walmart.com_.png"
+  },
+  {
+    "position": 12,
+    "name": "avito.ru",
+    "url": "https://avito.ru/",
+    "category": "e-commerce-and-shopping",
+    "path": "screenshots/f90195f0_https___avito.ru_.png"
+  },
+  {
+    "position": 18,
+    "name": "mercadolivre.com.br",
+    "url": "https://mercadolivre.com.br/",
+    "category": "e-commerce-and-shopping",
+    "path": "screenshots/e4febd1c_https___mercadolivre.com.br_.png"
+  },
+  {
+    "position": 20,
+    "name": "ebay.co.uk",
+    "url": "https://ebay.co.uk/",
+    "category": "e-commerce-and-shopping",
+    "path": "screenshots/2f50c46b_https___ebay.co.uk_.png"
+  },
+  {
+    "position": 22,
+    "name": "market.yandex.ru",
+    "url": "https://market.yandex.ru/",
+    "category": "e-commerce-and-shopping",
+    "path": "screenshots/3907fcc8_https___market.yandex.ru_.png"
+  },
+  {
+    "position": 23,
+    "name": "amazon.com.br",
+    "url": "https://amazon.com.br/",
+    "category": "e-commerce-and-shopping",
+    "path": "screenshots/63fcb60d_https___amazon.com.br_.png"
+  },
+  {
+    "position": 32,
+    "name": "ebay.de",
+    "url": "https://ebay.de/",
+    "category": "e-commerce-and-shopping",
+    "path": "screenshots/b455688c_https___ebay.de_.png"
+  },
+  {
+    "position": 36,
+    "name": "mercari.com",
+    "url": "https://mercari.com/",
+    "category": "e-commerce-and-shopping",
+    "path": "screenshots/19d37a9c_https___mercari.com_.png"
+  },
+  {
+    "position": 37,
+    "name": "amazon.es",
+    "url": "https://amazon.es/",
+    "category": "e-commerce-and-shopping",
+    "path": "screenshots/907b7648_https___amazon.es_.png"
+  },
+  {
+    "position": 42,
+    "name": "ticketmaster.com",
+    "url": "https://ticketmaster.com/",
+    "category": "e-commerce-and-shopping",
+    "path": "screenshots/7d28fbae_https___ticketmaster.com_.png"
+  },
+  {
+    "position": 49,
+    "name": "olx.pl",
+    "url": "https://olx.pl/",
+    "category": "e-commerce-and-shopping",
+    "path": "screenshots/390f5b1b_https___olx.pl_.png"
+  },
+  {
+    "position": 4,
+    "name": "allrecipes.com",
+    "url": "https://allrecipes.com/",
+    "category": "food-and-drink",
+    "path": "screenshots/572d9733_https___allrecipes.com_.png"
+  },
+  {
+    "position": 17,
+    "name": "opentable.com",
+    "url": "https://opentable.com/",
+    "category": "food-and-drink",
+    "path": "screenshots/65e05a86_https___opentable.com_.png"
+  },
+  {
+    "position": 21,
+    "name": "otzovik.com",
+    "url": "https://otzovik.com/",
+    "category": "food-and-drink",
+    "path": "screenshots/03a9e3fa_https___otzovik.com_.png"
+  },
+  {
+    "position": 27,
+    "name": "instacart.com",
+    "url": "https://instacart.com/",
+    "category": "food-and-drink",
+    "path": "screenshots/f7c6af34_https___instacart.com_.png"
+  },
+  {
+    "position": 29,
+    "name": "asda.com",
+    "url": "https://asda.com/",
+    "category": "food-and-drink",
+    "path": "screenshots/1f748608_https___asda.com_.png"
+  },
+  {
+    "position": 33,
+    "name": "1000.menu",
+    "url": "https://1000.menu/",
+    "category": "food-and-drink",
+    "path": "screenshots/0bb02234_https___1000.menu_.png"
+  },
+  {
+    "position": 36,
+    "name": "thekitchn.com",
+    "url": "https://thekitchn.com/",
+    "category": "food-and-drink",
+    "path": "screenshots/292eb4bd_https___thekitchn.com_.png"
+  },
+  {
+    "position": 37,
+    "name": "recipetineats.com",
+    "url": "https://recipetineats.com/",
+    "category": "food-and-drink",
+    "path": "screenshots/4c02425b_https___recipetineats.com_.png"
+  },
+  {
+    "position": 38,
+    "name": "woolworths.com.au",
+    "url": "https://woolworths.com.au/",
+    "category": "food-and-drink",
+    "path": "screenshots/301c6682_https___woolworths.com.au_.png"
+  },
+  {
+    "position": 40,
+    "name": "chocozap.jp",
+    "url": "https://chocozap.jp/",
+    "category": "food-and-drink",
+    "path": "screenshots/5945ff5a_https___chocozap.jp_.png"
+  },
+  {
+    "position": 42,
+    "name": "mcdonalds.com",
+    "url": "https://mcdonalds.com/",
+    "category": "food-and-drink",
+    "path": "screenshots/3fa510fa_https___mcdonalds.com_.png"
+  },
+  {
+    "position": 46,
+    "name": "starbucks.com",
+    "url": "https://starbucks.com/",
+    "category": "food-and-drink",
+    "path": "screenshots/13266a0a_https___starbucks.com_.png"
+  },
+  {
+    "position": 49,
+    "name": "thepioneerwoman.com",
+    "url": "https://thepioneerwoman.com/",
+    "category": "food-and-drink",
+    "path": "screenshots/29f95c68_https___thepioneerwoman.com_.png"
+  },
+  {
+    "position": 1,
+    "name": "twitch.tv",
+    "url": "https://twitch.tv/",
+    "category": "games",
+    "path": "screenshots/de90f052_https___twitch.tv_.png"
+  },
+  {
+    "position": 2,
+    "name": "roblox.com",
+    "url": "https://roblox.com/",
+    "category": "games",
+    "path": "screenshots/034c98a7_https___roblox.com_.png"
+  },
+  {
+    "position": 6,
+    "name": "steampowered.com",
+    "url": "https://steampowered.com/",
+    "category": "games",
+    "path": "screenshots/7d199943_https___steampowered.com_.png"
+  },
+  {
+    "position": 8,
+    "name": "steamcommunity.com",
+    "url": "https://steamcommunity.com/",
+    "category": "games",
+    "path": "screenshots/329b9e1e_https___steamcommunity.com_.png"
+  },
+  {
+    "position": 14,
+    "name": "lichess.org",
+    "url": "https://lichess.org/",
+    "category": "games",
+    "path": "screenshots/8cfe530a_https___lichess.org_.png"
+  },
+  {
+    "position": 16,
+    "name": "nexusmods.com",
+    "url": "https://nexusmods.com/",
+    "category": "games",
+    "path": "screenshots/060df3d1_https___nexusmods.com_.png"
+  },
+  {
+    "position": 18,
+    "name": "gamerant.com",
+    "url": "https://gamerant.com/",
+    "category": "games",
+    "path": "screenshots/298e4090_https___gamerant.com_.png"
+  },
+  {
+    "position": 19,
+    "name": "ea.com",
+    "url": "https://ea.com/",
+    "category": "games",
+    "path": "screenshots/1151047b_https___ea.com_.png"
+  },
+  {
+    "position": 20,
+    "name": "epicgames.com",
+    "url": "https://epicgames.com/",
+    "category": "games",
+    "path": "screenshots/67e342a5_https___epicgames.com_.png"
+  },
+  {
+    "position": 21,
+    "name": "poe.com",
+    "url": "https://poe.com/",
+    "category": "games",
+    "path": "screenshots/6204058a_https___poe.com_.png"
+  },
+  {
+    "position": 22,
+    "name": "rummycircle.com",
+    "url": "https://rummycircle.com/",
+    "category": "games",
+    "path": "screenshots/72feef0a_https___rummycircle.com_.png"
+  },
+  {
+    "position": 23,
+    "name": "futbin.com",
+    "url": "https://futbin.com/",
+    "category": "games",
+    "path": "screenshots/5c49dc16_https___futbin.com_.png"
+  },
+  {
+    "position": 24,
+    "name": "op.gg",
+    "url": "https://op.gg/",
+    "category": "games",
+    "path": "screenshots/337b26c7_https___op.gg_.png"
+  },
+  {
+    "position": 25,
+    "name": "xbox.com",
+    "url": "https://xbox.com/",
+    "category": "games",
+    "path": "screenshots/0e6af338_https___xbox.com_.png"
+  },
+  {
+    "position": 30,
+    "name": "appblock.app",
+    "url": "https://appblock.app/",
+    "category": "games",
+    "path": "screenshots/71a949aa_https___appblock.app_.png"
+  },
+  {
+    "position": 31,
+    "name": "playstation.com",
+    "url": "https://playstation.com/",
+    "category": "games",
+    "path": "screenshots/6a04c97e_https___playstation.com_.png"
+  },
+  {
+    "position": 38,
+    "name": "crazygames.com",
+    "url": "https://crazygames.com/",
+    "category": "games",
+    "path": "screenshots/25807472_https___crazygames.com_.png"
+  },
+  {
+    "position": 39,
+    "name": "dexerto.com",
+    "url": "https://dexerto.com/",
+    "category": "games",
+    "path": "screenshots/2bd307bc_https___dexerto.com_.png"
+  },
+  {
+    "position": 40,
+    "name": "nintendo.com",
+    "url": "https://nintendo.com/",
+    "category": "games",
+    "path": "screenshots/77520542_https___nintendo.com_.png"
+  },
+  {
+    "position": 46,
+    "name": "lego.com",
+    "url": "https://lego.com/",
+    "category": "games",
+    "path": "screenshots/f2a93d54_https___lego.com_.png"
+  },
+  {
+    "position": 48,
+    "name": "hoyoverse.com",
+    "url": "https://hoyoverse.com/",
+    "category": "games",
+    "path": "screenshots/0a44f209_https___hoyoverse.com_.png"
+  },
+  {
+    "position": 49,
+    "name": "riotgames.com",
+    "url": "https://riotgames.com/",
+    "category": "games",
+    "path": "screenshots/6beb113c_https___riotgames.com_.png"
+  },
+  {
+    "position": 5,
+    "name": "vseinstrumenti.ru",
+    "url": "https://vseinstrumenti.ru/",
+    "category": "home-and-garden",
+    "path": "screenshots/755c5a06_https___vseinstrumenti.ru_.png"
+  },
+  {
+    "position": 12,
+    "name": "sikayetvar.com",
+    "url": "https://sikayetvar.com/",
+    "category": "home-and-garden",
+    "path": "screenshots/150d970c_https___sikayetvar.com_.png"
+  },
+  {
+    "position": 15,
+    "name": "countryliving.com",
+    "url": "https://countryliving.com/",
+    "category": "home-and-garden",
+    "path": "screenshots/152e2f22_https___countryliving.com_.png"
+  },
+  {
+    "position": 25,
+    "name": "consumerreports.org",
+    "url": "https://consumerreports.org/",
+    "category": "home-and-garden",
+    "path": "screenshots/716c63d5_https___consumerreports.org_.png"
+  },
+  {
+    "position": 31,
+    "name": "houzz.com",
+    "url": "https://houzz.com/",
+    "category": "home-and-garden",
+    "path": "screenshots/8987319a_https___houzz.com_.png"
+  },
+  {
+    "position": 40,
+    "name": "bauhaus.info",
+    "url": "https://bauhaus.info/",
+    "category": "home-and-garden",
+    "path": "screenshots/43453c4a_https___bauhaus.info_.png"
+  },
+  {
+    "position": 42,
+    "name": "homesandgardens.com",
+    "url": "https://homesandgardens.com/",
+    "category": "home-and-garden",
+    "path": "screenshots/13819f86_https___homesandgardens.com_.png"
+  },
+  {
+    "position": 46,
+    "name": "williams-sonoma.com",
+    "url": "https://williams-sonoma.com/",
+    "category": "home-and-garden",
+    "path": "screenshots/21fb2e9a_https___williams-sonoma.com_.png"
+  },
+  {
+    "position": 47,
+    "name": "wink.ru",
+    "url": "https://wink.ru/",
+    "category": "home-and-garden",
+    "path": "screenshots/7b5fffb2_https___wink.ru_.png"
+  },
+  {
+    "position": 19,
+    "name": "infobae.com",
+    "url": "https://infobae.com/",
+    "category": "news-and-media",
+    "path": "screenshots/6de1b7a9_https___infobae.com_.png"
+  },
+  {
+    "position": 22,
+    "name": "news.yahoo.com",
+    "url": "https://news.yahoo.com/",
+    "category": "news-and-media",
+    "path": "screenshots/2bbfc652_https___news.yahoo.com_.png"
+  },
+  {
+    "position": 23,
+    "name": "finance.yahoo.com",
+    "url": "https://finance.yahoo.com/",
+    "category": "news-and-media",
+    "path": "screenshots/696eb856_https___finance.yahoo.com_.png"
+  },
+  {
+    "position": 25,
+    "name": "timesofindia.com",
+    "url": "https://timesofindia.com/",
+    "category": "news-and-media",
+    "path": "screenshots/7e957346_https___timesofindia.com_.png"
+  },
+  {
+    "position": 30,
+    "name": "indiatimes.com",
+    "url": "https://indiatimes.com/",
+    "category": "news-and-media",
+    "path": "screenshots/43d0acf0_https___indiatimes.com_.png"
+  },
+  {
+    "position": 37,
+    "name": "rbc.ru",
+    "url": "https://rbc.ru/",
+    "category": "news-and-media",
+    "path": "screenshots/74ec9ca8_https___rbc.ru_.png"
+  },
+  {
+    "position": 38,
+    "name": "kompas.com",
+    "url": "https://kompas.com/",
+    "category": "news-and-media",
+    "path": "screenshots/0261b53e_https___kompas.com_.png"
+  },
+  {
+    "position": 47,
+    "name": "usatoday.com",
+    "url": "https://usatoday.com/",
+    "category": "news-and-media",
+    "path": "screenshots/2f0e230e_https___usatoday.com_.png"
+  },
+  {
+    "position": 12,
+    "name": "sports.yahoo.com",
+    "url": "https://sports.yahoo.com/",
+    "category": "sprots",
+    "path": "screenshots/179f2934_https___sports.yahoo.com_.png"
+  },
+  {
+    "position": 26,
+    "name": "yr.no",
+    "url": "https://yr.no/",
+    "category": "sprots",
+    "path": "screenshots/44a7e73e_https___yr.no_.png"
+  },
+  {
+    "position": 28,
+    "name": "gazzetta.it",
+    "url": "https://gazzetta.it/",
+    "category": "sprots",
+    "path": "screenshots/f6cfd89e_https___gazzetta.it_.png"
+  },
+  {
+    "position": 32,
+    "name": "skysports.com",
+    "url": "https://skysports.com/",
+    "category": "sprots",
+    "path": "screenshots/93dddfbe_https___skysports.com_.png"
+  },
+  {
+    "position": 42,
+    "name": "sport24.ru",
+    "url": "https://sport24.ru/",
+    "category": "sprots",
+    "path": "screenshots/1483db2f_https___sport24.ru_.png"
+  },
+  {
+    "position": 45,
+    "name": "nbcsports.com",
+    "url": "https://nbcsports.com/",
+    "category": "sprots",
+    "path": "screenshots/40dcaf53_https___nbcsports.com_.png"
+  },
+  {
+    "position": 50,
+    "name": "bola.com",
+    "url": "https://bola.com/",
+    "category": "sprots",
+    "path": "screenshots/8933c8d6_https___bola.com_.png"
+  }
+]

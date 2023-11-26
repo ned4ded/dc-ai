@@ -1,0 +1,2402 @@
+[
+  {
+    "position": 1,
+    "name": "tsyndicate.com",
+    "url": "https://tsyndicate.com/",
+    "category": "business-and-consumer-services"
+  },
+  {
+    "position": 2,
+    "name": "zillow.com",
+    "url": "https://zillow.com/",
+    "category": "business-and-consumer-services"
+  },
+  {
+    "position": 3,
+    "name": "usps.com",
+    "url": "https://usps.com/",
+    "category": "business-and-consumer-services"
+  },
+  {
+    "position": 4,
+    "name": "lazlogistics.ph",
+    "url": "https://lazlogistics.ph/",
+    "category": "business-and-consumer-services"
+  },
+  {
+    "position": 5,
+    "name": "canadapost-postescanada.ca",
+    "url": "https://canadapost-postescanada.ca/",
+    "category": "business-and-consumer-services"
+  },
+  {
+    "position": 6,
+    "name": "ups.com",
+    "url": "https://ups.com/",
+    "category": "business-and-consumer-services"
+  },
+  {
+    "position": 7,
+    "name": "medium.com",
+    "url": "https://medium.com/",
+    "category": "business-and-consumer-services"
+  },
+  {
+    "position": 8,
+    "name": "fedex.com",
+    "url": "https://fedex.com/",
+    "category": "business-and-consumer-services"
+  },
+  {
+    "position": 9,
+    "name": "realtor.com",
+    "url": "https://realtor.com/",
+    "category": "business-and-consumer-services"
+  },
+  {
+    "position": 10,
+    "name": "narvar.com",
+    "url": "https://narvar.com/",
+    "category": "business-and-consumer-services"
+  },
+  {
+    "position": 11,
+    "name": "shopify.com",
+    "url": "https://shopify.com/",
+    "category": "business-and-consumer-services"
+  },
+  {
+    "position": 12,
+    "name": "redfin.com",
+    "url": "https://redfin.com/",
+    "category": "business-and-consumer-services"
+  },
+  {
+    "position": 13,
+    "name": "impress.co.jp",
+    "url": "https://impress.co.jp/",
+    "category": "business-and-consumer-services"
+  },
+  {
+    "position": 14,
+    "name": "rightmove.co.uk",
+    "url": "https://rightmove.co.uk/",
+    "category": "business-and-consumer-services"
+  },
+  {
+    "position": 15,
+    "name": "qualtrics.com",
+    "url": "https://qualtrics.com/",
+    "category": "business-and-consumer-services"
+  },
+  {
+    "position": 16,
+    "name": "shop.app",
+    "url": "https://shop.app/",
+    "category": "business-and-consumer-services"
+  },
+  {
+    "position": 17,
+    "name": "dhl.de",
+    "url": "https://dhl.de/",
+    "category": "business-and-consumer-services"
+  },
+  {
+    "position": 18,
+    "name": "attn.tv",
+    "url": "https://attn.tv/",
+    "category": "business-and-consumer-services"
+  },
+  {
+    "position": 19,
+    "name": "mynavi.jp",
+    "url": "https://mynavi.jp/",
+    "category": "business-and-consumer-services"
+  },
+  {
+    "position": 20,
+    "name": "business.site",
+    "url": "https://business.site/",
+    "category": "business-and-consumer-services"
+  },
+  {
+    "position": 21,
+    "name": "kindred.co",
+    "url": "https://kindred.co/",
+    "category": "business-and-consumer-services"
+  },
+  {
+    "position": 22,
+    "name": "docusign.net",
+    "url": "https://docusign.net/",
+    "category": "business-and-consumer-services"
+  },
+  {
+    "position": 23,
+    "name": "realestate.com.au",
+    "url": "https://realestate.com.au/",
+    "category": "business-and-consumer-services"
+  },
+  {
+    "position": 24,
+    "name": "gls-pakete.de",
+    "url": "https://gls-pakete.de/",
+    "category": "business-and-consumer-services"
+  },
+  {
+    "position": 25,
+    "name": "idealista.com",
+    "url": "https://idealista.com/",
+    "category": "business-and-consumer-services"
+  },
+  {
+    "position": 26,
+    "name": "dhl.com",
+    "url": "https://dhl.com/",
+    "category": "business-and-consumer-services"
+  },
+  {
+    "position": 27,
+    "name": "service-now.com",
+    "url": "https://service-now.com/",
+    "category": "business-and-consumer-services"
+  },
+  {
+    "position": 28,
+    "name": "kmail-lists.com",
+    "url": "https://kmail-lists.com/",
+    "category": "business-and-consumer-services"
+  },
+  {
+    "position": 29,
+    "name": "kuronekoyamato.co.jp",
+    "url": "https://kuronekoyamato.co.jp/",
+    "category": "business-and-consumer-services"
+  },
+  {
+    "position": 30,
+    "name": "liftoff.io",
+    "url": "https://liftoff.io/",
+    "category": "business-and-consumer-services"
+  },
+  {
+    "position": 31,
+    "name": "springer.com",
+    "url": "https://springer.com/",
+    "category": "business-and-consumer-services"
+  },
+  {
+    "position": 32,
+    "name": "totaladblock.com",
+    "url": "https://totaladblock.com/",
+    "category": "business-and-consumer-services"
+  },
+  {
+    "position": 33,
+    "name": "reclameaqui.com.br",
+    "url": "https://reclameaqui.com.br/",
+    "category": "business-and-consumer-services"
+  },
+  {
+    "position": 34,
+    "name": "hubspot.com",
+    "url": "https://hubspot.com/",
+    "category": "business-and-consumer-services"
+  },
+  {
+    "position": 35,
+    "name": "immobilienscout24.de",
+    "url": "https://immobilienscout24.de/",
+    "category": "business-and-consumer-services"
+  },
+  {
+    "position": 36,
+    "name": "suumo.jp",
+    "url": "https://suumo.jp/",
+    "category": "business-and-consumer-services"
+  },
+  {
+    "position": 37,
+    "name": "pochta.ru",
+    "url": "https://pochta.ru/",
+    "category": "business-and-consumer-services"
+  },
+  {
+    "position": 38,
+    "name": "myshopify.com",
+    "url": "https://myshopify.com/",
+    "category": "business-and-consumer-services"
+  },
+  {
+    "position": 39,
+    "name": "homes.com",
+    "url": "https://homes.com/",
+    "category": "business-and-consumer-services"
+  },
+  {
+    "position": 40,
+    "name": "squareup.com",
+    "url": "https://squareup.com/",
+    "category": "business-and-consumer-services"
+  },
+  {
+    "position": 41,
+    "name": "apartments.com",
+    "url": "https://apartments.com/",
+    "category": "business-and-consumer-services"
+  },
+  {
+    "position": 42,
+    "name": "trulia.com",
+    "url": "https://trulia.com/",
+    "category": "business-and-consumer-services"
+  },
+  {
+    "position": 43,
+    "name": "cian.ru",
+    "url": "https://cian.ru/",
+    "category": "business-and-consumer-services"
+  },
+  {
+    "position": 44,
+    "name": "klclick.com",
+    "url": "https://klclick.com/",
+    "category": "business-and-consumer-services"
+  },
+  {
+    "position": 45,
+    "name": "chatwork.com",
+    "url": "https://chatwork.com/",
+    "category": "business-and-consumer-services"
+  },
+  {
+    "position": 46,
+    "name": "immobiliare.it",
+    "url": "https://immobiliare.it/",
+    "category": "business-and-consumer-services"
+  },
+  {
+    "position": 47,
+    "name": "funda.nl",
+    "url": "https://funda.nl/",
+    "category": "business-and-consumer-services"
+  },
+  {
+    "position": 48,
+    "name": "cybozu.com",
+    "url": "https://cybozu.com/",
+    "category": "business-and-consumer-services"
+  },
+  {
+    "position": 49,
+    "name": "idealista.it",
+    "url": "https://idealista.it/",
+    "category": "business-and-consumer-services"
+  },
+  {
+    "position": 50,
+    "name": "evri.com",
+    "url": "https://evri.com/",
+    "category": "business-and-consumer-services"
+  },
+  {
+    "position": 1,
+    "name": "google.com",
+    "url": "https://google.com/",
+    "category": "computers-electronics-and-technology"
+  },
+  {
+    "position": 2,
+    "name": "facebook.com",
+    "url": "https://facebook.com/",
+    "category": "computers-electronics-and-technology"
+  },
+  {
+    "position": 3,
+    "name": "instagram.com",
+    "url": "https://instagram.com/",
+    "category": "computers-electronics-and-technology"
+  },
+  {
+    "position": 4,
+    "name": "twitter.com",
+    "url": "https://twitter.com/",
+    "category": "computers-electronics-and-technology"
+  },
+  {
+    "position": 5,
+    "name": "baidu.com",
+    "url": "https://baidu.com/",
+    "category": "computers-electronics-and-technology"
+  },
+  {
+    "position": 6,
+    "name": "yandex.ru",
+    "url": "https://yandex.ru/",
+    "category": "computers-electronics-and-technology"
+  },
+  {
+    "position": 7,
+    "name": "whatsapp.com",
+    "url": "https://whatsapp.com/",
+    "category": "computers-electronics-and-technology"
+  },
+  {
+    "position": 8,
+    "name": "tiktok.com",
+    "url": "https://tiktok.com/",
+    "category": "computers-electronics-and-technology"
+  },
+  {
+    "position": 9,
+    "name": "live.com",
+    "url": "https://live.com/",
+    "category": "computers-electronics-and-technology"
+  },
+  {
+    "position": 10,
+    "name": "reddit.com",
+    "url": "https://reddit.com/",
+    "category": "computers-electronics-and-technology"
+  },
+  {
+    "position": 11,
+    "name": "docomo.ne.jp",
+    "url": "https://docomo.ne.jp/",
+    "category": "computers-electronics-and-technology"
+  },
+  {
+    "position": 12,
+    "name": "linkedin.com",
+    "url": "https://linkedin.com/",
+    "category": "computers-electronics-and-technology"
+  },
+  {
+    "position": 13,
+    "name": "openai.com",
+    "url": "https://openai.com/",
+    "category": "computers-electronics-and-technology"
+  },
+  {
+    "position": 14,
+    "name": "office.com",
+    "url": "https://office.com/",
+    "category": "computers-electronics-and-technology"
+  },
+  {
+    "position": 15,
+    "name": "microsoftonline.com",
+    "url": "https://microsoftonline.com/",
+    "category": "computers-electronics-and-technology"
+  },
+  {
+    "position": 16,
+    "name": "bing.com",
+    "url": "https://bing.com/",
+    "category": "computers-electronics-and-technology"
+  },
+  {
+    "position": 17,
+    "name": "mail.ru",
+    "url": "https://mail.ru/",
+    "category": "computers-electronics-and-technology"
+  },
+  {
+    "position": 18,
+    "name": "samsung.com",
+    "url": "https://samsung.com/",
+    "category": "computers-electronics-and-technology"
+  },
+  {
+    "position": 19,
+    "name": "vk.com",
+    "url": "https://vk.com/",
+    "category": "computers-electronics-and-technology"
+  },
+  {
+    "position": 20,
+    "name": "pinterest.com",
+    "url": "https://pinterest.com/",
+    "category": "computers-electronics-and-technology"
+  },
+  {
+    "position": 21,
+    "name": "microsoft.com",
+    "url": "https://microsoft.com/",
+    "category": "computers-electronics-and-technology"
+  },
+  {
+    "position": 22,
+    "name": "discord.com",
+    "url": "https://discord.com/",
+    "category": "computers-electronics-and-technology"
+  },
+  {
+    "position": 23,
+    "name": "zoom.us",
+    "url": "https://zoom.us/",
+    "category": "computers-electronics-and-technology"
+  },
+  {
+    "position": 24,
+    "name": "duckduckgo.com",
+    "url": "https://duckduckgo.com/",
+    "category": "computers-electronics-and-technology"
+  },
+  {
+    "position": 25,
+    "name": "sharepoint.com",
+    "url": "https://sharepoint.com/",
+    "category": "computers-electronics-and-technology"
+  },
+  {
+    "position": 26,
+    "name": "t.me",
+    "url": "https://t.me/",
+    "category": "computers-electronics-and-technology"
+  },
+  {
+    "position": 27,
+    "name": "google.com.br",
+    "url": "https://google.com.br/",
+    "category": "computers-electronics-and-technology"
+  },
+  {
+    "position": 28,
+    "name": "zhihu.com",
+    "url": "https://zhihu.com/",
+    "category": "computers-electronics-and-technology"
+  },
+  {
+    "position": 29,
+    "name": "ok.ru",
+    "url": "https://ok.ru/",
+    "category": "computers-electronics-and-technology"
+  },
+  {
+    "position": 30,
+    "name": "canva.com",
+    "url": "https://canva.com/",
+    "category": "computers-electronics-and-technology"
+  },
+  {
+    "position": 31,
+    "name": "ya.ru",
+    "url": "https://ya.ru/",
+    "category": "computers-electronics-and-technology"
+  },
+  {
+    "position": 32,
+    "name": "apple.com",
+    "url": "https://apple.com/",
+    "category": "computers-electronics-and-technology"
+  },
+  {
+    "position": 33,
+    "name": "ssyoutube.com",
+    "url": "https://ssyoutube.com/",
+    "category": "computers-electronics-and-technology"
+  },
+  {
+    "position": 34,
+    "name": "yiyouliao.com",
+    "url": "https://yiyouliao.com/",
+    "category": "computers-electronics-and-technology"
+  },
+  {
+    "position": 35,
+    "name": "github.com",
+    "url": "https://github.com/",
+    "category": "computers-electronics-and-technology"
+  },
+  {
+    "position": 36,
+    "name": "google.de",
+    "url": "https://google.de/",
+    "category": "computers-electronics-and-technology"
+  },
+  {
+    "position": 37,
+    "name": "messenger.com",
+    "url": "https://messenger.com/",
+    "category": "computers-electronics-and-technology"
+  },
+  {
+    "position": 38,
+    "name": "line.me",
+    "url": "https://line.me/",
+    "category": "computers-electronics-and-technology"
+  },
+  {
+    "position": 39,
+    "name": "google.co.jp",
+    "url": "https://google.co.jp/",
+    "category": "computers-electronics-and-technology"
+  },
+  {
+    "position": 40,
+    "name": "office365.com",
+    "url": "https://office365.com/",
+    "category": "computers-electronics-and-technology"
+  },
+  {
+    "position": 41,
+    "name": "telegram.org",
+    "url": "https://telegram.org/",
+    "category": "computers-electronics-and-technology"
+  },
+  {
+    "position": 42,
+    "name": "adobe.com",
+    "url": "https://adobe.com/",
+    "category": "computers-electronics-and-technology"
+  },
+  {
+    "position": 43,
+    "name": "aol.com",
+    "url": "https://aol.com/",
+    "category": "computers-electronics-and-technology"
+  },
+  {
+    "position": 44,
+    "name": "seznam.cz",
+    "url": "https://seznam.cz/",
+    "category": "computers-electronics-and-technology"
+  },
+  {
+    "position": 45,
+    "name": "wordpress.com",
+    "url": "https://wordpress.com/",
+    "category": "computers-electronics-and-technology"
+  },
+  {
+    "position": 46,
+    "name": "daum.net",
+    "url": "https://daum.net/",
+    "category": "computers-electronics-and-technology"
+  },
+  {
+    "position": 47,
+    "name": "google.co.uk",
+    "url": "https://google.co.uk/",
+    "category": "computers-electronics-and-technology"
+  },
+  {
+    "position": 48,
+    "name": "fc2.com",
+    "url": "https://fc2.com/",
+    "category": "computers-electronics-and-technology"
+  },
+  {
+    "position": 49,
+    "name": "music.youtube.com",
+    "url": "https://music.youtube.com/",
+    "category": "computers-electronics-and-technology"
+  },
+  {
+    "position": 50,
+    "name": "google.it",
+    "url": "https://google.it/",
+    "category": "computers-electronics-and-technology"
+  },
+  {
+    "position": 1,
+    "name": "amazon.com",
+    "url": "https://amazon.com/",
+    "category": "e-commerce-and-shopping"
+  },
+  {
+    "position": 2,
+    "name": "ebay.com",
+    "url": "https://ebay.com/",
+    "category": "e-commerce-and-shopping"
+  },
+  {
+    "position": 3,
+    "name": "amazon.co.jp",
+    "url": "https://amazon.co.jp/",
+    "category": "e-commerce-and-shopping"
+  },
+  {
+    "position": 4,
+    "name": "rakuten.co.jp",
+    "url": "https://rakuten.co.jp/",
+    "category": "e-commerce-and-shopping"
+  },
+  {
+    "position": 5,
+    "name": "etsy.com",
+    "url": "https://etsy.com/",
+    "category": "e-commerce-and-shopping"
+  },
+  {
+    "position": 6,
+    "name": "amazon.de",
+    "url": "https://amazon.de/",
+    "category": "e-commerce-and-shopping"
+  },
+  {
+    "position": 7,
+    "name": "taobao.com",
+    "url": "https://taobao.com/",
+    "category": "e-commerce-and-shopping"
+  },
+  {
+    "position": 8,
+    "name": "aliexpress.com",
+    "url": "https://aliexpress.com/",
+    "category": "e-commerce-and-shopping"
+  },
+  {
+    "position": 9,
+    "name": "wildberries.ru",
+    "url": "https://wildberries.ru/",
+    "category": "e-commerce-and-shopping"
+  },
+  {
+    "position": 10,
+    "name": "ozon.ru",
+    "url": "https://ozon.ru/",
+    "category": "e-commerce-and-shopping"
+  },
+  {
+    "position": 11,
+    "name": "walmart.com",
+    "url": "https://walmart.com/",
+    "category": "e-commerce-and-shopping"
+  },
+  {
+    "position": 12,
+    "name": "avito.ru",
+    "url": "https://avito.ru/",
+    "category": "e-commerce-and-shopping"
+  },
+  {
+    "position": 13,
+    "name": "amazon.in",
+    "url": "https://amazon.in/",
+    "category": "e-commerce-and-shopping"
+  },
+  {
+    "position": 14,
+    "name": "amazon.co.uk",
+    "url": "https://amazon.co.uk/",
+    "category": "e-commerce-and-shopping"
+  },
+  {
+    "position": 15,
+    "name": "temu.com",
+    "url": "https://temu.com/",
+    "category": "e-commerce-and-shopping"
+  },
+  {
+    "position": 16,
+    "name": "pinduoduo.com",
+    "url": "https://pinduoduo.com/",
+    "category": "e-commerce-and-shopping"
+  },
+  {
+    "position": 17,
+    "name": "flipkart.com",
+    "url": "https://flipkart.com/",
+    "category": "e-commerce-and-shopping"
+  },
+  {
+    "position": 18,
+    "name": "mercadolivre.com.br",
+    "url": "https://mercadolivre.com.br/",
+    "category": "e-commerce-and-shopping"
+  },
+  {
+    "position": 19,
+    "name": "shopee.co.id",
+    "url": "https://shopee.co.id/",
+    "category": "e-commerce-and-shopping"
+  },
+  {
+    "position": 20,
+    "name": "ebay.co.uk",
+    "url": "https://ebay.co.uk/",
+    "category": "e-commerce-and-shopping"
+  },
+  {
+    "position": 21,
+    "name": "allegro.pl",
+    "url": "https://allegro.pl/",
+    "category": "e-commerce-and-shopping"
+  },
+  {
+    "position": 22,
+    "name": "market.yandex.ru",
+    "url": "https://market.yandex.ru/",
+    "category": "e-commerce-and-shopping"
+  },
+  {
+    "position": 23,
+    "name": "amazon.com.br",
+    "url": "https://amazon.com.br/",
+    "category": "e-commerce-and-shopping"
+  },
+  {
+    "position": 24,
+    "name": "craigslist.org",
+    "url": "https://craigslist.org/",
+    "category": "e-commerce-and-shopping"
+  },
+  {
+    "position": 25,
+    "name": "tmall.com",
+    "url": "https://tmall.com/",
+    "category": "e-commerce-and-shopping"
+  },
+  {
+    "position": 26,
+    "name": "amazon.ca",
+    "url": "https://amazon.ca/",
+    "category": "e-commerce-and-shopping"
+  },
+  {
+    "position": 27,
+    "name": "amazon.it",
+    "url": "https://amazon.it/",
+    "category": "e-commerce-and-shopping"
+  },
+  {
+    "position": 28,
+    "name": "amazon.fr",
+    "url": "https://amazon.fr/",
+    "category": "e-commerce-and-shopping"
+  },
+  {
+    "position": 29,
+    "name": "target.com",
+    "url": "https://target.com/",
+    "category": "e-commerce-and-shopping"
+  },
+  {
+    "position": 30,
+    "name": "trendyol.com",
+    "url": "https://trendyol.com/",
+    "category": "e-commerce-and-shopping"
+  },
+  {
+    "position": 31,
+    "name": "jd.com",
+    "url": "https://jd.com/",
+    "category": "e-commerce-and-shopping"
+  },
+  {
+    "position": 32,
+    "name": "ebay.de",
+    "url": "https://ebay.de/",
+    "category": "e-commerce-and-shopping"
+  },
+  {
+    "position": 33,
+    "name": "kleinanzeigen.de",
+    "url": "https://kleinanzeigen.de/",
+    "category": "e-commerce-and-shopping"
+  },
+  {
+    "position": 34,
+    "name": "shopee.vn",
+    "url": "https://shopee.vn/",
+    "category": "e-commerce-and-shopping"
+  },
+  {
+    "position": 35,
+    "name": "coupang.com",
+    "url": "https://coupang.com/",
+    "category": "e-commerce-and-shopping"
+  },
+  {
+    "position": 36,
+    "name": "mercari.com",
+    "url": "https://mercari.com/",
+    "category": "e-commerce-and-shopping"
+  },
+  {
+    "position": 37,
+    "name": "amazon.es",
+    "url": "https://amazon.es/",
+    "category": "e-commerce-and-shopping"
+  },
+  {
+    "position": 38,
+    "name": "mercadolibre.com.ar",
+    "url": "https://mercadolibre.com.ar/",
+    "category": "e-commerce-and-shopping"
+  },
+  {
+    "position": 39,
+    "name": "tripmall.online",
+    "url": "https://tripmall.online/",
+    "category": "e-commerce-and-shopping"
+  },
+  {
+    "position": 40,
+    "name": "leboncoin.fr",
+    "url": "https://leboncoin.fr/",
+    "category": "e-commerce-and-shopping"
+  },
+  {
+    "position": 41,
+    "name": "sahibinden.com",
+    "url": "https://sahibinden.com/",
+    "category": "e-commerce-and-shopping"
+  },
+  {
+    "position": 42,
+    "name": "ticketmaster.com",
+    "url": "https://ticketmaster.com/",
+    "category": "e-commerce-and-shopping"
+  },
+  {
+    "position": 43,
+    "name": "wayfair.com",
+    "url": "https://wayfair.com/",
+    "category": "e-commerce-and-shopping"
+  },
+  {
+    "position": 44,
+    "name": "shopping.yahoo.co.jp",
+    "url": "https://shopping.yahoo.co.jp/",
+    "category": "e-commerce-and-shopping"
+  },
+  {
+    "position": 45,
+    "name": "mercadolibre.com.mx",
+    "url": "https://mercadolibre.com.mx/",
+    "category": "e-commerce-and-shopping"
+  },
+  {
+    "position": 46,
+    "name": "rakuten.com",
+    "url": "https://rakuten.com/",
+    "category": "e-commerce-and-shopping"
+  },
+  {
+    "position": 47,
+    "name": "magazineluiza.com.br",
+    "url": "https://magazineluiza.com.br/",
+    "category": "e-commerce-and-shopping"
+  },
+  {
+    "position": 48,
+    "name": "olx.com.br",
+    "url": "https://olx.com.br/",
+    "category": "e-commerce-and-shopping"
+  },
+  {
+    "position": 49,
+    "name": "olx.pl",
+    "url": "https://olx.pl/",
+    "category": "e-commerce-and-shopping"
+  },
+  {
+    "position": 50,
+    "name": "costco.com",
+    "url": "https://costco.com/",
+    "category": "e-commerce-and-shopping"
+  },
+  {
+    "position": 1,
+    "name": "trilltrill.jp",
+    "url": "https://trilltrill.jp/",
+    "category": "food-and-drink"
+  },
+  {
+    "position": 2,
+    "name": "tabelog.com",
+    "url": "https://tabelog.com/",
+    "category": "food-and-drink"
+  },
+  {
+    "position": 3,
+    "name": "cookpad.com",
+    "url": "https://cookpad.com/",
+    "category": "food-and-drink"
+  },
+  {
+    "position": 4,
+    "name": "allrecipes.com",
+    "url": "https://allrecipes.com/",
+    "category": "food-and-drink"
+  },
+  {
+    "position": 5,
+    "name": "hotpepper.jp",
+    "url": "https://hotpepper.jp/",
+    "category": "food-and-drink"
+  },
+  {
+    "position": 6,
+    "name": "doordash.com",
+    "url": "https://doordash.com/",
+    "category": "food-and-drink"
+  },
+  {
+    "position": 7,
+    "name": "giallozafferano.it",
+    "url": "https://giallozafferano.it/",
+    "category": "food-and-drink"
+  },
+  {
+    "position": 8,
+    "name": "kurashiru.com",
+    "url": "https://kurashiru.com/",
+    "category": "food-and-drink"
+  },
+  {
+    "position": 9,
+    "name": "foodnetwork.com",
+    "url": "https://foodnetwork.com/",
+    "category": "food-and-drink"
+  },
+  {
+    "position": 10,
+    "name": "ubereats.com",
+    "url": "https://ubereats.com/",
+    "category": "food-and-drink"
+  },
+  {
+    "position": 11,
+    "name": "toasttab.com",
+    "url": "https://toasttab.com/",
+    "category": "food-and-drink"
+  },
+  {
+    "position": 12,
+    "name": "marmiton.org",
+    "url": "https://marmiton.org/",
+    "category": "food-and-drink"
+  },
+  {
+    "position": 13,
+    "name": "bbcgoodfood.com",
+    "url": "https://bbcgoodfood.com/",
+    "category": "food-and-drink"
+  },
+  {
+    "position": 14,
+    "name": "tudogostoso.com.br",
+    "url": "https://tudogostoso.com.br/",
+    "category": "food-and-drink"
+  },
+  {
+    "position": 15,
+    "name": "chefkoch.de",
+    "url": "https://chefkoch.de/",
+    "category": "food-and-drink"
+  },
+  {
+    "position": 16,
+    "name": "russianfood.com",
+    "url": "https://russianfood.com/",
+    "category": "food-and-drink"
+  },
+  {
+    "position": 17,
+    "name": "opentable.com",
+    "url": "https://opentable.com/",
+    "category": "food-and-drink"
+  },
+  {
+    "position": 18,
+    "name": "dominos.com",
+    "url": "https://dominos.com/",
+    "category": "food-and-drink"
+  },
+  {
+    "position": 19,
+    "name": "delish.com",
+    "url": "https://delish.com/",
+    "category": "food-and-drink"
+  },
+  {
+    "position": 20,
+    "name": "kroger.com",
+    "url": "https://kroger.com/",
+    "category": "food-and-drink"
+  },
+  {
+    "position": 21,
+    "name": "otzovik.com",
+    "url": "https://otzovik.com/",
+    "category": "food-and-drink"
+  },
+  {
+    "position": 22,
+    "name": "ichi-oshi.jp",
+    "url": "https://ichi-oshi.jp/",
+    "category": "food-and-drink"
+  },
+  {
+    "position": 23,
+    "name": "food.google.com",
+    "url": "https://food.google.com/",
+    "category": "food-and-drink"
+  },
+  {
+    "position": 24,
+    "name": "recruit.co.jp",
+    "url": "https://recruit.co.jp/",
+    "category": "food-and-drink"
+  },
+  {
+    "position": 25,
+    "name": "tasteofhome.com",
+    "url": "https://tasteofhome.com/",
+    "category": "food-and-drink"
+  },
+  {
+    "position": 26,
+    "name": "nefisyemektarifleri.com",
+    "url": "https://nefisyemektarifleri.com/",
+    "category": "food-and-drink"
+  },
+  {
+    "position": 27,
+    "name": "instacart.com",
+    "url": "https://instacart.com/",
+    "category": "food-and-drink"
+  },
+  {
+    "position": 28,
+    "name": "delishkitchen.tv",
+    "url": "https://delishkitchen.tv/",
+    "category": "food-and-drink"
+  },
+  {
+    "position": 29,
+    "name": "asda.com",
+    "url": "https://asda.com/",
+    "category": "food-and-drink"
+  },
+  {
+    "position": 30,
+    "name": "kaufland.de",
+    "url": "https://kaufland.de/",
+    "category": "food-and-drink"
+  },
+  {
+    "position": 31,
+    "name": "eatingwell.com",
+    "url": "https://eatingwell.com/",
+    "category": "food-and-drink"
+  },
+  {
+    "position": 32,
+    "name": "parade.com",
+    "url": "https://parade.com/",
+    "category": "food-and-drink"
+  },
+  {
+    "position": 33,
+    "name": "1000.menu",
+    "url": "https://1000.menu/",
+    "category": "food-and-drink"
+  },
+  {
+    "position": 34,
+    "name": "tesco.com",
+    "url": "https://tesco.com/",
+    "category": "food-and-drink"
+  },
+  {
+    "position": 35,
+    "name": "macaro-ni.jp",
+    "url": "https://macaro-ni.jp/",
+    "category": "food-and-drink"
+  },
+  {
+    "position": 36,
+    "name": "thekitchn.com",
+    "url": "https://thekitchn.com/",
+    "category": "food-and-drink"
+  },
+  {
+    "position": 37,
+    "name": "recipetineats.com",
+    "url": "https://recipetineats.com/",
+    "category": "food-and-drink"
+  },
+  {
+    "position": 38,
+    "name": "woolworths.com.au",
+    "url": "https://woolworths.com.au/",
+    "category": "food-and-drink"
+  },
+  {
+    "position": 39,
+    "name": "square.site",
+    "url": "https://square.site/",
+    "category": "food-and-drink"
+  },
+  {
+    "position": 40,
+    "name": "chocozap.jp",
+    "url": "https://chocozap.jp/",
+    "category": "food-and-drink"
+  },
+  {
+    "position": 41,
+    "name": "oceans-nadia.com",
+    "url": "https://oceans-nadia.com/",
+    "category": "food-and-drink"
+  },
+  {
+    "position": 42,
+    "name": "mcdonalds.com",
+    "url": "https://mcdonalds.com/",
+    "category": "food-and-drink"
+  },
+  {
+    "position": 43,
+    "name": "gnavi.co.jp",
+    "url": "https://gnavi.co.jp/",
+    "category": "food-and-drink"
+  },
+  {
+    "position": 44,
+    "name": "sainsburys.co.uk",
+    "url": "https://sainsburys.co.uk/",
+    "category": "food-and-drink"
+  },
+  {
+    "position": 45,
+    "name": "cuisineaz.com",
+    "url": "https://cuisineaz.com/",
+    "category": "food-and-drink"
+  },
+  {
+    "position": 46,
+    "name": "starbucks.com",
+    "url": "https://starbucks.com/",
+    "category": "food-and-drink"
+  },
+  {
+    "position": 47,
+    "name": "invl.io",
+    "url": "https://invl.io/",
+    "category": "food-and-drink"
+  },
+  {
+    "position": 48,
+    "name": "foodandwine.com",
+    "url": "https://foodandwine.com/",
+    "category": "food-and-drink"
+  },
+  {
+    "position": 49,
+    "name": "thepioneerwoman.com",
+    "url": "https://thepioneerwoman.com/",
+    "category": "food-and-drink"
+  },
+  {
+    "position": 50,
+    "name": "spendwithpennies.com",
+    "url": "https://spendwithpennies.com/",
+    "category": "food-and-drink"
+  },
+  {
+    "position": 1,
+    "name": "twitch.tv",
+    "url": "https://twitch.tv/",
+    "category": "games"
+  },
+  {
+    "position": 2,
+    "name": "roblox.com",
+    "url": "https://roblox.com/",
+    "category": "games"
+  },
+  {
+    "position": 3,
+    "name": "chess.com",
+    "url": "https://chess.com/",
+    "category": "games"
+  },
+  {
+    "position": 4,
+    "name": "nettruyenus.com",
+    "url": "https://nettruyenus.com/",
+    "category": "games"
+  },
+  {
+    "position": 5,
+    "name": "douyu.com",
+    "url": "https://douyu.com/",
+    "category": "games"
+  },
+  {
+    "position": 6,
+    "name": "steampowered.com",
+    "url": "https://steampowered.com/",
+    "category": "games"
+  },
+  {
+    "position": 7,
+    "name": "linkkf.app",
+    "url": "https://linkkf.app/",
+    "category": "games"
+  },
+  {
+    "position": 8,
+    "name": "steamcommunity.com",
+    "url": "https://steamcommunity.com/",
+    "category": "games"
+  },
+  {
+    "position": 9,
+    "name": "gamewith.jp",
+    "url": "https://gamewith.jp/",
+    "category": "games"
+  },
+  {
+    "position": 10,
+    "name": "ign.com",
+    "url": "https://ign.com/",
+    "category": "games"
+  },
+  {
+    "position": 11,
+    "name": "game8.jp",
+    "url": "https://game8.jp/",
+    "category": "games"
+  },
+  {
+    "position": 12,
+    "name": "poki.com",
+    "url": "https://poki.com/",
+    "category": "games"
+  },
+  {
+    "position": 13,
+    "name": "5ch.net",
+    "url": "https://5ch.net/",
+    "category": "games"
+  },
+  {
+    "position": 14,
+    "name": "lichess.org",
+    "url": "https://lichess.org/",
+    "category": "games"
+  },
+  {
+    "position": 15,
+    "name": "gamer.com.tw",
+    "url": "https://gamer.com.tw/",
+    "category": "games"
+  },
+  {
+    "position": 16,
+    "name": "nexusmods.com",
+    "url": "https://nexusmods.com/",
+    "category": "games"
+  },
+  {
+    "position": 17,
+    "name": "gamespot.com",
+    "url": "https://gamespot.com/",
+    "category": "games"
+  },
+  {
+    "position": 18,
+    "name": "gamerant.com",
+    "url": "https://gamerant.com/",
+    "category": "games"
+  },
+  {
+    "position": 19,
+    "name": "ea.com",
+    "url": "https://ea.com/",
+    "category": "games"
+  },
+  {
+    "position": 20,
+    "name": "epicgames.com",
+    "url": "https://epicgames.com/",
+    "category": "games"
+  },
+  {
+    "position": 21,
+    "name": "poe.com",
+    "url": "https://poe.com/",
+    "category": "games"
+  },
+  {
+    "position": 22,
+    "name": "rummycircle.com",
+    "url": "https://rummycircle.com/",
+    "category": "games"
+  },
+  {
+    "position": 23,
+    "name": "futbin.com",
+    "url": "https://futbin.com/",
+    "category": "games"
+  },
+  {
+    "position": 24,
+    "name": "op.gg",
+    "url": "https://op.gg/",
+    "category": "games"
+  },
+  {
+    "position": 25,
+    "name": "xbox.com",
+    "url": "https://xbox.com/",
+    "category": "games"
+  },
+  {
+    "position": 26,
+    "name": "huya.com",
+    "url": "https://huya.com/",
+    "category": "games"
+  },
+  {
+    "position": 27,
+    "name": "inven.co.kr",
+    "url": "https://inven.co.kr/",
+    "category": "games"
+  },
+  {
+    "position": 28,
+    "name": "kemono.party",
+    "url": "https://kemono.party/",
+    "category": "games"
+  },
+  {
+    "position": 29,
+    "name": "ruliweb.com",
+    "url": "https://ruliweb.com/",
+    "category": "games"
+  },
+  {
+    "position": 30,
+    "name": "appblock.app",
+    "url": "https://appblock.app/",
+    "category": "games"
+  },
+  {
+    "position": 31,
+    "name": "playstation.com",
+    "url": "https://playstation.com/",
+    "category": "games"
+  },
+  {
+    "position": 32,
+    "name": "jeuxvideo.com",
+    "url": "https://jeuxvideo.com/",
+    "category": "games"
+  },
+  {
+    "position": 33,
+    "name": "hoyolab.com",
+    "url": "https://hoyolab.com/",
+    "category": "games"
+  },
+  {
+    "position": 34,
+    "name": "lesta.ru",
+    "url": "https://lesta.ru/",
+    "category": "games"
+  },
+  {
+    "position": 35,
+    "name": "wowhead.com",
+    "url": "https://wowhead.com/",
+    "category": "games"
+  },
+  {
+    "position": 36,
+    "name": "kahoot.it",
+    "url": "https://kahoot.it/",
+    "category": "games"
+  },
+  {
+    "position": 37,
+    "name": "gutefrage.net",
+    "url": "https://gutefrage.net/",
+    "category": "games"
+  },
+  {
+    "position": 38,
+    "name": "crazygames.com",
+    "url": "https://crazygames.com/",
+    "category": "games"
+  },
+  {
+    "position": 39,
+    "name": "dexerto.com",
+    "url": "https://dexerto.com/",
+    "category": "games"
+  },
+  {
+    "position": 40,
+    "name": "nintendo.com",
+    "url": "https://nintendo.com/",
+    "category": "games"
+  },
+  {
+    "position": 41,
+    "name": "point-ad-game.com",
+    "url": "https://point-ad-game.com/",
+    "category": "games"
+  },
+  {
+    "position": 42,
+    "name": "lolesports.com",
+    "url": "https://lolesports.com/",
+    "category": "games"
+  },
+  {
+    "position": 43,
+    "name": "otnolatrnup.com",
+    "url": "https://otnolatrnup.com/",
+    "category": "games"
+  },
+  {
+    "position": 44,
+    "name": "answers.yahoo.com",
+    "url": "https://answers.yahoo.com/",
+    "category": "games"
+  },
+  {
+    "position": 45,
+    "name": "kemono.su",
+    "url": "https://kemono.su/",
+    "category": "games"
+  },
+  {
+    "position": 46,
+    "name": "lego.com",
+    "url": "https://lego.com/",
+    "category": "games"
+  },
+  {
+    "position": 47,
+    "name": "ixbt.games",
+    "url": "https://ixbt.games/",
+    "category": "games"
+  },
+  {
+    "position": 48,
+    "name": "hoyoverse.com",
+    "url": "https://hoyoverse.com/",
+    "category": "games"
+  },
+  {
+    "position": 49,
+    "name": "riotgames.com",
+    "url": "https://riotgames.com/",
+    "category": "games"
+  },
+  {
+    "position": 50,
+    "name": "gamesradar.com",
+    "url": "https://gamesradar.com/",
+    "category": "games"
+  },
+  {
+    "position": 1,
+    "name": "ikea.com",
+    "url": "https://ikea.com/",
+    "category": "home-and-garden"
+  },
+  {
+    "position": 2,
+    "name": "homedepot.com",
+    "url": "https://homedepot.com/",
+    "category": "home-and-garden"
+  },
+  {
+    "position": 3,
+    "name": "lowes.com",
+    "url": "https://lowes.com/",
+    "category": "home-and-garden"
+  },
+  {
+    "position": 4,
+    "name": "goodhousekeeping.com",
+    "url": "https://goodhousekeeping.com/",
+    "category": "home-and-garden"
+  },
+  {
+    "position": 5,
+    "name": "vseinstrumenti.ru",
+    "url": "https://vseinstrumenti.ru/",
+    "category": "home-and-garden"
+  },
+  {
+    "position": 6,
+    "name": "harborfreight.com",
+    "url": "https://harborfreight.com/",
+    "category": "home-and-garden"
+  },
+  {
+    "position": 7,
+    "name": "hgtv.com",
+    "url": "https://hgtv.com/",
+    "category": "home-and-garden"
+  },
+  {
+    "position": 8,
+    "name": "bunnings.com.au",
+    "url": "https://bunnings.com.au/",
+    "category": "home-and-garden"
+  },
+  {
+    "position": 9,
+    "name": "leroymerlin.ru",
+    "url": "https://leroymerlin.ru/",
+    "category": "home-and-garden"
+  },
+  {
+    "position": 10,
+    "name": "thespruce.com",
+    "url": "https://thespruce.com/",
+    "category": "home-and-garden"
+  },
+  {
+    "position": 11,
+    "name": "leroymerlin.fr",
+    "url": "https://leroymerlin.fr/",
+    "category": "home-and-garden"
+  },
+  {
+    "position": 12,
+    "name": "sikayetvar.com",
+    "url": "https://sikayetvar.com/",
+    "category": "home-and-garden"
+  },
+  {
+    "position": 13,
+    "name": "dunelm.com",
+    "url": "https://dunelm.com/",
+    "category": "home-and-garden"
+  },
+  {
+    "position": 14,
+    "name": "menards.com",
+    "url": "https://menards.com/",
+    "category": "home-and-garden"
+  },
+  {
+    "position": 15,
+    "name": "countryliving.com",
+    "url": "https://countryliving.com/",
+    "category": "home-and-garden"
+  },
+  {
+    "position": 16,
+    "name": "screwfix.com",
+    "url": "https://screwfix.com/",
+    "category": "home-and-garden"
+  },
+  {
+    "position": 17,
+    "name": "homedepot.ca",
+    "url": "https://homedepot.ca/",
+    "category": "home-and-garden"
+  },
+  {
+    "position": 18,
+    "name": "acehardware.com",
+    "url": "https://acehardware.com/",
+    "category": "home-and-garden"
+  },
+  {
+    "position": 19,
+    "name": "diy.com",
+    "url": "https://diy.com/",
+    "category": "home-and-garden"
+  },
+  {
+    "position": 20,
+    "name": "nitori-net.jp",
+    "url": "https://nitori-net.jp/",
+    "category": "home-and-garden"
+  },
+  {
+    "position": 21,
+    "name": "southernliving.com",
+    "url": "https://southernliving.com/",
+    "category": "home-and-garden"
+  },
+  {
+    "position": 22,
+    "name": "leroymerlin.es",
+    "url": "https://leroymerlin.es/",
+    "category": "home-and-garden"
+  },
+  {
+    "position": 23,
+    "name": "realsimple.com",
+    "url": "https://realsimple.com/",
+    "category": "home-and-garden"
+  },
+  {
+    "position": 24,
+    "name": "bhg.com",
+    "url": "https://bhg.com/",
+    "category": "home-and-garden"
+  },
+  {
+    "position": 25,
+    "name": "consumerreports.org",
+    "url": "https://consumerreports.org/",
+    "category": "home-and-garden"
+  },
+  {
+    "position": 26,
+    "name": "joann.com",
+    "url": "https://joann.com/",
+    "category": "home-and-garden"
+  },
+  {
+    "position": 27,
+    "name": "manomano.fr",
+    "url": "https://manomano.fr/",
+    "category": "home-and-garden"
+  },
+  {
+    "position": 28,
+    "name": "obi.de",
+    "url": "https://obi.de/",
+    "category": "home-and-garden"
+  },
+  {
+    "position": 29,
+    "name": "uhaul.com",
+    "url": "https://uhaul.com/",
+    "category": "home-and-garden"
+  },
+  {
+    "position": 30,
+    "name": "leroymerlin.com.br",
+    "url": "https://leroymerlin.com.br/",
+    "category": "home-and-garden"
+  },
+  {
+    "position": 31,
+    "name": "houzz.com",
+    "url": "https://houzz.com/",
+    "category": "home-and-garden"
+  },
+  {
+    "position": 32,
+    "name": "marthastewart.com",
+    "url": "https://marthastewart.com/",
+    "category": "home-and-garden"
+  },
+  {
+    "position": 33,
+    "name": "wayfair.ca",
+    "url": "https://wayfair.ca/",
+    "category": "home-and-garden"
+  },
+  {
+    "position": 34,
+    "name": "madeiramadeira.com.br",
+    "url": "https://madeiramadeira.com.br/",
+    "category": "home-and-garden"
+  },
+  {
+    "position": 35,
+    "name": "potterybarn.com",
+    "url": "https://potterybarn.com/",
+    "category": "home-and-garden"
+  },
+  {
+    "position": 36,
+    "name": "apartmenttherapy.com",
+    "url": "https://apartmenttherapy.com/",
+    "category": "home-and-garden"
+  },
+  {
+    "position": 37,
+    "name": "ashleyfurniture.com",
+    "url": "https://ashleyfurniture.com/",
+    "category": "home-and-garden"
+  },
+  {
+    "position": 38,
+    "name": "bbb.org",
+    "url": "https://bbb.org/",
+    "category": "home-and-garden"
+  },
+  {
+    "position": 39,
+    "name": "wayfair.co.uk",
+    "url": "https://wayfair.co.uk/",
+    "category": "home-and-garden"
+  },
+  {
+    "position": 40,
+    "name": "bauhaus.info",
+    "url": "https://bauhaus.info/",
+    "category": "home-and-garden"
+  },
+  {
+    "position": 41,
+    "name": "maisonsdumonde.com",
+    "url": "https://maisonsdumonde.com/",
+    "category": "home-and-garden"
+  },
+  {
+    "position": 42,
+    "name": "homesandgardens.com",
+    "url": "https://homesandgardens.com/",
+    "category": "home-and-garden"
+  },
+  {
+    "position": 43,
+    "name": "crateandbarrel.com",
+    "url": "https://crateandbarrel.com/",
+    "category": "home-and-garden"
+  },
+  {
+    "position": 44,
+    "name": "paragonrels.com",
+    "url": "https://paragonrels.com/",
+    "category": "home-and-garden"
+  },
+  {
+    "position": 45,
+    "name": "hornbach.de",
+    "url": "https://hornbach.de/",
+    "category": "home-and-garden"
+  },
+  {
+    "position": 46,
+    "name": "williams-sonoma.com",
+    "url": "https://williams-sonoma.com/",
+    "category": "home-and-garden"
+  },
+  {
+    "position": 47,
+    "name": "wink.ru",
+    "url": "https://wink.ru/",
+    "category": "home-and-garden"
+  },
+  {
+    "position": 48,
+    "name": "therange.co.uk",
+    "url": "https://therange.co.uk/",
+    "category": "home-and-garden"
+  },
+  {
+    "position": 49,
+    "name": "familyhandyman.com",
+    "url": "https://familyhandyman.com/",
+    "category": "home-and-garden"
+  },
+  {
+    "position": 50,
+    "name": "homedepot.com.mx",
+    "url": "https://homedepot.com.mx/",
+    "category": "home-and-garden"
+  },
+  {
+    "position": 1,
+    "name": "yahoo.com",
+    "url": "https://yahoo.com/",
+    "category": "news-and-media"
+  },
+  {
+    "position": 2,
+    "name": "yahoo.co.jp",
+    "url": "https://yahoo.co.jp/",
+    "category": "news-and-media"
+  },
+  {
+    "position": 3,
+    "name": "naver.com",
+    "url": "https://naver.com/",
+    "category": "news-and-media"
+  },
+  {
+    "position": 4,
+    "name": "turbopages.org",
+    "url": "https://turbopages.org/",
+    "category": "news-and-media"
+  },
+  {
+    "position": 5,
+    "name": "qq.com",
+    "url": "https://qq.com/",
+    "category": "news-and-media"
+  },
+  {
+    "position": 6,
+    "name": "globo.com",
+    "url": "https://globo.com/",
+    "category": "news-and-media"
+  },
+  {
+    "position": 7,
+    "name": "cnn.com",
+    "url": "https://cnn.com/",
+    "category": "news-and-media"
+  },
+  {
+    "position": 8,
+    "name": "msn.com",
+    "url": "https://msn.com/",
+    "category": "news-and-media"
+  },
+  {
+    "position": 9,
+    "name": "news.yahoo.co.jp",
+    "url": "https://news.yahoo.co.jp/",
+    "category": "news-and-media"
+  },
+  {
+    "position": 10,
+    "name": "nytimes.com",
+    "url": "https://nytimes.com/",
+    "category": "news-and-media"
+  },
+  {
+    "position": 11,
+    "name": "bbc.co.uk",
+    "url": "https://bbc.co.uk/",
+    "category": "news-and-media"
+  },
+  {
+    "position": 12,
+    "name": "bbc.com",
+    "url": "https://bbc.com/",
+    "category": "news-and-media"
+  },
+  {
+    "position": 13,
+    "name": "aajtak.in",
+    "url": "https://aajtak.in/",
+    "category": "news-and-media"
+  },
+  {
+    "position": 14,
+    "name": "uol.com.br",
+    "url": "https://uol.com.br/",
+    "category": "news-and-media"
+  },
+  {
+    "position": 15,
+    "name": "dailymail.co.uk",
+    "url": "https://dailymail.co.uk/",
+    "category": "news-and-media"
+  },
+  {
+    "position": 16,
+    "name": "news.google.com",
+    "url": "https://news.google.com/",
+    "category": "news-and-media"
+  },
+  {
+    "position": 17,
+    "name": "theguardian.com",
+    "url": "https://theguardian.com/",
+    "category": "news-and-media"
+  },
+  {
+    "position": 18,
+    "name": "foxnews.com",
+    "url": "https://foxnews.com/",
+    "category": "news-and-media"
+  },
+  {
+    "position": 19,
+    "name": "infobae.com",
+    "url": "https://infobae.com/",
+    "category": "news-and-media"
+  },
+  {
+    "position": 20,
+    "name": "onet.pl",
+    "url": "https://onet.pl/",
+    "category": "news-and-media"
+  },
+  {
+    "position": 21,
+    "name": "wp.pl",
+    "url": "https://wp.pl/",
+    "category": "news-and-media"
+  },
+  {
+    "position": 22,
+    "name": "news.yahoo.com",
+    "url": "https://news.yahoo.com/",
+    "category": "news-and-media"
+  },
+  {
+    "position": 23,
+    "name": "finance.yahoo.com",
+    "url": "https://finance.yahoo.com/",
+    "category": "news-and-media"
+  },
+  {
+    "position": 24,
+    "name": "bild.de",
+    "url": "https://bild.de/",
+    "category": "news-and-media"
+  },
+  {
+    "position": 25,
+    "name": "timesofindia.com",
+    "url": "https://timesofindia.com/",
+    "category": "news-and-media"
+  },
+  {
+    "position": 26,
+    "name": "interia.pl",
+    "url": "https://interia.pl/",
+    "category": "news-and-media"
+  },
+  {
+    "position": 27,
+    "name": "sohu.com",
+    "url": "https://sohu.com/",
+    "category": "news-and-media"
+  },
+  {
+    "position": 28,
+    "name": "livedoor.jp",
+    "url": "https://livedoor.jp/",
+    "category": "news-and-media"
+  },
+  {
+    "position": 29,
+    "name": "douyin.com",
+    "url": "https://douyin.com/",
+    "category": "news-and-media"
+  },
+  {
+    "position": 30,
+    "name": "indiatimes.com",
+    "url": "https://indiatimes.com/",
+    "category": "news-and-media"
+  },
+  {
+    "position": 31,
+    "name": "vnexpress.net",
+    "url": "https://vnexpress.net/",
+    "category": "news-and-media"
+  },
+  {
+    "position": 32,
+    "name": "news.naver.com",
+    "url": "https://news.naver.com/",
+    "category": "news-and-media"
+  },
+  {
+    "position": 33,
+    "name": "elmundo.es",
+    "url": "https://elmundo.es/",
+    "category": "news-and-media"
+  },
+  {
+    "position": 34,
+    "name": "detik.com",
+    "url": "https://detik.com/",
+    "category": "news-and-media"
+  },
+  {
+    "position": 35,
+    "name": "people.com",
+    "url": "https://people.com/",
+    "category": "news-and-media"
+  },
+  {
+    "position": 36,
+    "name": "tribunnews.com",
+    "url": "https://tribunnews.com/",
+    "category": "news-and-media"
+  },
+  {
+    "position": 37,
+    "name": "rbc.ru",
+    "url": "https://rbc.ru/",
+    "category": "news-and-media"
+  },
+  {
+    "position": 38,
+    "name": "kompas.com",
+    "url": "https://kompas.com/",
+    "category": "news-and-media"
+  },
+  {
+    "position": 39,
+    "name": "repubblica.it",
+    "url": "https://repubblica.it/",
+    "category": "news-and-media"
+  },
+  {
+    "position": 40,
+    "name": "nypost.com",
+    "url": "https://nypost.com/",
+    "category": "news-and-media"
+  },
+  {
+    "position": 41,
+    "name": "t-online.de",
+    "url": "https://t-online.de/",
+    "category": "news-and-media"
+  },
+  {
+    "position": 42,
+    "name": "auone.jp",
+    "url": "https://auone.jp/",
+    "category": "news-and-media"
+  },
+  {
+    "position": 43,
+    "name": "washingtonpost.com",
+    "url": "https://washingtonpost.com/",
+    "category": "news-and-media"
+  },
+  {
+    "position": 44,
+    "name": "lemonde.fr",
+    "url": "https://lemonde.fr/",
+    "category": "news-and-media"
+  },
+  {
+    "position": 45,
+    "name": "hindustantimes.com",
+    "url": "https://hindustantimes.com/",
+    "category": "news-and-media"
+  },
+  {
+    "position": 46,
+    "name": "163.com",
+    "url": "https://163.com/",
+    "category": "news-and-media"
+  },
+  {
+    "position": 47,
+    "name": "usatoday.com",
+    "url": "https://usatoday.com/",
+    "category": "news-and-media"
+  },
+  {
+    "position": 48,
+    "name": "news18.com",
+    "url": "https://news18.com/",
+    "category": "news-and-media"
+  },
+  {
+    "position": 49,
+    "name": "cnbc.com",
+    "url": "https://cnbc.com/",
+    "category": "news-and-media"
+  },
+  {
+    "position": 50,
+    "name": "lanacion.com.ar",
+    "url": "https://lanacion.com.ar/",
+    "category": "news-and-media"
+  },
+  {
+    "position": 1,
+    "name": "cricbuzz.com",
+    "url": "https://cricbuzz.com/",
+    "category": "sprots"
+  },
+  {
+    "position": 2,
+    "name": "espn.com",
+    "url": "https://espn.com/",
+    "category": "sprots"
+  },
+  {
+    "position": 3,
+    "name": "espncricinfo.com",
+    "url": "https://espncricinfo.com/",
+    "category": "sprots"
+  },
+  {
+    "position": 4,
+    "name": "marca.com",
+    "url": "https://marca.com/",
+    "category": "sprots"
+  },
+  {
+    "position": 5,
+    "name": "as.com",
+    "url": "https://as.com/",
+    "category": "sprots"
+  },
+  {
+    "position": 6,
+    "name": "chapmanganato.com",
+    "url": "https://chapmanganato.com/",
+    "category": "sprots"
+  },
+  {
+    "position": 7,
+    "name": "betman.co.kr",
+    "url": "https://betman.co.kr/",
+    "category": "sprots"
+  },
+  {
+    "position": 8,
+    "name": "diretta.it",
+    "url": "https://diretta.it/",
+    "category": "sprots"
+  },
+  {
+    "position": 9,
+    "name": "si.com",
+    "url": "https://si.com/",
+    "category": "sprots"
+  },
+  {
+    "position": 10,
+    "name": "mundodeportivo.com",
+    "url": "https://mundodeportivo.com/",
+    "category": "sprots"
+  },
+  {
+    "position": 11,
+    "name": "nfl.com",
+    "url": "https://nfl.com/",
+    "category": "sprots"
+  },
+  {
+    "position": 12,
+    "name": "sports.yahoo.com",
+    "url": "https://sports.yahoo.com/",
+    "category": "sprots"
+  },
+  {
+    "position": 13,
+    "name": "goal.com",
+    "url": "https://goal.com/",
+    "category": "sprots"
+  },
+  {
+    "position": 14,
+    "name": "cbssports.com",
+    "url": "https://cbssports.com/",
+    "category": "sprots"
+  },
+  {
+    "position": 15,
+    "name": "livescore.com",
+    "url": "https://livescore.com/",
+    "category": "sprots"
+  },
+  {
+    "position": 16,
+    "name": "mlb.com",
+    "url": "https://mlb.com/",
+    "category": "sprots"
+  },
+  {
+    "position": 17,
+    "name": "lequipe.fr",
+    "url": "https://lequipe.fr/",
+    "category": "sprots"
+  },
+  {
+    "position": 18,
+    "name": "sportskeeda.com",
+    "url": "https://sportskeeda.com/",
+    "category": "sprots"
+  },
+  {
+    "position": 19,
+    "name": "sport.es",
+    "url": "https://sport.es/",
+    "category": "sprots"
+  },
+  {
+    "position": 20,
+    "name": "kooora.com",
+    "url": "https://kooora.com/",
+    "category": "sprots"
+  },
+  {
+    "position": 21,
+    "name": "sports.ru",
+    "url": "https://sports.ru/",
+    "category": "sprots"
+  },
+  {
+    "position": 22,
+    "name": "sofascore.com",
+    "url": "https://sofascore.com/",
+    "category": "sprots"
+  },
+  {
+    "position": 23,
+    "name": "premierleague.com",
+    "url": "https://premierleague.com/",
+    "category": "sprots"
+  },
+  {
+    "position": 24,
+    "name": "sports.yahoo.co.jp",
+    "url": "https://sports.yahoo.co.jp/",
+    "category": "sprots"
+  },
+  {
+    "position": 25,
+    "name": "kicker.de",
+    "url": "https://kicker.de/",
+    "category": "sprots"
+  },
+  {
+    "position": 26,
+    "name": "yr.no",
+    "url": "https://yr.no/",
+    "category": "sprots"
+  },
+  {
+    "position": 27,
+    "name": "championat.com",
+    "url": "https://championat.com/",
+    "category": "sprots"
+  },
+  {
+    "position": 28,
+    "name": "gazzetta.it",
+    "url": "https://gazzetta.it/",
+    "category": "sprots"
+  },
+  {
+    "position": 29,
+    "name": "cricketworldcup.com",
+    "url": "https://cricketworldcup.com/",
+    "category": "sprots"
+  },
+  {
+    "position": 30,
+    "name": "nikkansports.com",
+    "url": "https://nikkansports.com/",
+    "category": "sprots"
+  },
+  {
+    "position": 31,
+    "name": "tycsports.com",
+    "url": "https://tycsports.com/",
+    "category": "sprots"
+  },
+  {
+    "position": 32,
+    "name": "skysports.com",
+    "url": "https://skysports.com/",
+    "category": "sprots"
+  },
+  {
+    "position": 33,
+    "name": "hupu.com",
+    "url": "https://hupu.com/",
+    "category": "sprots"
+  },
+  {
+    "position": 34,
+    "name": "flashscore.com",
+    "url": "https://flashscore.com/",
+    "category": "sprots"
+  },
+  {
+    "position": 35,
+    "name": "dazn.com",
+    "url": "https://dazn.com/",
+    "category": "sprots"
+  },
+  {
+    "position": 36,
+    "name": "olympics.com",
+    "url": "https://olympics.com/",
+    "category": "sprots"
+  },
+  {
+    "position": 37,
+    "name": "fubo.tv",
+    "url": "https://fubo.tv/",
+    "category": "sprots"
+  },
+  {
+    "position": 38,
+    "name": "ole.com.ar",
+    "url": "https://ole.com.ar/",
+    "category": "sprots"
+  },
+  {
+    "position": 39,
+    "name": "nba.com",
+    "url": "https://nba.com/",
+    "category": "sprots"
+  },
+  {
+    "position": 40,
+    "name": "247sports.com",
+    "url": "https://247sports.com/",
+    "category": "sprots"
+  },
+  {
+    "position": 41,
+    "name": "promiedos.com.ar",
+    "url": "https://promiedos.com.ar/",
+    "category": "sprots"
+  },
+  {
+    "position": 42,
+    "name": "sport24.ru",
+    "url": "https://sport24.ru/",
+    "category": "sprots"
+  },
+  {
+    "position": 43,
+    "name": "hochi.news",
+    "url": "https://hochi.news/",
+    "category": "sprots"
+  },
+  {
+    "position": 44,
+    "name": "maxpreps.com",
+    "url": "https://maxpreps.com/",
+    "category": "sprots"
+  },
+  {
+    "position": 45,
+    "name": "nbcsports.com",
+    "url": "https://nbcsports.com/",
+    "category": "sprots"
+  },
+  {
+    "position": 46,
+    "name": "sport.cz",
+    "url": "https://sport.cz/",
+    "category": "sprots"
+  },
+  {
+    "position": 47,
+    "name": "thestreameast.to",
+    "url": "https://thestreameast.to/",
+    "category": "sprots"
+  },
+  {
+    "position": 48,
+    "name": "sportbox.ru",
+    "url": "https://sportbox.ru/",
+    "category": "sprots"
+  },
+  {
+    "position": 49,
+    "name": "news.sportbox.ru",
+    "url": "https://news.sportbox.ru/",
+    "category": "sprots"
+  },
+  {
+    "position": 50,
+    "name": "bola.com",
+    "url": "https://bola.com/",
+    "category": "sprots"
+  }
+]
