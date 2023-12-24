@@ -1,0 +1,214 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "button",
+      "points": [
+        [
+          65.00000000000009,
+          491.4285714285714
+        ],
+        [
+          198.57142857142864,
+          528.5714285714286
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          848.5714285714284,
+          719.9999999999999
+        ],
+        [
+          904.2857142857142,
+          739.2857142857142
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          421.42857142857144,
+          1734.2857142857142
+        ],
+        [
+          523.5714285714286,
+          1768.5714285714284
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          792.1428571428571,
+          1733.5714285714284
+        ],
+        [
+          895.0,
+          1768.5714285714284
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          422.8571428571429,
+          2022.1428571428569
+        ],
+        [
+          523.5714285714286,
+          2051.428571428571
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          794.2857142857142,
+          2022.8571428571427
+        ],
+        [
+          894.2857142857142,
+          2055.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          422.1428571428571,
+          2302.8571428571427
+        ],
+        [
+          525.7142857142857,
+          2336.428571428571
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          792.8571428571429,
+          2304.285714285714
+        ],
+        [
+          895.0,
+          2335.7142857142853
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          422.1428571428571,
+          2586.428571428571
+        ],
+        [
+          522.1428571428571,
+          2619.285714285714
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          474.28571428571433,
+          2826.428571428571
+        ],
+        [
+          518.5714285714286,
+          2870.7142857142853
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          845.0,
+          2826.428571428571
+        ],
+        [
+          892.1428571428571,
+          2872.142857142857
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          760.0,
+          2923.5714285714284
+        ],
+        [
+          841.4285714285713,
+          2958.5714285714284
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "0a44f209_https___hoyoverse.com_.png",
+  "imageData": null,
+  "imageHeight": 3000,
+  "imageWidth": 1075
+}
