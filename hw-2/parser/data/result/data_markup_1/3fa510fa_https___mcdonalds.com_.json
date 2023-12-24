@@ -1,0 +1,146 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "button",
+      "points": [
+        [
+          921.0275590551182,
+          12.598425196850393
+        ],
+        [
+          1000.5551181102362,
+          52.75590551181102
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          902.9173228346458,
+          103.14960629921259
+        ],
+        [
+          999.767716535433,
+          140.15748031496062
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          738.3503937007874,
+          568.503937007874
+        ],
+        [
+          890.3188976377953,
+          610.2362204724409
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          736.775590551181,
+          952.755905511811
+        ],
+        [
+          908.4291338582677,
+          996.0629921259842
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          737.5629921259842,
+          1338.5826771653544
+        ],
+        [
+          883.232283464567,
+          1382.6771653543308
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          738.3503937007874,
+          1640.9448818897638
+        ],
+        [
+          877.7204724409448,
+          1684.251968503937
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          737.5629921259842,
+          2011.8110236220473
+        ],
+        [
+          902.9173228346458,
+          2055.9055118110236
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          736.775590551181,
+          2315.748031496063
+        ],
+        [
+          877.7204724409448,
+          2360.6299212598424
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "3fa510fa_https___mcdonalds.com_.png",
+  "imageData": null,
+  "imageHeight": 3000,
+  "imageWidth": 1183
+}

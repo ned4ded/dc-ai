@@ -1,0 +1,146 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "button",
+      "points": [
+        [
+          1520.753246753247,
+          24.025974025974026
+        ],
+        [
+          1614.2597402597403,
+          70.77922077922078
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          1113.6103896103896,
+          276.6233766233766
+        ],
+        [
+          1249.974025974026,
+          334.4155844155844
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          1261.012987012987,
+          277.9220779220779
+        ],
+        [
+          1375.948051948052,
+          335.06493506493507
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          285.0389610389611,
+          555.1948051948052
+        ],
+        [
+          389.5844155844156,
+          605.1948051948052
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          399.32467532467535,
+          556.4935064935065
+        ],
+        [
+          509.06493506493507,
+          605.8441558441558
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          519.4545454545454,
+          557.1428571428571
+        ],
+        [
+          619.4545454545454,
+          604.5454545454545
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          631.7922077922077,
+          556.4935064935065
+        ],
+        [
+          779.8441558441558,
+          605.1948051948052
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          1551.2727272727273,
+          1248.051948051948
+        ],
+        [
+          1612.961038961039,
+          1309.090909090909
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "71e67ae2_https___realestate.com.au_.png",
+  "imageData": null,
+  "imageHeight": 3000,
+  "imageWidth": 1898
+}

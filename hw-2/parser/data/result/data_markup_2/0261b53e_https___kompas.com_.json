@@ -1,0 +1,214 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "button",
+      "points": [
+        [
+          248.0,
+          11.862068965517242
+        ],
+        [
+          284.55172413793105,
+          18.482758620689655
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          171.86206896551724,
+          137.24137931034483
+        ],
+        [
+          178.3448275862069,
+          144.27586206896552
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          296.82758620689657,
+          137.51724137931035
+        ],
+        [
+          303.86206896551727,
+          143.86206896551724
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          67.44827586206897,
+          156.68965517241378
+        ],
+        [
+          94.06896551724138,
+          162.48275862068965
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          300.41379310344826,
+          175.31034482758622
+        ],
+        [
+          307.86206896551727,
+          183.0344827586207
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          199.58620689655172,
+          499.44827586206895
+        ],
+        [
+          228.55172413793105,
+          508.82758620689657
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          264.55172413793105,
+          1813.2413793103449
+        ],
+        [
+          282.7586206896552,
+          1820.2758620689656
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          128.0,
+          2801.3793103448274
+        ],
+        [
+          136.0,
+          2809.5172413793102
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          137.79310344827587,
+          2801.2413793103447
+        ],
+        [
+          145.51724137931035,
+          2809.655172413793
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          146.89655172413794,
+          2800.689655172414
+        ],
+        [
+          153.6551724137931,
+          2810.344827586207
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          156.9655172413793,
+          2801.655172413793
+        ],
+        [
+          163.58620689655172,
+          2809.9310344827586
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          269.6551724137931,
+          2909.103448275862
+        ],
+        [
+          308.0,
+          2917.9310344827586
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "0261b53e_https___kompas.com_.png",
+  "imageData": null,
+  "imageHeight": 3000,
+  "imageWidth": 368
+}

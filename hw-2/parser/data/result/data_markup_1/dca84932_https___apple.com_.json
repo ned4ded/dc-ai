@@ -1,0 +1,61 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "button",
+      "points": [
+        [
+          338.095744680851,
+          852.659574468085
+        ],
+        [
+          408.3085106382978,
+          876.595744680851
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          414.159574468085,
+          852.127659574468
+        ],
+        [
+          456.7127659574468,
+          876.595744680851
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          116.8191489361702,
+          2447.8723404255315
+        ],
+        [
+          196.07446808510636,
+          2472.8723404255315
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "dca84932_https___apple.com_.png",
+  "imageData": null,
+  "imageHeight": 3000,
+  "imageWidth": 798
+}

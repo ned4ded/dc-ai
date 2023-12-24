@@ -1,0 +1,44 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "button",
+      "points": [
+        [
+          3250.8474576271187,
+          979.6610169491526
+        ],
+        [
+          4166.1016949152545,
+          1116.949152542373
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          3245.762711864407,
+          1761.0169491525426
+        ],
+        [
+          4162.71186440678,
+          1896.6101694915255
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "b4a92bfc_https___vk.com_.png",
+  "imageData": null,
+  "imageHeight": 3000,
+  "imageWidth": 5333
+}

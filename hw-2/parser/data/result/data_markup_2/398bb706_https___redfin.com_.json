@@ -1,0 +1,78 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "button",
+      "points": [
+        [
+          876.9860557768924,
+          7.569721115537848
+        ],
+        [
+          924.3964143426294,
+          30.278884462151392
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          931.1693227091633,
+          6.374501992031872
+        ],
+        [
+          988.5398406374502,
+          31.075697211155376
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          563.0418326693227,
+          492.8286852589641
+        ],
+        [
+          648.699203187251,
+          520.7171314741036
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          833.9581673306773,
+          1212.3505976095616
+        ],
+        [
+          891.7270916334661,
+          1237.848605577689
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "398bb706_https___redfin.com_.png",
+  "imageData": null,
+  "imageHeight": 3000,
+  "imageWidth": 997
+}

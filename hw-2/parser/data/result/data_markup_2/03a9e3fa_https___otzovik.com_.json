@@ -1,0 +1,44 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "button",
+      "points": [
+        [
+          396.8455882352941,
+          23.713235294117645
+        ],
+        [
+          467.25,
+          39.522058823529406
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          473.5,
+          22.610294117647058
+        ],
+        [
+          541.6985294117646,
+          39.15441176470588
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "03a9e3fa_https___otzovik.com_.png",
+  "imageData": null,
+  "imageHeight": 3000,
+  "imageWidth": 672
+}

@@ -1,0 +1,44 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "button",
+      "points": [
+        [
+          71.32352941176471,
+          77.64705882352942
+        ],
+        [
+          122.50000000000001,
+          115.29411764705883
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          961.3235294117646,
+          13.529411764705882
+        ],
+        [
+          1030.735294117647,
+          39.411764705882355
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "f7c6af34_https___instacart.com_.png",
+  "imageData": null,
+  "imageHeight": 3000,
+  "imageWidth": 1055
+}

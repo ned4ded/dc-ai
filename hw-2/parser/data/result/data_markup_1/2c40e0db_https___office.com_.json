@@ -1,0 +1,112 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "button",
+      "points": [
+        [
+          359.90239043824704,
+          1.99203187250996
+        ],
+        [
+          395.7589641434263,
+          21.51394422310757
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          263.886454183267,
+          195.61752988047806
+        ],
+        [
+          358.30876494023903,
+          217.52988047808762
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          363.08964143426294,
+          195.21912350597609
+        ],
+        [
+          458.707171314741,
+          218.32669322709162
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          196.9541832669323,
+          2414.3426294820715
+        ],
+        [
+          300.5398406374502,
+          2440.637450199203
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          308.50796812749,
+          2414.7410358565735
+        ],
+        [
+          412.49203187251,
+          2440.637450199203
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          421.65537848605584,
+          2414.7410358565735
+        ],
+        [
+          526.0378486055777,
+          2440.637450199203
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "2c40e0db_https___office.com_.png",
+  "imageData": null,
+  "imageHeight": 3000,
+  "imageWidth": 721
+}

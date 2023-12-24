@@ -1,0 +1,214 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "button",
+      "points": [
+        [
+          737.8070175438596,
+          5.701754385964912
+        ],
+        [
+          826.4035087719298,
+          26.31578947368421
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          834.298245614035,
+          5.701754385964912
+        ],
+        [
+          930.3508771929824,
+          26.754385964912277
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          827.7192982456139,
+          718.8596491228069
+        ],
+        [
+          1012.3684210526314,
+          749.1228070175438
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          18.070175438596507,
+          818.4210526315788
+        ],
+        [
+          76.40350877192984,
+          844.298245614035
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          696.1403508771929,
+          1076.7543859649122
+        ],
+        [
+          716.3157894736842,
+          1096.9298245614034
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          716.7543859649122,
+          1075.877192982456
+        ],
+        [
+          737.3684210526316,
+          1096.4912280701753
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          696.1403508771929,
+          1629.3859649122805
+        ],
+        [
+          717.6315789473683,
+          1652.1929824561403
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          718.0701754385964,
+          1628.9473684210525
+        ],
+        [
+          739.5614035087718,
+          1652.1929824561403
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          13.684210526315809,
+          1418.8596491228068
+        ],
+        [
+          200.5263157894737,
+          1448.2456140350876
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          694.3859649122807,
+          2467.9824561403507
+        ],
+        [
+          718.5087719298244,
+          2489.035087719298
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          717.1929824561403,
+          2467.9824561403507
+        ],
+        [
+          738.6842105263157,
+          2491.2280701754385
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          1006.6666666666665,
+          33.7719298245614
+        ],
+        [
+          1025.0877192982455,
+          52.63157894736842
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "74ec9ca8_https___rbc.ru_.png",
+  "imageData": null,
+  "imageHeight": 3000,
+  "imageWidth": 1130
+}

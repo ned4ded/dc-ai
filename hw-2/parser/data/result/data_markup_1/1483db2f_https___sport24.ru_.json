@@ -1,0 +1,78 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "button",
+      "points": [
+        [
+          1311.318181818182,
+          38.31168831168831
+        ],
+        [
+          1406.7727272727273,
+          1.2987012987012987
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          952.2272727272727,
+          548.7012987012987
+        ],
+        [
+          1168.461038961039,
+          585.0649350649351
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          948.3311688311688,
+          846.1038961038961
+        ],
+        [
+          1165.8636363636365,
+          895.4545454545454
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          626.9025974025974,
+          2279.87012987013
+        ],
+        [
+          787.2922077922078,
+          2327.272727272727
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "1483db2f_https___sport24.ru_.png",
+  "imageData": null,
+  "imageHeight": 3000,
+  "imageWidth": 1409
+}

@@ -1,0 +1,163 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "button",
+      "points": [
+        [
+          307.156862745098,
+          12.009803921568627
+        ],
+        [
+          332.8921568627451,
+          20.098039215686274
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          213.0392156862745,
+          579.1666666666666
+        ],
+        [
+          267.4509803921569,
+          588.4803921568628
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          94.16666666666666,
+          747.7941176470588
+        ],
+        [
+          285.83333333333337,
+          759.0686274509803
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          93.6764705882353,
+          1067.892156862745
+        ],
+        [
+          286.56862745098033,
+          1080.1470588235295
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          93.18627450980392,
+          1626.9607843137255
+        ],
+        [
+          287.0588235294117,
+          1639.2156862745098
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          93.18627450980392,
+          1766.421568627451
+        ],
+        [
+          286.56862745098033,
+          1777.9411764705883
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          94.16666666666666,
+          2240.6862745098038
+        ],
+        [
+          287.3039215686274,
+          2251.225490196078
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          93.6764705882353,
+          2372.7941176470586
+        ],
+        [
+          286.32352941176475,
+          2384.0686274509803
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          92.45098039215685,
+          2834.803921568627
+        ],
+        [
+          287.5490196078431,
+          2846.5686274509803
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "13819f86_https___homesandgardens.com_.png",
+  "imageData": null,
+  "imageHeight": 3000,
+  "imageWidth": 380
+}

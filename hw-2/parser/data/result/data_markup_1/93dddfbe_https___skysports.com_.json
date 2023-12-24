@@ -1,0 +1,61 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "button",
+      "points": [
+        [
+          3783.166666666666,
+          319.2307692307692
+        ],
+        [
+          4283.166666666666,
+          457.6923076923076
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          1690.8589743589741,
+          1957.6923076923076
+        ],
+        [
+          2249.833333333333,
+          2096.153846153846
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          2295.987179487179,
+          1960.2564102564102
+        ],
+        [
+          2849.833333333333,
+          2085.897435897436
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "93dddfbe_https___skysports.com_.png",
+  "imageData": null,
+  "imageHeight": 3000,
+  "imageWidth": 5333
+}

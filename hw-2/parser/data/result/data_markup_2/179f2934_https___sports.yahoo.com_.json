@@ -1,0 +1,129 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "button",
+      "points": [
+        [
+          749.0974729241877,
+          49.81949458483754
+        ],
+        [
+          817.6895306859205,
+          70.7581227436823
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          828.1588447653429,
+          50.18050541516246
+        ],
+        [
+          903.2490974729242,
+          68.95306859205776
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          914.8014440433213,
+          50.18050541516246
+        ],
+        [
+          1013.7184115523465,
+          70.3971119133574
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          964.2599277978339,
+          11.191335740072201
+        ],
+        [
+          1020.5776173285199,
+          36.101083032490976
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          966.7870036101083,
+          981.2274368231047
+        ],
+        [
+          997.1119133574007,
+          1009.0252707581227
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          918.4115523465704,
+          1211.1913357400722
+        ],
+        [
+          997.8339350180505,
+          1239.71119133574
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          805.4151624548737,
+          1461.7328519855596
+        ],
+        [
+          868.231046931408,
+          1487.725631768953
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "179f2934_https___sports.yahoo.com_.png",
+  "imageData": null,
+  "imageHeight": 3000,
+  "imageWidth": 1117
+}

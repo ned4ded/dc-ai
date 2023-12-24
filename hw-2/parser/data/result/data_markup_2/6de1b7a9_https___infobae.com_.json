@@ -1,0 +1,163 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "button",
+      "points": [
+        [
+          245.37395659432386,
+          29.382303839732888
+        ],
+        [
+          284.2721202003339,
+          43.90651085141903
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          361.9015025041736,
+          29.382303839732888
+        ],
+        [
+          396.95993322203674,
+          38.73121869782972
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          401.63439065108514,
+          29.549248747913186
+        ],
+        [
+          438.02838063439066,
+          38.56427378964941
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          247.71118530884806,
+          275.95993322203674
+        ],
+        [
+          256.559265442404,
+          284.9749582637729
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          20.16527545909849,
+          272.2871452420701
+        ],
+        [
+          32.853088480801325,
+          284.1402337228714
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          19.49749582637729,
+          514.1903171953255
+        ],
+        [
+          28.51252086811352,
+          522.3706176961603
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          19.49749582637729,
+          1645.2420701168614
+        ],
+        [
+          30.181969949916514,
+          1656.5943238731218
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          134.52253756260433,
+          1646.4106844741234
+        ],
+        [
+          144.87312186978295,
+          1656.2604340567611
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          191.11686143572618,
+          2286.3105175292153
+        ],
+        [
+          198.96327212020032,
+          2294.1569282136893
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "6de1b7a9_https___infobae.com_.png",
+  "imageData": null,
+  "imageHeight": 3000,
+  "imageWidth": 442
+}

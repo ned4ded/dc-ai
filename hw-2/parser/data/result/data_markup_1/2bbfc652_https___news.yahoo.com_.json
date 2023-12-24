@@ -1,0 +1,44 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "button",
+      "points": [
+        [
+          996.1352657004832,
+          7.729468599033598
+        ],
+        [
+          1057.9710144927537,
+          41.54589371980654
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          900.0000000000001,
+          437.19806763285004
+        ],
+        [
+          990.3381642512078,
+          460.8695652173911
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "2bbfc652_https___news.yahoo.com_.png",
+  "imageData": null,
+  "imageHeight": 3000,
+  "imageWidth": 1175
+}

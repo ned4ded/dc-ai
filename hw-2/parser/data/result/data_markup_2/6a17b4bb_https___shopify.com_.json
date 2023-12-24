@@ -1,0 +1,231 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "button",
+      "points": [
+        [
+          323.184855233853,
+          2.4498886414253898
+        ],
+        [
+          358.5968819599109,
+          14.031180400890868
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          299.1314031180401,
+          159.6881959910913
+        ],
+        [
+          359.4877505567929,
+          174.8329621380846
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          21.848552338530084,
+          159.4654788418708
+        ],
+        [
+          61.49220489977728,
+          173.2739420935412
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          22.071269487750556,
+          1098.8864142538976
+        ],
+        [
+          31.42538975501114,
+          1108.685968819599
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          348.79732739420933,
+          1499.109131403118
+        ],
+        [
+          358.5968819599109,
+          1509.13140311804
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          173.9643652561247,
+          2116.2583518930956
+        ],
+        [
+          205.5902004454343,
+          2148.106904231626
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          21.625835189309583,
+          2363.9198218262804
+        ],
+        [
+          33.429844097995556,
+          2375.055679287305
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          36.54788418708242,
+          2363.9198218262804
+        ],
+        [
+          48.57461024498886,
+          2375.055679287305
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          67.28285077951003,
+          2561.024498886414
+        ],
+        [
+          88.44097995545658,
+          2569.487750556793
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          204.9220489977728,
+          2560.3563474387524
+        ],
+        [
+          227.6391982182628,
+          2570.3786191536747
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          67.9510022271715,
+          2657.461024498886
+        ],
+        [
+          94.00890868596883,
+          2667.4832962138084
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          204.9220489977728,
+          2657.461024498886
+        ],
+        [
+          230.3118040089087,
+          2667.0378619153676
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          171.7371937639198,
+          2783.0734966592427
+        ],
+        [
+          209.82182628062358,
+          2795.32293986637
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "6a17b4bb_https___shopify.com_.png",
+  "imageData": null,
+  "imageHeight": 3000,
+  "imageWidth": 380
+}

@@ -1,0 +1,61 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "button",
+      "points": [
+        [
+          4706.976744186047,
+          27.906976744186046
+        ],
+        [
+          4906.976744186047,
+          132.55813953488374
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          4930.232558139535,
+          25.58139534883721
+        ],
+        [
+          5176.7441860465115,
+          144.18604651162792
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          4900.0,
+          2846.5116279069766
+        ],
+        [
+          5148.837209302325,
+          2960.4651162790697
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "de90f052_https___twitch.tv_.png",
+  "imageData": null,
+  "imageHeight": 3000,
+  "imageWidth": 5333
+}

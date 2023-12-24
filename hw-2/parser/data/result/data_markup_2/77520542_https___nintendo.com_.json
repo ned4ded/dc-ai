@@ -1,0 +1,180 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "button",
+      "points": [
+        [
+          440.4115523465704,
+          366.06498194945846
+        ],
+        [
+          518.028880866426,
+          391.69675090252707
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          337.1624548736462,
+          425.2707581227437
+        ],
+        [
+          354.4909747292419,
+          441.8772563176895
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          362.7942238267148,
+          424.18772563176896
+        ],
+        [
+          379.40072202166067,
+          440.7942238267148
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          490.5920577617328,
+          425.2707581227437
+        ],
+        [
+          507.19855595667866,
+          441.1552346570397
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          381.5667870036101,
+          909.0252707581227
+        ],
+        [
+          471.4584837545126,
+          935.7400722021661
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          388.0649819494585,
+          1256.678700361011
+        ],
+        [
+          473.6245487364621,
+          1283.0324909747292
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          118.38989169675092,
+          1875.451263537906
+        ],
+        [
+          251.60288808664262,
+          1901.0830324909748
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          689.1480144404333,
+          2110.1083032490974
+        ],
+        [
+          727.0541516245487,
+          2318.4115523465703
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          690.9530685920578,
+          2364.259927797834
+        ],
+        [
+          725.971119133574,
+          2573.6462093862815
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          806.8375451263538,
+          511.913357400722
+        ],
+        [
+          842.5776173285199,
+          706.8592057761733
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "77520542_https___nintendo.com_.png",
+  "imageData": null,
+  "imageHeight": 3000,
+  "imageWidth": 844
+}

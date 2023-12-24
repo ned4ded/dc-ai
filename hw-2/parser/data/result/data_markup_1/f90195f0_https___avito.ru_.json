@@ -1,0 +1,95 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "button",
+      "points": [
+        [
+          929.8429951690821,
+          1.9323671497582346
+        ],
+        [
+          1066.5579710144928,
+          32.36714975845389
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          196.0265700483091,
+          47.82608695652152
+        ],
+        [
+          319.21497584541055,
+          82.60869565217371
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          899.8913043478261,
+          110.6280193236713
+        ],
+        [
+          1012.9347826086956,
+          136.2318840579708
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          901.8236714975845,
+          140.57971014492733
+        ],
+        [
+          1013.4178743961353,
+          166.18357487922682
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          743.8526570048309,
+          275.3623188405795
+        ],
+        [
+          814.867149758454,
+          343.478260869565
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "f90195f0_https___avito.ru_.png",
+  "imageData": null,
+  "imageHeight": 3000,
+  "imageWidth": 1165
+}

@@ -1,0 +1,163 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "button",
+      "points": [
+        [
+          570.8032786885245,
+          1.967213114754098
+        ],
+        [
+          627.5245901639344,
+          22.950819672131146
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          634.0819672131147,
+          3.60655737704918
+        ],
+        [
+          690.4754098360655,
+          23.606557377049178
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          349.4918032786885,
+          246.5573770491803
+        ],
+        [
+          409.4918032786885,
+          264.2622950819672
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          343.2622950819672,
+          518.0327868852459
+        ],
+        [
+          416.37704918032784,
+          535.7377049180327
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          526.2131147540983,
+          620.655737704918
+        ],
+        [
+          622.6065573770492,
+          640.327868852459
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          349.1639344262295,
+          1825.573770491803
+        ],
+        [
+          409.16393442622945,
+          1841.967213114754
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          338.99999999999994,
+          2719.3442622950815
+        ],
+        [
+          418.34426229508193,
+          2736.7213114754095
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          436.70491803278685,
+          2899.0163934426228
+        ],
+        [
+          532.4426229508197,
+          2920.327868852459
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          542.9344262295082,
+          2970.1639344262294
+        ],
+        [
+          690.4754098360655,
+          2989.180327868852
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "060df3d1_https___nexusmods.com_.png",
+  "imageData": null,
+  "imageHeight": 3000,
+  "imageWidth": 758
+}

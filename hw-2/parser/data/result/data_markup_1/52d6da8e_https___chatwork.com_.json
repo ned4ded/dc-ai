@@ -1,0 +1,61 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "button",
+      "points": [
+        [
+          2124.833333333333,
+          970.8333333333334
+        ],
+        [
+          3208.1666666666665,
+          1154.1666666666667
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          2129.0,
+          1362.5
+        ],
+        [
+          3216.5,
+          1554.1666666666667
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          2126.9166666666665,
+          1564.5833333333335
+        ],
+        [
+          3201.9166666666665,
+          1754.1666666666667
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "52d6da8e_https___chatwork.com_.png",
+  "imageData": null,
+  "imageHeight": 3000,
+  "imageWidth": 5333
+}

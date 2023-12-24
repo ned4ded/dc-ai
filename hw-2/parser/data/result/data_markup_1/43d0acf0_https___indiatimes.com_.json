@@ -1,0 +1,44 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "button",
+      "points": [
+        [
+          1343.0555555555554,
+          1240.7407407407406
+        ],
+        [
+          1368.5185185185185,
+          1267.1296296296296
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          1342.1296296296296,
+          1617.1296296296296
+        ],
+        [
+          1368.9814814814813,
+          1644.9074074074074
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "43d0acf0_https___indiatimes.com_.png",
+  "imageData": null,
+  "imageHeight": 3000,
+  "imageWidth": 1613
+}

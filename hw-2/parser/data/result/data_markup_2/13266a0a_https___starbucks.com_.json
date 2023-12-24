@@ -1,0 +1,163 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "button",
+      "points": [
+        [
+          873.5319148936169,
+          21.27659574468085
+        ],
+        [
+          927.7872340425531,
+          43.61702127659574
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          936.2978723404253,
+          21.80851063829787
+        ],
+        [
+          1000.6595744680851,
+          45.212765957446805
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          242.68085106382975,
+          264.89361702127655
+        ],
+        [
+          328.3191489361701,
+          290.4255319148936
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          723.531914893617,
+          640.4255319148936
+        ],
+        [
+          799.595744680851,
+          665.4255319148936
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          557.0425531914893,
+          947.8723404255319
+        ],
+        [
+          607.0425531914893,
+          967.5531914893617
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          242.68085106382975,
+          1073.936170212766
+        ],
+        [
+          326.1914893617021,
+          1100.5319148936169
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          720.8723404255319,
+          1520.2127659574467
+        ],
+        [
+          797.9999999999999,
+          1545.7446808510638
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          246.93617021276592,
+          1885.6382978723402
+        ],
+        [
+          324.595744680851,
+          1910.1063829787233
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          711.8297872340424,
+          2172.3404255319147
+        ],
+        [
+          811.2978723404254,
+          2196.276595744681
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "13266a0a_https___starbucks.com_.png",
+  "imageData": null,
+  "imageHeight": 3000,
+  "imageWidth": 1046
+}

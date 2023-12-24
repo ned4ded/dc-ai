@@ -1,0 +1,61 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "button",
+      "points": [
+        [
+          2124.192307692308,
+          1245.1923076923076
+        ],
+        [
+          3162.653846153846,
+          1354.8076923076924
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          2122.269230769231,
+          1377.8846153846155
+        ],
+        [
+          3156.8846153846157,
+          1485.576923076923
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          2487.653846153846,
+          1756.7307692307693
+        ],
+        [
+          2799.192307692308,
+          1858.653846153846
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "3334dc3f_https___ok.ru_.png",
+  "imageData": null,
+  "imageHeight": 3000,
+  "imageWidth": 5333
+}

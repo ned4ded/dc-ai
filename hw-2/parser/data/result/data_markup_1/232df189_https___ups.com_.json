@@ -1,0 +1,95 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "button",
+      "points": [
+        [
+          902.7272727272726,
+          67.53246753246754
+        ],
+        [
+          984.5454545454546,
+          102.59740259740259
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          534.5454545454545,
+          235.06493506493507
+        ],
+        [
+          620.9090909090909,
+          272.72727272727275
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          640.3896103896104,
+          714.2857142857142
+        ],
+        [
+          757.2727272727273,
+          746.1038961038961
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          795.5844155844155,
+          887.012987012987
+        ],
+        [
+          931.2987012987013,
+          921.4285714285714
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          126.75324675324677,
+          1223.3766233766235
+        ],
+        [
+          264.4155844155845,
+          1260.3896103896104
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "232df189_https___ups.com_.png",
+  "imageData": null,
+  "imageHeight": 3000,
+  "imageWidth": 1110
+}

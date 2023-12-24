@@ -1,0 +1,214 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "button",
+      "points": [
+        [
+          530.902390438247,
+          37.450199203187246
+        ],
+        [
+          597.0378486055777,
+          63.34661354581673
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          318.95019920318725,
+          654.1832669322708
+        ],
+        [
+          344.84661354581675,
+          680.8764940239043
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          350.4243027888446,
+          654.9800796812748
+        ],
+        [
+          377.5159362549801,
+          679.2828685258963
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          266.3605577689243,
+          1743.824701195219
+        ],
+        [
+          398.6314741035857,
+          1780.8764940239041
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          401.4203187250996,
+          1986.05577689243
+        ],
+        [
+          455.20517928286847,
+          2033.8645418326691
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          283.89043824701196,
+          2613.5458167330676
+        ],
+        [
+          378.31274900398404,
+          2643.426294820717
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          368.35258964143424,
+          2968.5258964143422
+        ],
+        [
+          471.1414342629482,
+          2992.430278884462
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          481.7401960784314,
+          2743.75
+        ],
+        [
+          499.63235294117646,
+          2759.8039215686276
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          507.59803921568624,
+          2744.607843137255
+        ],
+        [
+          523.0392156862745,
+          2760.4166666666665
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          530.2696078431372,
+          2743.9950980392155
+        ],
+        [
+          548.5294117647059,
+          2761.029411764706
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          554.656862745098,
+          2743.75
+        ],
+        [
+          573.1617647058823,
+          2760.5392156862745
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          578.5539215686274,
+          2743.9950980392155
+        ],
+        [
+          596.2009803921569,
+          2760.906862745098
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "150d970c_https___sikayetvar.com_.png",
+  "imageData": null,
+  "imageHeight": 3000,
+  "imageWidth": 663
+}

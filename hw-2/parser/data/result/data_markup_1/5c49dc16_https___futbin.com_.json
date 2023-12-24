@@ -1,0 +1,214 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "button",
+      "points": [
+        [
+          1450.996015936255,
+          20.318725099601593
+        ],
+        [
+          1567.3306772908365,
+          53.78486055776892
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          1086.4541832669322,
+          536.6533864541832
+        ],
+        [
+          1105.179282868526,
+          556.1752988047808
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          594.8453237410072,
+          1246.7625899280574
+        ],
+        [
+          896.2841726618705,
+          1298.5611510791366
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          919.3057553956834,
+          1245.323741007194
+        ],
+        [
+          1161.751798561151,
+          1297.841726618705
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          201.32014388489208,
+          1388.4892086330933
+        ],
+        [
+          263.1906474820144,
+          1434.5323741007194
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          271.1043165467626,
+          1390.6474820143883
+        ],
+        [
+          376.1402877697842,
+          1433.093525179856
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          382.6151079136691,
+          1388.4892086330933
+        ],
+        [
+          522.18345323741,
+          1434.5323741007194
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          528.658273381295,
+          1390.6474820143883
+        ],
+        [
+          685.4928057553957,
+          1433.8129496402876
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          693.4064748201439,
+          1392.0863309352517
+        ],
+        [
+          933.6942446043165,
+          1432.3741007194244
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          939.4496402877697,
+          1390.6474820143883
+        ],
+        [
+          1122.1834532374098,
+          1433.8129496402876
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          1128.6582733812947,
+          1392.0863309352517
+        ],
+        [
+          1256.7158273381294,
+          1432.3741007194244
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          619.3057553956835,
+          2433.8129496402876
+        ],
+        [
+          791.2482014388489,
+          2487.05035971223
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "5c49dc16_https___futbin.com_.png",
+  "imageData": null,
+  "imageHeight": 3000,
+  "imageWidth": 1753
+}

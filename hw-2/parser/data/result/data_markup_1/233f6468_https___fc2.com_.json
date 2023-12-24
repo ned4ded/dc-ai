@@ -1,0 +1,61 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "button",
+      "points": [
+        [
+          2191.666666666667,
+          161.11111111111111
+        ],
+        [
+          2381.9444444444443,
+          212.5
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          665.2777777777778,
+          268.05555555555554
+        ],
+        [
+          1038.888888888889,
+          362.5
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          662.5,
+          440.27777777777777
+        ],
+        [
+          1044.4444444444446,
+          530.5555555555555
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "233f6468_https___fc2.com_.png",
+  "imageData": null,
+  "imageHeight": 3000,
+  "imageWidth": 3031
+}

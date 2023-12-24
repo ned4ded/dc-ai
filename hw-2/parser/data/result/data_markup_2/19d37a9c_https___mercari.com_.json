@@ -1,0 +1,112 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "button",
+      "points": [
+        [
+          106.91489361702128,
+          212.7659574468085
+        ],
+        [
+          214.8936170212766,
+          231.91489361702125
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          219.68085106382978,
+          212.23404255319147
+        ],
+        [
+          297.87234042553195,
+          234.57446808510636
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          303.72340425531917,
+          211.70212765957444
+        ],
+        [
+          390.9574468085106,
+          234.04255319148936
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          860.6382978723404,
+          12.234042553191488
+        ],
+        [
+          926.5957446808509,
+          32.4468085106383
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          605.3191489361702,
+          2952.127659574468
+        ],
+        [
+          678.7234042553191,
+          2970.2127659574467
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          689.8936170212767,
+          2953.1914893617018
+        ],
+        [
+          732.9787234042553,
+          2970.2127659574467
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "19d37a9c_https___mercari.com_.png",
+  "imageData": null,
+  "imageHeight": 3000,
+  "imageWidth": 950
+}

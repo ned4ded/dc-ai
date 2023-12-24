@@ -1,0 +1,27 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "button",
+      "points": [
+        [
+          1744.3846153846155,
+          101.92307692307692
+        ],
+        [
+          1971.3076923076926,
+          150.96153846153845
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "63fcb60d_https___amazon.com.br_.png",
+  "imageData": null,
+  "imageHeight": 3000,
+  "imageWidth": 2308
+}

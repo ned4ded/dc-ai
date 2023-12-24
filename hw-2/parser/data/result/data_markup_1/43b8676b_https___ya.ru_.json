@@ -1,0 +1,95 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "button",
+      "points": [
+        [
+          3418.2441860465115,
+          27.906976744186046
+        ],
+        [
+          3769.406976744186,
+          120.93023255813954
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          4688.011627906977,
+          246.51162790697674
+        ],
+        [
+          5022.89534883721,
+          416.27906976744185
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          3985.686046511628,
+          1837.2093023255813
+        ],
+        [
+          4071.732558139535,
+          1932.5581395348838
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          2025.2209302325582,
+          1981.3953488372094
+        ],
+        [
+          2462.4302325581393,
+          2086.046511627907
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          2806.6162790697676,
+          1865.1162790697674
+        ],
+        [
+          3246.1511627906975,
+          1969.7674418604652
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "43b8676b_https___ya.ru_.png",
+  "imageData": null,
+  "imageHeight": 3000,
+  "imageWidth": 5283
+}

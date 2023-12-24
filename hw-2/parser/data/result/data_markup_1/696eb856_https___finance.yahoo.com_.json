@@ -1,0 +1,78 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "button",
+      "points": [
+        [
+          690.8947368421051,
+          23.245614035087716
+        ],
+        [
+          744.4035087719298,
+          43.421052631578945
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          699.6666666666665,
+          519.2982456140351
+        ],
+        [
+          789.5789473684209,
+          547.8070175438596
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          416.77192982456137,
+          432.45614035087715
+        ],
+        [
+          459.7543859649122,
+          472.3684210526315
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          550.5438596491227,
+          434.6491228070175
+        ],
+        [
+          588.2631578947368,
+          470.61403508771923
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "696eb856_https___finance.yahoo.com_.png",
+  "imageData": null,
+  "imageHeight": 3000,
+  "imageWidth": 941
+}

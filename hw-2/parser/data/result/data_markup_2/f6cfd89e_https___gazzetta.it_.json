@@ -1,0 +1,44 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "button",
+      "points": [
+        [
+          1314.5769230769233,
+          2106.730769230769
+        ],
+        [
+          4029.9615384615386,
+          2239.4230769230767
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          1310.7307692307695,
+          2279.807692307692
+        ],
+        [
+          4029.9615384615386,
+          2422.1153846153843
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "f6cfd89e_https___gazzetta.it_.png",
+  "imageData": null,
+  "imageHeight": 3000,
+  "imageWidth": 5283
+}

@@ -1,0 +1,95 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "button",
+      "points": [
+        [
+          52.761904761904745,
+          191.07142857142858
+        ],
+        [
+          144.13095238095235,
+          210.11904761904762
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          156.03571428571428,
+          191.07142857142858
+        ],
+        [
+          248.29761904761904,
+          210.11904761904762
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          683.1190476190476,
+          1693.75
+        ],
+        [
+          707.2261904761905,
+          1724.404761904762
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          36.09523809523809,
+          1694.047619047619
+        ],
+        [
+          68.83333333333333,
+          1723.2142857142858
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          381.6309523809524,
+          5.654761904761905
+        ],
+        [
+          414.36904761904765,
+          19.345238095238095
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "2e9d176b_https___live.com_.png",
+  "imageData": null,
+  "imageHeight": 3000,
+  "imageWidth": 746
+}

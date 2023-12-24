@@ -1,0 +1,180 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "button",
+      "points": [
+        [
+          1343.065693430657,
+          51.0948905109489
+        ],
+        [
+          1541.6058394160582,
+          108.02919708029196
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          1594.8905109489049,
+          457.6642335766423
+        ],
+        [
+          1645.9854014598538,
+          503.6496350364963
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          190.51094890510947,
+          426.27737226277367
+        ],
+        [
+          394.8905109489051,
+          491.24087591240874
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          1400.0,
+          616.7883211678832
+        ],
+        [
+          1613.1386861313867,
+          678.8321167883211
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          448.1751824817518,
+          1547.4452554744523
+        ],
+        [
+          489.7810218978102,
+          1586.861313868613
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          772.2627737226277,
+          1546.715328467153
+        ],
+        [
+          813.1386861313867,
+          1588.3211678832115
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          1092.7007299270072,
+          1545.9854014598538
+        ],
+        [
+          1132.1167883211679,
+          1586.1313868613138
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          1413.868613138686,
+          1546.715328467153
+        ],
+        [
+          1459.85401459854,
+          1586.1313868613138
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          189.05109489051094,
+          2184.6715328467153
+        ],
+        [
+          435.0364963503649,
+          2251.824817518248
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          1407.2992700729926,
+          2715.3284671532842
+        ],
+        [
+          1594.8905109489049,
+          2760.5839416058393
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "b455688c_https___ebay.de_.png",
+  "imageData": null,
+  "imageHeight": 3000,
+  "imageWidth": 1817
+}

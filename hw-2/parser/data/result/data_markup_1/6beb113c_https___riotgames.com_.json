@@ -1,0 +1,95 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "button",
+      "points": [
+        [
+          820.5106382978722,
+          9.574468085106382
+        ],
+        [
+          879.5531914893618,
+          34.04255319148936
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          795.5106382978722,
+          575.531914893617
+        ],
+        [
+          857.7446808510638,
+          599.4680851063829
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          178.48936170212767,
+          2868.6170212765956
+        ],
+        [
+          327.9574468085106,
+          2909.574468085106
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          742.3191489361702,
+          2961.702127659574
+        ],
+        [
+          881.6808510638298,
+          2986.702127659574
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          880.0851063829787,
+          2948.936170212766
+        ],
+        [
+          896.5744680851062,
+          2967.0212765957444
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "6beb113c_https___riotgames.com_.png",
+  "imageData": null,
+  "imageHeight": 3000,
+  "imageWidth": 899
+}

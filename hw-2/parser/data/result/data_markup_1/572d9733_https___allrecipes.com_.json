@@ -1,0 +1,333 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "button",
+      "points": [
+        [
+          156.57015590200444,
+          371.7149220489978
+        ],
+        [
+          174.8329621380846,
+          387.9732739420935
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          292.42761692650333,
+          372.3830734966592
+        ],
+        [
+          308.2405345211581,
+          386.4142538975501
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          427.6169265033407,
+          371.9376391982182
+        ],
+        [
+          444.3207126948775,
+          387.30512249443206
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          156.07675906183368,
+          493.3901918976545
+        ],
+        [
+          174.84008528784648,
+          510.4477611940298
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          291.68443496801706,
+          493.8166311300639
+        ],
+        [
+          308.955223880597,
+          509.38166311300637
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          427.5053304904051,
+          493.1769722814499
+        ],
+        [
+          445.41577825159914,
+          510.8742004264392
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          119.29012345679014,
+          1062.7160493827162
+        ],
+        [
+          137.80864197530866,
+          1078.5185185185185
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          156.2974683544304,
+          1852.1097046413502
+        ],
+        [
+          173.80801687763716,
+          1868.987341772152
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          292.373417721519,
+          1852.1097046413502
+        ],
+        [
+          309.6729957805907,
+          1868.5654008438817
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          427.8164556962025,
+          1851.8987341772151
+        ],
+        [
+          444.90506329113924,
+          1868.1434599156116
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          156.93037974683546,
+          1974.0506329113923
+        ],
+        [
+          174.01898734177217,
+          1991.350210970464
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          292.162447257384,
+          1974.6835443037974
+        ],
+        [
+          308.6181434599156,
+          1989.240506329114
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          428.23839662447256,
+          1974.2616033755273
+        ],
+        [
+          444.48312236286915,
+          1990.717299578059
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          119.5746634026928,
+          2318.7270501835987
+        ],
+        [
+          137.56731946144433,
+          2335.0061199510405
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          119.81946144430847,
+          2474.5410036719704
+        ],
+        [
+          137.81211750306,
+          2491.187270501836
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          119.08506731946147,
+          2549.6940024479804
+        ],
+        [
+          137.20012239902084,
+          2566.5850673194614
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          119.9418604651163,
+          2627.5397796817624
+        ],
+        [
+          137.20012239902084,
+          2643.6964504283965
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          118.96266829865364,
+          2705.997552019584
+        ],
+        [
+          137.56731946144433,
+          2722.3990208078335
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          58.252753977968204,
+          2861.3219094247247
+        ],
+        [
+          156.53916768665854,
+          2882.252141982864
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "572d9733_https___allrecipes.com_.png",
+  "imageData": null,
+  "imageHeight": 3000,
+  "imageWidth": 505
+}

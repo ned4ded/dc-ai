@@ -1,0 +1,282 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "button",
+      "points": [
+        [
+          38.426294820717146,
+          52.98804780876493
+        ],
+        [
+          90.21912350597609,
+          69.3227091633466
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          90.21912350597609,
+          53.78486055776892
+        ],
+        [
+          142.01195219123508,
+          68.92430278884461
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          34.043824701195234,
+          359.76095617529876
+        ],
+        [
+          50.776892430278906,
+          375.69721115537845
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          442.4040066777963,
+          359.26544240400665
+        ],
+        [
+          459.43238731218696,
+          375.95993322203674
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          98.1636060100167,
+          411.1853088480801
+        ],
+        [
+          110.51752921535893,
+          424.3739565943239
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          181.63606010016693,
+          411.1853088480801
+        ],
+        [
+          195.82637729549248,
+          423.87312186978295
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          265.60934891485806,
+          411.8530884808013
+        ],
+        [
+          279.465776293823,
+          422.87145242070113
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          348.7479131886477,
+          410.6844741235392
+        ],
+        [
+          362.2704507512521,
+          424.04006677796326
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          433.5559265442404,
+          411.0183639398998
+        ],
+        [
+          446.91151919866445,
+          424.04006677796326
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          386.37323943661977,
+          2838.0281690140846
+        ],
+        [
+          453.97887323943667,
+          2852.4647887323945
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          455.38732394366207,
+          2962.6760563380285
+        ],
+        [
+          472.64084507042253,
+          2979.929577464789
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          38.64042933810376,
+          2947.5849731663684
+        ],
+        [
+          50.98389982110913,
+          2958.676207513417
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          52.41502683363149,
+          2947.5849731663684
+        ],
+        [
+          65.29516994633273,
+          2959.749552772809
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          65.11627906976744,
+          2947.0483005366727
+        ],
+        [
+          80.32200357781754,
+          2959.928443649374
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          78.35420393559929,
+          2947.0483005366727
+        ],
+        [
+          93.38103756708408,
+          2959.2128801431127
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          92.48658318425761,
+          2947.9427549194993
+        ],
+        [
+          106.79785330948121,
+          2959.2128801431127
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "755c5a06_https___vseinstrumenti.ru_.png",
+  "imageData": null,
+  "imageHeight": 3000,
+  "imageWidth": 490
+}

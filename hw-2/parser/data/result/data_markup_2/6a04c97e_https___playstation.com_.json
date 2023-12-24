@@ -1,0 +1,129 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "button",
+      "points": [
+        [
+          2048.342105263158,
+          64.91228070175438
+        ],
+        [
+          2219.394736842105,
+          101.75438596491227
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          571.1491228070176,
+          863.157894736842
+        ],
+        [
+          953.6052631578948,
+          1120.1754385964912
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          969.3947368421054,
+          859.6491228070174
+        ],
+        [
+          1355.359649122807,
+          1120.1754385964912
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          1371.1491228070176,
+          859.6491228070174
+        ],
+        [
+          1755.359649122807,
+          1117.5438596491226
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          574.6578947368421,
+          1135.9649122807016
+        ],
+        [
+          949.219298245614,
+          1392.1052631578946
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          974.6578947368421,
+          1135.9649122807016
+        ],
+        [
+          1354.482456140351,
+          1396.4912280701753
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          1370.2719298245613,
+          1137.7192982456138
+        ],
+        [
+          1752.7280701754385,
+          1394.736842105263
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "6a04c97e_https___playstation.com_.png",
+  "imageData": null,
+  "imageHeight": 3000,
+  "imageWidth": 2323
+}

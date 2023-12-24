@@ -1,0 +1,27 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "button",
+      "points": [
+        [
+          581.8452380952381,
+          2.678571428571429
+        ],
+        [
+          646.7261904761905,
+          18.452380952380953
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "7d199943_https___steampowered.com_.png",
+  "imageData": null,
+  "imageHeight": 3000,
+  "imageWidth": 903
+}

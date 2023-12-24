@@ -1,0 +1,61 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "button",
+      "points": [
+        [
+          132.31051752921536,
+          86.14357262103506
+        ],
+        [
+          160.02337228714524,
+          93.32220367278798
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          226.96828046744574,
+          2366.4440734557597
+        ],
+        [
+          270.04006677796326,
+          2373.455759599332
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          92.91151919866445,
+          2916.0267111853086
+        ],
+        [
+          112.4440734557596,
+          2925.041736227045
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "21fb2e9a_https___williams-sonoma.com_.png",
+  "imageData": null,
+  "imageHeight": 3000,
+  "imageWidth": 292
+}

@@ -1,0 +1,61 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "button",
+      "points": [
+        [
+          587.9025270758123,
+          8.303249097472925
+        ],
+        [
+          611.0072202166065,
+          19.494584837545126
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          489.3465703971119,
+          689.8916967509025
+        ],
+        [
+          535.1949458483755,
+          705.7761732851985
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          536.6389891696751,
+          691.3357400722022
+        ],
+        [
+          603.0649819494585,
+          704.6931407942238
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "298e4090_https___gamerant.com_.png",
+  "imageData": null,
+  "imageHeight": 3000,
+  "imageWidth": 674
+}

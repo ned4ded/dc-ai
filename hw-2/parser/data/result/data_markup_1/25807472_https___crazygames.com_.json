@@ -1,0 +1,78 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "button",
+      "points": [
+        [
+          1032.6489361702127,
+          5.8510638297872335
+        ],
+        [
+          1095.9468085106382,
+          37.234042553191486
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          655.5212765957448,
+          53.723404255319146
+        ],
+        [
+          762.436170212766,
+          87.7659574468085
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          575.6894409937888,
+          1980.7453416149067
+        ],
+        [
+          683.7639751552795,
+          2011.8012422360248
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          942.1490683229814,
+          1980.7453416149067
+        ],
+        [
+          1048.9813664596275,
+          2009.9378881987577
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "25807472_https___crazygames.com_.png",
+  "imageData": null,
+  "imageHeight": 3000,
+  "imageWidth": 1152
+}

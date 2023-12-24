@@ -1,0 +1,78 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "button",
+      "points": [
+        [
+          2264.227848101266,
+          54.43037974683544
+        ],
+        [
+          2393.3417721518986,
+          120.25316455696202
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          1769.2911392405063,
+          343.0379746835443
+        ],
+        [
+          2014.860759493671,
+          429.1139240506329
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          336.37974683544303,
+          1594.9367088607594
+        ],
+        [
+          530.0506329113924,
+          1682.2784810126582
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          552.8354430379746,
+          1600.0
+        ],
+        [
+          874.3544303797469,
+          1681.012658227848
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "65e05a86_https___opentable.com_.png",
+  "imageData": null,
+  "imageHeight": 3000,
+  "imageWidth": 2512
+}

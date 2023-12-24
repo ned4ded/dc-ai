@@ -1,0 +1,129 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "button",
+      "points": [
+        [
+          244.91803278688522,
+          27.540983606557376
+        ],
+        [
+          286.88524590163934,
+          44.59016393442622
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          359.0163934426229,
+          27.86885245901639
+        ],
+        [
+          399.34426229508193,
+          39.67213114754098
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          400.655737704918,
+          27.86885245901639
+        ],
+        [
+          439.34426229508193,
+          40.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          19.142857142857142,
+          270.0
+        ],
+        [
+          34.57142857142857,
+          286.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          246.57142857142858,
+          274.85714285714283
+        ],
+        [
+          257.42857142857144,
+          286.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          18.440944881889774,
+          1644.8818897637796
+        ],
+        [
+          32.220472440944896,
+          1657.4803149606298
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          133.40157480314963,
+          1644.4881889763778
+        ],
+        [
+          144.8188976377953,
+          1656.2992125984251
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "6de1b7a9_https___infobae.com_.png",
+  "imageData": null,
+  "imageHeight": 3000,
+  "imageWidth": 442
+}

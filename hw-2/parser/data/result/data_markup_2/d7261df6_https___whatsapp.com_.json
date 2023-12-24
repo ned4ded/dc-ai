@@ -1,0 +1,61 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "button",
+      "points": [
+        [
+          640.0099601593625,
+          7.1713147410358555
+        ],
+        [
+          717.300796812749,
+          31.87250996015936
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          118.49601593625499,
+          286.45418326693226
+        ],
+        [
+          194.99003984063745,
+          311.55378486055776
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          122.08167330677293,
+          2872.5099601593624
+        ],
+        [
+          204.15338645418325,
+          2899.9999999999995
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "d7261df6_https___whatsapp.com_.png",
+  "imageData": null,
+  "imageHeight": 3000,
+  "imageWidth": 735
+}

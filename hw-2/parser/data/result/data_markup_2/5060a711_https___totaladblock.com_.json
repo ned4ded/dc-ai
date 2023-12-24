@@ -1,0 +1,44 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "button",
+      "points": [
+        [
+          1428.0238095238096,
+          37.301587301587304
+        ],
+        [
+          1532.7857142857142,
+          89.68253968253968
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          275.6428571428571,
+          588.0952380952381
+        ],
+        [
+          562.9444444444443,
+          648.4126984126984
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "5060a711_https___totaladblock.com_.png",
+  "imageData": null,
+  "imageHeight": 3000,
+  "imageWidth": 1837
+}

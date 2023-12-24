@@ -1,0 +1,129 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "button",
+      "points": [
+        [
+          348.79729729729735,
+          667.2972972972973
+        ],
+        [
+          442.5810810810811,
+          690.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          12.8513513513514,
+          1348.3783783783783
+        ],
+        [
+          168.52702702702706,
+          1371.3513513513512
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          149.87837837837841,
+          1631.081081081081
+        ],
+        [
+          225.82432432432438,
+          1652.972972972973
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          693.9324324324324,
+          2686.7567567567567
+        ],
+        [
+          771.7702702702702,
+          2711.3513513513512
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          739.3378378378378,
+          1945.135135135135
+        ],
+        [
+          758.7972972972973,
+          1963.7837837837837
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          739.3378378378378,
+          2282.4324324324325
+        ],
+        [
+          758.2567567567568,
+          2301.3513513513512
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          739.8783783783783,
+          855.1351351351351
+        ],
+        [
+          758.2567567567568,
+          872.9729729729729
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "4c02425b_https___recipetineats.com_.png",
+  "imageData": null,
+  "imageHeight": 3000,
+  "imageWidth": 783
+}

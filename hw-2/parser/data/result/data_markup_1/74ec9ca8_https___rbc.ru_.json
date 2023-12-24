@@ -1,0 +1,129 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "button",
+      "points": [
+        [
+          736.0106382978722,
+          3.1914893617021276
+        ],
+        [
+          827.4999999999999,
+          27.659574468085104
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          832.8191489361701,
+          2.6595744680851063
+        ],
+        [
+          931.2234042553191,
+          27.659574468085104
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          1005.159574468085,
+          34.57446808510638
+        ],
+        [
+          1025.904255319149,
+          53.723404255319146
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          194.21092564491653,
+          472.6858877086495
+        ],
+        [
+          210.44764795144155,
+          490.1365705614568
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          826.2698412698413,
+          717.1428571428571
+        ],
+        [
+          1014.8412698412699,
+          749.2063492063493
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          17.982456140350877,
+          817.1052631578947
+        ],
+        [
+          76.75438596491227,
+          845.6140350877192
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          12.368421052631613,
+          1417.2932330827066
+        ],
+        [
+          202.59398496240604,
+          1448.4962406015036
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "74ec9ca8_https___rbc.ru_.png",
+  "imageData": null,
+  "imageHeight": 3000,
+  "imageWidth": 1130
+}

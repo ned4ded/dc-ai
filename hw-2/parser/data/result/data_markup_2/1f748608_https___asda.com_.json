@@ -1,0 +1,95 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "button",
+      "points": [
+        [
+          1300.990099009901,
+          16.831683168316832
+        ],
+        [
+          1382.6732673267327,
+          55.94059405940594
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          1100.4950495049504,
+          550.0
+        ],
+        [
+          1265.3465346534654,
+          590.5940594059406
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          275.2475247524753,
+          237.12871287128712
+        ],
+        [
+          378.2178217821782,
+          276.73267326732673
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          436.63366336633663,
+          238.6138613861386
+        ],
+        [
+          556.9306930693069,
+          277.7227722772277
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          242.57425742574256,
+          2105.940594059406
+        ],
+        [
+          389.6039603960396,
+          2146.039603960396
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "1f748608_https___asda.com_.png",
+  "imageData": null,
+  "imageHeight": 3000,
+  "imageWidth": 1612
+}

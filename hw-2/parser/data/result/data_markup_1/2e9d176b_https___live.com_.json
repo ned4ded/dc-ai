@@ -1,0 +1,61 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "button",
+      "points": [
+        [
+          380.7617328519856,
+          3.2490974729241877
+        ],
+        [
+          415.7797833935018,
+          21.299638989169676
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          50.79783393501807,
+          189.5306859205776
+        ],
+        [
+          146.46570397111915,
+          211.1913357400722
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          154.76895306859208,
+          189.1696750902527
+        ],
+        [
+          251.15884476534296,
+          212.63537906137185
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "2e9d176b_https___live.com_.png",
+  "imageData": null,
+  "imageHeight": 3000,
+  "imageWidth": 746
+}

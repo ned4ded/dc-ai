@@ -1,0 +1,197 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "button",
+      "points": [
+        [
+          147.57894736842104,
+          123.68421052631578
+        ],
+        [
+          210.73684210526312,
+          146.9298245614035
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          848.4561403508771,
+          325.8771929824561
+        ],
+        [
+          878.7192982456139,
+          356.57894736842104
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          884.4210526315788,
+          558.3333333333333
+        ],
+        [
+          923.4561403508771,
+          599.5614035087718
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          778.2807017543859,
+          936.4035087719298
+        ],
+        [
+          880.0350877192982,
+          967.9824561403508
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          145.82456140350877,
+          1379.8245614035086
+        ],
+        [
+          227.84210526315786,
+          1404.8245614035086
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          535.7368421052631,
+          1380.2631578947367
+        ],
+        [
+          619.0701754385964,
+          1404.8245614035086
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          145.38596491228068,
+          1915.7894736842104
+        ],
+        [
+          228.71929824561403,
+          1940.3508771929824
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          536.1754385964912,
+          1916.6666666666665
+        ],
+        [
+          619.0701754385964,
+          1940.3508771929824
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          881.7894736842104,
+          2514.035087719298
+        ],
+        [
+          924.7719298245613,
+          2556.1403508771928
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          730.0350877192982,
+          2967.9824561403507
+        ],
+        [
+          806.7894736842104,
+          2991.2280701754385
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          812.9298245614034,
+          2967.9824561403507
+        ],
+        [
+          901.9649122807017,
+          2991.2280701754385
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "e4febd1c_https___mercadolivre.com.br_.png",
+  "imageData": null,
+  "imageHeight": 3000,
+  "imageWidth": 1032
+}

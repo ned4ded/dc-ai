@@ -1,0 +1,95 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "button",
+      "points": [
+        [
+          547.8070175438596,
+          264.4736842105263
+        ],
+        [
+          677.1929824561403,
+          313.59649122807014
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          547.2368421052631,
+          1133.6842105263156
+        ],
+        [
+          677.7631578947368,
+          1186.3157894736842
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          547.4999999999999,
+          2110.9090909090905
+        ],
+        [
+          678.4090909090909,
+          2165.4545454545455
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          174.77272727272725,
+          2423.6363636363635
+        ],
+        [
+          310.22727272727263,
+          2480.9090909090905
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          917.4999999999999,
+          2565.454545454545
+        ],
+        [
+          1053.863636363636,
+          2620.9090909090905
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "1151047b_https___ea.com_.png",
+  "imageData": null,
+  "imageHeight": 3000,
+  "imageWidth": 1225
+}

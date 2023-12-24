@@ -1,0 +1,180 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "button",
+      "points": [
+        [
+          115.52346570397111,
+          172.20216606498195
+        ],
+        [
+          184.11552346570397,
+          200.36101083032491
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          169.84821428571428,
+          777.6785714285713
+        ],
+        [
+          282.7946428571429,
+          804.0178571428571
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          360.0267857142857,
+          777.6785714285713
+        ],
+        [
+          474.31249999999994,
+          804.9107142857142
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          550.6517857142857,
+          777.6785714285713
+        ],
+        [
+          663.5982142857142,
+          804.4642857142857
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          135.9196428571429,
+          1101.3392857142856
+        ],
+        [
+          285.0267857142857,
+          1129.4642857142856
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          493.95535714285717,
+          1358.4821428571427
+        ],
+        [
+          643.5089285714284,
+          1385.267857142857
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          135.02678571428572,
+          1603.5714285714284
+        ],
+        [
+          284.58035714285717,
+          1630.3571428571427
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          493.5089285714286,
+          1894.6428571428569
+        ],
+        [
+          642.6160714285713,
+          1921.4285714285713
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          341.2767857142857,
+          2230.3571428571427
+        ],
+        [
+          493.06249999999994,
+          2260.7142857142853
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          385.0267857142857,
+          2935.267857142857
+        ],
+        [
+          418.50892857142856,
+          2971.428571428571
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "4e4f3456_https___usps.com_.png",
+  "imageData": null,
+  "imageHeight": 3000,
+  "imageWidth": 833
+}

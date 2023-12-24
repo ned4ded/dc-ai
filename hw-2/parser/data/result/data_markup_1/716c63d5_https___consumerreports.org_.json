@@ -1,0 +1,163 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "button",
+      "points": [
+        [
+          771.7982456140351,
+          1.3157894736842104
+        ],
+        [
+          821.7982456140351,
+          17.543859649122805
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          638.9035087719299,
+          24.999999999999996
+        ],
+        [
+          716.0964912280701,
+          46.05263157894736
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          604.2543859649123,
+          251.75438596491225
+        ],
+        [
+          686.2719298245614,
+          271.4912280701754
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          373.5526315789474,
+          727.6315789473683
+        ],
+        [
+          456.88596491228077,
+          752.6315789473683
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          614.780701754386,
+          1296.0526315789473
+        ],
+        [
+          694.6052631578947,
+          1322.8070175438595
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          620.4824561403509,
+          1435.5263157894735
+        ],
+        [
+          687.1491228070175,
+          1461.4035087719296
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          606.4473684210526,
+          1772.8070175438595
+        ],
+        [
+          703.3771929824561,
+          1798.6842105263156
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          691.5350877192982,
+          2213.59649122807
+        ],
+        [
+          717.4122807017544,
+          2238.157894736842
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          632.7631578947369,
+          2794.736842105263
+        ],
+        [
+          724.8684210526316,
+          2818.859649122807
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "716c63d5_https___consumerreports.org_.png",
+  "imageData": null,
+  "imageHeight": 3000,
+  "imageWidth": 830
+}

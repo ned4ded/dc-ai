@@ -1,0 +1,27 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "button",
+      "points": [
+        [
+          2045.5425531914896,
+          61.702127659574465
+        ],
+        [
+          2226.393617021277,
+          106.38297872340425
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "6a04c97e_https___playstation.com_.png",
+  "imageData": null,
+  "imageHeight": 3000,
+  "imageWidth": 2323
+}

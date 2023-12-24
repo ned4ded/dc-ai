@@ -1,0 +1,112 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "button",
+      "points": [
+        [
+          3134.579365079365,
+          3.9682539682539684
+        ],
+        [
+          3255.214285714286,
+          72.22222222222221
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          169.5000000000001,
+          640.4761904761905
+        ],
+        [
+          721.8809523809524,
+          716.6666666666666
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          171.08730158730168,
+          732.5396825396825
+        ],
+        [
+          718.7063492063493,
+          807.1428571428571
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          544.1031746031746,
+          1556.3492063492065
+        ],
+        [
+          721.8809523809524,
+          1637.3015873015875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          545.6904761904763,
+          1670.6349206349207
+        ],
+        [
+          726.6428571428572,
+          1743.6507936507937
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          807.5952380952382,
+          546.8253968253968
+        ],
+        [
+          983.7857142857143,
+          618.2539682539682
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "862f7d4c_https___mail.ru_.png",
+  "imageData": null,
+  "imageHeight": 3000,
+  "imageWidth": 3339
+}

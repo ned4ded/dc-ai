@@ -1,0 +1,129 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "button",
+      "points": [
+        [
+          401.8964143426295,
+          174.90039840637448
+        ],
+        [
+          481.97609561752984,
+          199.99999999999997
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          356.8764940239044,
+          552.9880478087649
+        ],
+        [
+          432.9721115537849,
+          576.0956175298804
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          478.78884462151393,
+          1235.8565737051792
+        ],
+        [
+          561.6573705179283,
+          1261.3545816733067
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          371.61752988047806,
+          1584.0637450199201
+        ],
+        [
+          449.3067729083665,
+          1606.3745019920318
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          77.99203187251,
+          1757.7689243027887
+        ],
+        [
+          159.26693227091636,
+          1776.8924302788844
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          369.62549800796813,
+          1947.410358565737
+        ],
+        [
+          446.1195219123506,
+          1970.9163346613543
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          91.13944223107573,
+          2207.5697211155375
+        ],
+        [
+          211.45816733067727,
+          2232.669322709163
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "cb3069a2_https___evri.com_.png",
+  "imageData": null,
+  "imageHeight": 3000,
+  "imageWidth": 652
+}

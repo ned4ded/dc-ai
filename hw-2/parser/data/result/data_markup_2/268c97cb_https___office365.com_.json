@@ -1,0 +1,231 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "button",
+      "points": [
+        [
+          411.3032786885246,
+          317.04918032786884
+        ],
+        [
+          512.2868852459017,
+          334.4262295081967
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          523.1065573770493,
+          317.70491803278685
+        ],
+        [
+          624.4180327868853,
+          334.7540983606557
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          411.9590163934426,
+          341.9672131147541
+        ],
+        [
+          513.2704918032787,
+          359.67213114754094
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          523.1065573770493,
+          341.639344262295
+        ],
+        [
+          626.3852459016393,
+          359.99999999999994
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          75.56557377049185,
+          1541.55737704918
+        ],
+        [
+          189.66393442622956,
+          1557.622950819672
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          283.1065573770492,
+          1506.229508196721
+        ],
+        [
+          397.2049180327869,
+          1530.4918032786884
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          282.12295081967216,
+          1553.1147540983604
+        ],
+        [
+          397.2049180327869,
+          1578.6885245901638
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          489.00819672131144,
+          1505.245901639344
+        ],
+        [
+          604.7459016393443,
+          1522.295081967213
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          132.6147540983607,
+          2528.524590163934
+        ],
+        [
+          228.35245901639348,
+          2546.55737704918
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          207.3688524590164,
+          2680.655737704918
+        ],
+        [
+          277.2049180327869,
+          2698.3606557377047
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          289.3360655737705,
+          2679.9999999999995
+        ],
+        [
+          324.41803278688525,
+          2698.3606557377047
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          335.5655737704918,
+          2679.6721311475408
+        ],
+        [
+          406.7131147540984,
+          2698.3606557377047
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          416.5491803278689,
+          2679.9999999999995
+        ],
+        [
+          473.92622950819674,
+          2697.7049180327867
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "268c97cb_https___office365.com_.png",
+  "imageData": null,
+  "imageHeight": 3000,
+  "imageWidth": 679
+}

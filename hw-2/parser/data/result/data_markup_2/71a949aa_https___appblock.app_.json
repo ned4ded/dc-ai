@@ -1,0 +1,146 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "button",
+      "points": [
+        [
+          250.42331288343559,
+          422.3926380368098
+        ],
+        [
+          275.26993865030676,
+          454.29447852760734
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          326.19018404907973,
+          649.0797546012269
+        ],
+        [
+          371.2822085889571,
+          664.4171779141104
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          216.68098159509202,
+          2406.7484662576685
+        ],
+        [
+          310.23926380368096,
+          2423.926380368098
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          167.9079754601227,
+          2865.0306748466255
+        ],
+        [
+          260.5460122699387,
+          2880.9815950920242
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          265.4539877300613,
+          2864.1104294478528
+        ],
+        [
+          360.5460122699387,
+          2881.9018404907974
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          167.9079754601227,
+          2899.693251533742
+        ],
+        [
+          225.88343558282207,
+          2915.9509202453987
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          233.24539877300612,
+          2898.773006134969
+        ],
+        [
+          294.28834355828224,
+          2916.257668711656
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          299.80981595092027,
+          2899.693251533742
+        ],
+        [
+          360.5460122699387,
+          2916.257668711656
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "71a949aa_https___appblock.app_.png",
+  "imageData": null,
+  "imageHeight": 3000,
+  "imageWidth": 526
+}

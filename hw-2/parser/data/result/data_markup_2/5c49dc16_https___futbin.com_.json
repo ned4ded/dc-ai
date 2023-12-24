@@ -1,0 +1,197 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "button",
+      "points": [
+        [
+          1453.1467065868264,
+          21.55688622754491
+        ],
+        [
+          1565.7215568862275,
+          54.49101796407186
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          596.8592814371257,
+          1249.7005988023952
+        ],
+        [
+          892.0688622754491,
+          1294.0119760479042
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          922.008982035928,
+          1247.9041916167664
+        ],
+        [
+          1157.9371257485031,
+          1294.6107784431138
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          203.44610778443106,
+          1395.2095808383235
+        ],
+        [
+          261.5299401197604,
+          1429.3413173652696
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          273.505988023952,
+          1393.4131736526947
+        ],
+        [
+          373.505988023952,
+          1431.736526946108
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          385.48203592814366,
+          1394.0119760479042
+        ],
+        [
+          520.2125748502993,
+          1430.5389221556886
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          530.9910179640718,
+          1391.6167664670659
+        ],
+        [
+          684.883233532934,
+          1430.5389221556886
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          696.2604790419161,
+          1392.8143712574852
+        ],
+        [
+          929.194610778443,
+          1431.736526946108
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          941.7694610778443,
+          1391.6167664670659
+        ],
+        [
+          1120.2125748502995,
+          1437.1257485029942
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          1130.991017964072,
+          1394.0119760479042
+        ],
+        [
+          1255.5419161676648,
+          1432.934131736527
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          623.2065868263472,
+          2438.9221556886228
+        ],
+        [
+          786.6796407185628,
+          2482.634730538922
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "5c49dc16_https___futbin.com_.png",
+  "imageData": null,
+  "imageHeight": 3000,
+  "imageWidth": 1753
+}

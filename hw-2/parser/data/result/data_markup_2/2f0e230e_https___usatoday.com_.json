@@ -1,0 +1,27 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "button",
+      "points": [
+        [
+          340.5050083472454,
+          16.19365609348915
+        ],
+        [
+          366.8823038397329,
+          24.20701168614357
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "2f0e230e_https___usatoday.com_.png",
+  "imageData": null,
+  "imageHeight": 3000,
+  "imageWidth": 475
+}

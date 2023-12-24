@@ -1,0 +1,78 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "button",
+      "points": [
+        [
+          252.7777777777778,
+          581.9444444444445
+        ],
+        [
+          437.5,
+          666.6666666666667
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          2355.5555555555557,
+          45.833333333333336
+        ],
+        [
+          2420.8333333333335,
+          122.22222222222223
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          840.2777777777778,
+          1012.5
+        ],
+        [
+          1031.9444444444446,
+          1077.7777777777778
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          1380.8333333333335,
+          2555.5555555555557
+        ],
+        [
+          1714.166666666667,
+          2648.8888888888887
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "102ceb89_https___walmart.com_.png",
+  "imageData": null,
+  "imageHeight": 3000,
+  "imageWidth": 3075
+}

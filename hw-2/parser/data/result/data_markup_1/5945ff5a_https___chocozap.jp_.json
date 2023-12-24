@@ -1,0 +1,248 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "button",
+      "points": [
+        [
+          353.3736462093863,
+          3.2490974729241877
+        ],
+        [
+          406.44223826714807,
+          20.938628158844764
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          182.9765342960289,
+          275.0902527075812
+        ],
+        [
+          316.5505415162455,
+          300.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          94.1678700361011,
+          566.7870036101083
+        ],
+        [
+          169.61913357400726,
+          601.8050541516245
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          172.1462093862816,
+          567.5090252707581
+        ],
+        [
+          248.6805054151625,
+          600.3610108303249
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          251.92960288808666,
+          566.7870036101083
+        ],
+        [
+          326.29783393501805,
+          600.7220216606498
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          328.46389891696754,
+          567.1480144404333
+        ],
+        [
+          404.2761732851986,
+          600.7220216606498
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          95.97292418772565,
+          762.0938628158844
+        ],
+        [
+          113.66245487364625,
+          780.5054151624548
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          386.9476534296029,
+          762.8158844765343
+        ],
+        [
+          402.47111913357406,
+          775.812274368231
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          199.94404332129966,
+          921.6606498194946
+        ],
+        [
+          298.8610108303249,
+          942.9602888086642
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          200.6660649819495,
+          1427.797833935018
+        ],
+        [
+          296.33393501805057,
+          1449.8194945848375
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          198.5,
+          1917.6895306859205
+        ],
+        [
+          300.3050541516246,
+          1940.072202166065
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          200.6660649819495,
+          2269.6750902527074
+        ],
+        [
+          297.4169675090253,
+          2289.5306859205775
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          181.17148014440437,
+          2533.5740072202166
+        ],
+        [
+          315.4675090252708,
+          2558.8447653429603
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          196.33393501805057,
+          2923.826714801444
+        ],
+        [
+          302.471119133574,
+          2949.0974729241875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "5945ff5a_https___chocozap.jp_.png",
+  "imageData": null,
+  "imageHeight": 3000,
+  "imageWidth": 497
+}

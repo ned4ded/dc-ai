@@ -1,0 +1,95 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "button",
+      "points": [
+        [
+          3243.3181818181815,
+          13.636363636363825
+        ],
+        [
+          3594.2272727272725,
+          97.27272727272751
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          1036.0454545454547,
+          924.5454545454547
+        ],
+        [
+          1292.409090909091,
+          1040.909090909091
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          1381.5,
+          931.818181818182
+        ],
+        [
+          1723.3181818181818,
+          1031.818181818182
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          3232.409090909091,
+          1548.1818181818182
+        ],
+        [
+          3614.2272727272725,
+          1615.4545454545455
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          3634.2272727272725,
+          1544.5454545454545
+        ],
+        [
+          3997.863636363636,
+          1626.3636363636365
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "329b9e1e_https___steamcommunity.com_.png",
+  "imageData": null,
+  "imageHeight": 3000,
+  "imageWidth": 5003
+}

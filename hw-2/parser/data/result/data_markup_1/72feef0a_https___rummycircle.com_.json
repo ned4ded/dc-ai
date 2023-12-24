@@ -1,0 +1,44 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "button",
+      "points": [
+        [
+          70.79411764705884,
+          193.52941176470588
+        ],
+        [
+          306.0882352941177,
+          230.58823529411765
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          476.6764705882353,
+          612.9411764705883
+        ],
+        [
+          625.5,
+          638.2352941176471
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "72feef0a_https___rummycircle.com_.png",
+  "imageData": null,
+  "imageHeight": 3000,
+  "imageWidth": 1101
+}

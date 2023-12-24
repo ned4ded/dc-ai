@@ -1,0 +1,180 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "button",
+      "points": [
+        [
+          670.3404255319149,
+          7.978723404255319
+        ],
+        [
+          736.2978723404256,
+          35.1063829787234
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          38.95744680851067,
+          251.06382978723403
+        ],
+        [
+          135.7659574468085,
+          285.1063829787234
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          18.212765957446834,
+          701.063829787234
+        ],
+        [
+          115.55319148936172,
+          728.1914893617021
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          51.72340425531917,
+          1070.7446808510638
+        ],
+        [
+          130.97872340425533,
+          1101.063829787234
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          453.8510638297873,
+          1071.276595744681
+        ],
+        [
+          523.5319148936171,
+          1099.468085106383
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          484.1702127659574,
+          1298.404255319149
+        ],
+        [
+          554.9148936170213,
+          1330.3191489361702
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          726.191489361702,
+          1676.5957446808509
+        ],
+        [
+          802.7872340425531,
+          1704.787234042553
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          16.61702127659575,
+          2155.851063829787
+        ],
+        [
+          90.55319148936172,
+          2184.574468085106
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          479.3829787234043,
+          2441.4893617021276
+        ],
+        [
+          548.0,
+          2474.4680851063827
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          374.06382978723406,
+          2849.4680851063827
+        ],
+        [
+          448.53191489361706,
+          2881.914893617021
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "709e7c7a_https___service-now.com_.png",
+  "imageData": null,
+  "imageHeight": 3000,
+  "imageWidth": 821
+}

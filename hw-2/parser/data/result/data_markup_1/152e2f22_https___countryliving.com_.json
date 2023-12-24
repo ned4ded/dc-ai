@@ -1,0 +1,44 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "button",
+      "points": [
+        [
+          385.10655737704917,
+          1.6393442622950818
+        ],
+        [
+          424.12295081967204,
+          15.737704918032785
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          71.3360655737705,
+          2976.0655737704915
+        ],
+        [
+          123.13934426229508,
+          2992.7868852459014
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "152e2f22_https___countryliving.com_.png",
+  "imageData": null,
+  "imageHeight": 3000,
+  "imageWidth": 503
+}

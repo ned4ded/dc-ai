@@ -1,0 +1,197 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "button",
+      "points": [
+        [
+          428.1299212598425,
+          231.49606299212599
+        ],
+        [
+          538.3661417322834,
+          271.65354330708664
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          545.3378378378378,
+          231.89189189189187
+        ],
+        [
+          619.6621621621621,
+          270.27027027027026
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          624.7972972972972,
+          233.24324324324323
+        ],
+        [
+          705.0675675675675,
+          268.9189189189189
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          713.1756756756756,
+          233.24324324324323
+        ],
+        [
+          795.8783783783783,
+          270.8108108108108
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          801.554054054054,
+          232.97297297297297
+        ],
+        [
+          867.2297297297297,
+          269.72972972972974
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          873.4459459459458,
+          234.86486486486484
+        ],
+        [
+          965.8783783783783,
+          268.3783783783784
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          971.2837837837837,
+          231.08108108108107
+        ],
+        [
+          1033.7162162162163,
+          271.35135135135135
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          1039.9324324324325,
+          231.6216216216216
+        ],
+        [
+          1096.1486486486488,
+          271.8918918918919
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          1178.581081081081,
+          241.08108108108107
+        ],
+        [
+          1199.9324324324325,
+          263.5135135135135
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          843.7499999999999,
+          2343.303571428571
+        ],
+        [
+          1091.9642857142856,
+          2380.3571428571427
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          1247.4999999999998,
+          2936.190476190476
+        ],
+        [
+          1402.7380952380952,
+          2986.6666666666665
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "292eb4bd_https___thekitchn.com_.png",
+  "imageData": null,
+  "imageHeight": 3000,
+  "imageWidth": 1635
+}

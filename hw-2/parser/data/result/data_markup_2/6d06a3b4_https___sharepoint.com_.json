@@ -1,0 +1,112 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "button",
+      "points": [
+        [
+          281.12745098039215,
+          4.6568627450980395
+        ],
+        [
+          305.6372549019608,
+          16.666666666666668
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          43.627450980392155,
+          192.40196078431373
+        ],
+        [
+          93.87254901960783,
+          205.14705882352942
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          104.65686274509802,
+          191.66666666666666
+        ],
+        [
+          134.31372549019608,
+          206.37254901960785
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          238.4803921568627,
+          1732.3529411764705
+        ],
+        [
+          290.19607843137254,
+          1746.3235294117646
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          300.4901960784313,
+          1732.1078431372548
+        ],
+        [
+          362.7450980392157,
+          1747.3039215686274
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          273.52941176470586,
+          2556.6176470588234
+        ],
+        [
+          326.96078431372547,
+          2572.0588235294117
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "6d06a3b4_https___sharepoint.com_.png",
+  "imageData": null,
+  "imageHeight": 3000,
+  "imageWidth": 600
+}

@@ -1,0 +1,61 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "button",
+      "points": [
+        [
+          46.726190476190474,
+          236.60714285714286
+        ],
+        [
+          125.89285714285715,
+          254.16666666666669
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          357.89473684210526,
+          288.4711779448621
+        ],
+        [
+          377.6942355889724,
+          308.0200501253133
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          554.3026706231453,
+          2651.9287833827893
+        ],
+        [
+          631.1572700296736,
+          2670.326409495549
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "0e6af338_https___xbox.com_.png",
+  "imageData": null,
+  "imageHeight": 3000,
+  "imageWidth": 776
+}

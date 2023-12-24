@@ -1,0 +1,146 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "button",
+      "points": [
+        [
+          106.64893617021275,
+          210.63829787234042
+        ],
+        [
+          215.69148936170208,
+          236.17021276595744
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          220.0404858299595,
+          211.53846153846152
+        ],
+        [
+          298.582995951417,
+          235.02024291497975
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          302.0242914979757,
+          211.13360323886639
+        ],
+        [
+          391.09311740890683,
+          234.81781376518217
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          859.3939393939394,
+          10.606060606060606
+        ],
+        [
+          927.2727272727273,
+          34.24242424242424
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          821.830985915493,
+          2655.6338028169016
+        ],
+        [
+          836.9718309859155,
+          2670.774647887324
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          692.9577464788732,
+          2695.774647887324
+        ],
+        [
+          709.1549295774648,
+          2711.2676056338028
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          603.1690140845071,
+          2950.0
+        ],
+        [
+          680.6338028169015,
+          2973.2394366197186
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          690.492957746479,
+          2951.760563380282
+        ],
+        [
+          734.8591549295775,
+          2975.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "19d37a9c_https___mercari.com_.png",
+  "imageData": null,
+  "imageHeight": 3000,
+  "imageWidth": 950
+}

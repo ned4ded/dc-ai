@@ -1,0 +1,61 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "button",
+      "points": [
+        [
+          1993.2203389830509,
+          1301.6949152542375
+        ],
+        [
+          3347.4576271186443,
+          1432.2033898305085
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          1994.9152542372883,
+          1832.2033898305085
+        ],
+        [
+          3345.762711864407,
+          1993.2203389830509
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          1989.8305084745764,
+          2028.813559322034
+        ],
+        [
+          3345.762711864407,
+          2184.7457627118647
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "6204058a_https___poe.com_.png",
+  "imageData": null,
+  "imageHeight": 3000,
+  "imageWidth": 5333
+}

@@ -1,0 +1,163 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "button",
+      "points": [
+        [
+          424.14705882352945,
+          46.470588235294116
+        ],
+        [
+          500.6176470588235,
+          68.82352941176471
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          888.8529411764707,
+          44.70588235294118
+        ],
+        [
+          911.2058823529412,
+          69.41176470588235
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          93.55882352941177,
+          637.6470588235294
+        ],
+        [
+          273.55882352941177,
+          670.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          295.3235294117647,
+          635.8823529411765
+        ],
+        [
+          473.55882352941177,
+          670.5882352941177
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          496.49999999999994,
+          637.0588235294118
+        ],
+        [
+          679.4411764705883,
+          670.5882352941177
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          698.8529411764707,
+          636.4705882352941
+        ],
+        [
+          879.4411764705883,
+          670.5882352941177
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          794.7352941176471,
+          900.5882352941177
+        ],
+        [
+          907.0882352941178,
+          928.8235294117648
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          90.61764705882354,
+          1757.0588235294117
+        ],
+        [
+          274.14705882352945,
+          1788.235294117647
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          17.676470588235247,
+          7.647058823529412
+        ],
+        [
+          97.08823529411762,
+          25.294117647058822
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "f2a93d54_https___lego.com_.png",
+  "imageData": null,
+  "imageHeight": 3000,
+  "imageWidth": 973
+}

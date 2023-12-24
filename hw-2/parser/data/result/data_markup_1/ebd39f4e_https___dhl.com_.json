@@ -1,0 +1,197 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "button",
+      "points": [
+        [
+          975.5588235294118,
+          20.0
+        ],
+        [
+          1099.6764705882354,
+          60.58823529411765
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          149.08823529411768,
+          416.47058823529414
+        ],
+        [
+          398.5,
+          460.5882352941177
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          402.61764705882354,
+          413.5294117647059
+        ],
+        [
+          608.5000000000001,
+          460.5882352941177
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          150.8529411764706,
+          464.11764705882354
+        ],
+        [
+          609.6764705882354,
+          508.2352941176471
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          373.27375565610856,
+          1029.8642533936652
+        ],
+        [
+          409.0203619909502,
+          1065.6108597285067
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          1078.2511312217196,
+          1030.316742081448
+        ],
+        [
+          1114.4502262443439,
+          1064.7058823529412
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          471.01131221719453,
+          1122.6244343891403
+        ],
+        [
+          507.66289592760177,
+          1154.7511312217196
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          711.2828054298643,
+          1114.4796380090497
+        ],
+        [
+          743.8619909502263,
+          1146.606334841629
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          948.8393665158371,
+          1169.2307692307693
+        ],
+        [
+          980.9660633484164,
+          1199.0950226244345
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          769.7209302325582,
+          2950.5813953488373
+        ],
+        [
+          809.2558139534884,
+          2986.6279069767443
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          953.8191489361702,
+          2783.3333333333335
+        ],
+        [
+          1099.209219858156,
+          2818.439716312057
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "ebd39f4e_https___dhl.com_.png",
+  "imageData": null,
+  "imageHeight": 3000,
+  "imageWidth": 1247
+}

@@ -1,0 +1,129 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "button",
+      "points": [
+        [
+          531.202380952381,
+          39.88095238095238
+        ],
+        [
+          595.1904761904761,
+          59.523809523809526
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          257.3928571428571,
+          213.0952380952381
+        ],
+        [
+          313.3452380952381,
+          237.20238095238096
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          319.29761904761904,
+          655.952380952381
+        ],
+        [
+          341.91666666666663,
+          677.6785714285714
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          353.2261904761905,
+          655.0595238095239
+        ],
+        [
+          375.8452380952381,
+          678.2738095238095
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          267.2142857142857,
+          1747.0238095238096
+        ],
+        [
+          396.6785714285714,
+          1777.0833333333335
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          406.20238095238096,
+          1988.095238095238
+        ],
+        [
+          450.25,
+          2031.845238095238
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          285.66666666666663,
+          2614.8809523809523
+        ],
+        [
+          377.9285714285714,
+          2642.559523809524
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "150d970c_https___sikayetvar.com_.png",
+  "imageData": null,
+  "imageHeight": 3000,
+  "imageWidth": 663
+}

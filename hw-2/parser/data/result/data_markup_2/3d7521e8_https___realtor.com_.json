@@ -1,0 +1,146 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "button",
+      "points": [
+        [
+          735.404761904762,
+          190.47619047619048
+        ],
+        [
+          944.3333333333334,
+          211.01190476190476
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          812.1904761904763,
+          3.869047619047619
+        ],
+        [
+          869.3333333333334,
+          16.964285714285715
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          469.33333333333337,
+          376.1904761904762
+        ],
+        [
+          567.8452380952382,
+          402.08333333333337
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          104.15476190476193,
+          833.3333333333334
+        ],
+        [
+          157.72619047619048,
+          862.797619047619
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          162.7857142857143,
+          833.6309523809524
+        ],
+        [
+          220.52380952380955,
+          862.202380952381
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          225.58333333333334,
+          832.4404761904763
+        ],
+        [
+          280.04761904761904,
+          862.5
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          441.05952380952385,
+          1271.1309523809525
+        ],
+        [
+          531.8333333333334,
+          1300.297619047619
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          518.4404761904763,
+          1826.1904761904761
+        ],
+        [
+          655.0476190476192,
+          1852.9761904761906
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "3d7521e8_https___realtor.com_.png",
+  "imageData": null,
+  "imageHeight": 3000,
+  "imageWidth": 972
+}

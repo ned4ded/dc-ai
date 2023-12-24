@@ -1,0 +1,180 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "button",
+      "points": [
+        [
+          1396.51968503937,
+          17.322834645669293
+        ],
+        [
+          1484.708661417323,
+          51.181102362204726
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          1342.1889763779527,
+          19.68503937007874
+        ],
+        [
+          1375.259842519685,
+          48.818897637795274
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          895.732283464567,
+          1737.007874015748
+        ],
+        [
+          987.8582677165355,
+          1787.4015748031495
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          1171.3228346456692,
+          1996.0629921259842
+        ],
+        [
+          1283.1338582677165,
+          2029.1338582677165
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          896.51968503937,
+          2786.6141732283463
+        ],
+        [
+          1028.8031496062993,
+          2835.433070866142
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          224.07874015748035,
+          874.0157480314961
+        ],
+        [
+          368.9606299212599,
+          921.259842519685
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          397.3070866141732,
+          887.4015748031496
+        ],
+        [
+          416.20472440944883,
+          908.6614173228346
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          1055.5748031496062,
+          2799.212598425197
+        ],
+        [
+          1075.259842519685,
+          2820.472440944882
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          1255.5748031496062,
+          1005.511811023622
+        ],
+        [
+          1279.1968503937007,
+          1036.2204724409448
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          1291.7952755905512,
+          1004.7244094488188
+        ],
+        [
+          1320.1417322834645,
+          1037.007874015748
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "67e342a5_https___epicgames.com_.png",
+  "imageData": null,
+  "imageHeight": 3000,
+  "imageWidth": 1508
+}

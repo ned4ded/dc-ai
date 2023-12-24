@@ -1,0 +1,61 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "button",
+      "points": [
+        [
+          1482.4212598425197,
+          8.661417322834646
+        ],
+        [
+          1521.0039370078741,
+          47.24409448818898
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          123.36614173228351,
+          411.81102362204723
+        ],
+        [
+          228.8779527559056,
+          462.99212598425197
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          199.74409448818903,
+          1564.5669291338581
+        ],
+        [
+          295.8070866141733,
+          1612.5984251968503
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "dc1c805a_https___microsoft.com_.png",
+  "imageData": null,
+  "imageHeight": 3000,
+  "imageWidth": 1605
+}

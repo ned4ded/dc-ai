@@ -1,0 +1,197 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "button",
+      "points": [
+        [
+          1471.0844155844154,
+          10.38961038961039
+        ],
+        [
+          1646.4090909090908,
+          59.74025974025974
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          40.564935064935085,
+          1338.9610389610389
+        ],
+        [
+          181.474025974026,
+          1373.3766233766235
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          360.04545454545456,
+          1338.9610389610389
+        ],
+        [
+          498.35714285714283,
+          1374.025974025974
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          678.8766233766235,
+          1114.935064935065
+        ],
+        [
+          823.6818181818182,
+          1148.7012987012986
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          676.9285714285714,
+          1338.3116883116884
+        ],
+        [
+          822.3831168831169,
+          1376.6233766233765
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          999.0064935064935,
+          1338.9610389610389
+        ],
+        [
+          1143.8116883116882,
+          1372.7272727272727
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          1317.8376623376623,
+          1115.5844155844156
+        ],
+        [
+          1460.6948051948052,
+          1150.6493506493507
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          1662.642857142857,
+          1150.6493506493507
+        ],
+        [
+          1694.4610389610389,
+          1181.8181818181818
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          420.43506493506493,
+          1822.7272727272727
+        ],
+        [
+          611.9935064935065,
+          1867.5324675324675
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          753.5519480519481,
+          1820.7792207792209
+        ],
+        [
+          948.3571428571429,
+          1869.4805194805194
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          1091.2142857142856,
+          1820.1298701298701
+        ],
+        [
+          1280.1753246753246,
+          1866.2337662337661
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "b33c966c_https___trulia.com_.png",
+  "imageData": null,
+  "imageHeight": 3000,
+  "imageWidth": 1711
+}

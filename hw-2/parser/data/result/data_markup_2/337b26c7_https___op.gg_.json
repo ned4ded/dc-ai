@@ -1,0 +1,78 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "button",
+      "points": [
+        [
+          2463.4230769230767,
+          154.8076923076923
+        ],
+        [
+          2574.0,
+          201.9230769230769
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          1948.9999999999998,
+          226.9230769230769
+        ],
+        [
+          2186.5,
+          277.88461538461536
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          990.3461538461538,
+          1030.7692307692307
+        ],
+        [
+          1211.5,
+          1097.1153846153845
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          1225.923076923077,
+          1028.8461538461538
+        ],
+        [
+          1612.4615384615383,
+          1099.0384615384614
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "337b26c7_https___op.gg_.png",
+  "imageData": null,
+  "imageHeight": 3000,
+  "imageWidth": 2598
+}

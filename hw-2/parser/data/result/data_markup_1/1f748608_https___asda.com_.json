@@ -1,0 +1,112 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "button",
+      "points": [
+        [
+          1298.051948051948,
+          14.935064935064934
+        ],
+        [
+          1385.7142857142858,
+          58.44155844155844
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          274.025974025974,
+          236.36363636363635
+        ],
+        [
+          381.8181818181818,
+          280.5194805194805
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          433.76623376623377,
+          236.36363636363635
+        ],
+        [
+          557.7922077922078,
+          279.87012987012986
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          1097.4025974025974,
+          548.7012987012987
+        ],
+        [
+          1268.8311688311687,
+          592.2077922077922
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          240.9090909090909,
+          2103.246753246753
+        ],
+        [
+          392.85714285714283,
+          2148.051948051948
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          1566.4335664335665,
+          2949.6503496503497
+        ],
+        [
+          1604.1958041958042,
+          2991.6083916083917
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "1f748608_https___asda.com_.png",
+  "imageData": null,
+  "imageHeight": 3000,
+  "imageWidth": 1612
+}

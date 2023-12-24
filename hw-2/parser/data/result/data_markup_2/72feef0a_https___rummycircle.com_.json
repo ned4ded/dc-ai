@@ -1,0 +1,146 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "button",
+      "points": [
+        [
+          75.5,
+          195.2127659574468
+        ],
+        [
+          301.56382978723406,
+          227.65957446808508
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          478.15957446808505,
+          615.4255319148936
+        ],
+        [
+          623.372340425532,
+          634.5744680851063
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          86.13829787234044,
+          1055.851063829787
+        ],
+        [
+          245.71276595744683,
+          1087.7659574468084
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          249.968085106383,
+          1055.851063829787
+        ],
+        [
+          503.69148936170217,
+          1088.2978723404256
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          509.5425531914894,
+          1055.851063829787
+        ],
+        [
+          693.0531914893618,
+          1087.2340425531913
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          697.8404255319149,
+          1054.787234042553
+        ],
+        [
+          784.0106382978722,
+          1086.7021276595744
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          789.3297872340424,
+          1055.851063829787
+        ],
+        [
+          930.8191489361702,
+          1086.1702127659573
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          934.5425531914893,
+          1055.851063829787
+        ],
+        [
+          1013.2659574468084,
+          1086.1702127659573
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "72feef0a_https___rummycircle.com_.png",
+  "imageData": null,
+  "imageHeight": 3000,
+  "imageWidth": 1101
+}

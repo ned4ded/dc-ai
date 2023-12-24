@@ -1,0 +1,78 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "button",
+      "points": [
+        [
+          610.0,
+          24.324324324324323
+        ],
+        [
+          697.027027027027,
+          38.37837837837838
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          268.64864864864865,
+          308.64864864864865
+        ],
+        [
+          380.5405405405405,
+          338.3783783783784
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          397.2972972972973,
+          448.64864864864865
+        ],
+        [
+          464.86486486486484,
+          468.10810810810807
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          578.3783783783783,
+          448.64864864864865
+        ],
+        [
+          683.7837837837837,
+          467.56756756756755
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "43453c4a_https___bauhaus.info_.png",
+  "imageData": null,
+  "imageHeight": 3000,
+  "imageWidth": 806
+}

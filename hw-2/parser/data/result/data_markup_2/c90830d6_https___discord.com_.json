@@ -1,0 +1,95 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "button",
+      "points": [
+        [
+          856.0458937198067,
+          12.560386473429732
+        ],
+        [
+          898.0748792270532,
+          37.68115942028964
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          309.66908212560384,
+          274.8792270531399
+        ],
+        [
+          500.9734299516907,
+          310.6280193236713
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          514.9830917874395,
+          273.42995169082104
+        ],
+        [
+          722.2294685990338,
+          312.56038647342973
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          419.8140096618357,
+          2489.371980676329
+        ],
+        [
+          609.1859903381642,
+          2524.6376811594205
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          848.3164251207729,
+          2933.3333333333335
+        ],
+        [
+          896.6256038647342,
+          2958.4541062801936
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "c90830d6_https___discord.com_.png",
+  "imageData": null,
+  "imageHeight": 3000,
+  "imageWidth": 1029
+}

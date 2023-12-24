@@ -1,0 +1,214 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "button",
+      "points": [
+        [
+          39.60784313725489,
+          53.92156862745098
+        ],
+        [
+          88.62745098039215,
+          67.15686274509804
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          91.078431372549,
+          54.166666666666664
+        ],
+        [
+          140.09803921568627,
+          67.8921568627451
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          443.52941176470586,
+          292.156862745098
+        ],
+        [
+          450.3921568627451,
+          298.77450980392155
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          98.43137254901961,
+          411.27450980392155
+        ],
+        [
+          109.4607843137255,
+          423.28431372549016
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          182.74509803921566,
+          411.7647058823529
+        ],
+        [
+          193.52941176470588,
+          423.28431372549016
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          266.56862745098044,
+          412.0098039215686
+        ],
+        [
+          278.57843137254906,
+          423.77450980392155
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          349.656862745098,
+          411.51960784313724
+        ],
+        [
+          362.156862745098,
+          423.0392156862745
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          434.4607843137254,
+          411.7647058823529
+        ],
+        [
+          445.7352941176471,
+          422.30392156862746
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          444.5098039215686,
+          360.78431372549016
+        ],
+        [
+          457.2549019607843,
+          373.03921568627453
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          34.21568627450981,
+          361.27450980392155
+        ],
+        [
+          47.69607843137254,
+          373.52941176470586
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          387.156862745098,
+          2839.2156862745096
+        ],
+        [
+          451.37254901960785,
+          2850.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          457.0098039215686,
+          2964.4607843137255
+        ],
+        [
+          472.4509803921568,
+          2979.1666666666665
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "755c5a06_https___vseinstrumenti.ru_.png",
+  "imageData": null,
+  "imageHeight": 3000,
+  "imageWidth": 490
+}

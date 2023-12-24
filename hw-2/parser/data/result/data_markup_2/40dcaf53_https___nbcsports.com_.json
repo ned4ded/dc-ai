@@ -1,0 +1,180 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "button",
+      "points": [
+        [
+          301.18740515933234,
+          4.09711684370258
+        ],
+        [
+          307.8641881638847,
+          11.684370257966616
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          312.4165402124431,
+          4.400606980273142
+        ],
+        [
+          318.48634294385437,
+          12.139605462822459
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          323.49393019726864,
+          4.552352048558422
+        ],
+        [
+          330.47420333839153,
+          12.44309559939302
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          293.90364188163886,
+          256.29742033383917
+        ],
+        [
+          313.02352048558424,
+          261.608497723824
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          315.7549317147193,
+          256.752655538695
+        ],
+        [
+          322.58345978755693,
+          262.36722306525036
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          324.4044006069803,
+          256.9044006069803
+        ],
+        [
+          330.0189681335357,
+          262.0637329286798
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          42.46206373292869,
+          509.4081942336874
+        ],
+        [
+          64.4650986342944,
+          515.3262518968133
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          138.82018209408196,
+          505.31107738998486
+        ],
+        [
+          161.43019726858878,
+          512.2913505311077
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          236.84749620637328,
+          506.06980273141124
+        ],
+        [
+          260.06449165402125,
+          513.50531107739
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          157.78831562974204,
+          2786.0394537177544
+        ],
+        [
+          178.27389984825493,
+          2795.144157814871
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "40dcaf53_https___nbcsports.com_.png",
+  "imageData": null,
+  "imageHeight": 3000,
+  "imageWidth": 335
+}

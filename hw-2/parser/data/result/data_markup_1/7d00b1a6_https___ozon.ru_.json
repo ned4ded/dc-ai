@@ -1,0 +1,78 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "button",
+      "points": [
+        [
+          518.1666666666666,
+          85.0
+        ],
+        [
+          781.5,
+          183.33333333333334
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          1936.5,
+          746.6666666666667
+        ],
+        [
+          2184.8333333333335,
+          858.3333333333334
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          2096.5,
+          1326.6666666666667
+        ],
+        [
+          2309.8333333333335,
+          1408.3333333333335
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          2578.166666666667,
+          1941.6666666666667
+        ],
+        [
+          2998.166666666667,
+          2050.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "7d00b1a6_https___ozon.ru_.png",
+  "imageData": null,
+  "imageHeight": 3000,
+  "imageWidth": 3318
+}

@@ -1,0 +1,112 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "button",
+      "points": [
+        [
+          2461.702127659574,
+          156.38297872340425
+        ],
+        [
+          2581.9148936170213,
+          206.38297872340425
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          1942.5531914893616,
+          224.46808510638297
+        ],
+        [
+          2188.2978723404253,
+          285.1063829787234
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          985.4014598540145,
+          1026.2773722627737
+        ],
+        [
+          1218.2481751824816,
+          1105.109489051095
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          1222.6277372262773,
+          1028.4671532846714
+        ],
+        [
+          1613.868613138686,
+          1101.4598540145985
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          1938.0281690140846,
+          2071.1267605633802
+        ],
+        [
+          2005.985915492958,
+          2110.211267605634
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          2008.0985915492959,
+          2071.478873239437
+        ],
+        [
+          2114.084507042254,
+          2110.9154929577467
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "337b26c7_https___op.gg_.png",
+  "imageData": null,
+  "imageHeight": 3000,
+  "imageWidth": 2598
+}

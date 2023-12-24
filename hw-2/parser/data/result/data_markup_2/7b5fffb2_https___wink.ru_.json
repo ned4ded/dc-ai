@@ -1,0 +1,78 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "button",
+      "points": [
+        [
+          338.8823529411764,
+          15.882352941176471
+        ],
+        [
+          437.1176470588235,
+          52.35294117647059
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          293.58823529411757,
+          503.5294117647059
+        ],
+        [
+          667.1176470588235,
+          566.4705882352941
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          81.235294117647,
+          2798.2352941176473
+        ],
+        [
+          314.17647058823525,
+          2854.7058823529414
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          1099.4705882352941,
+          2871.764705882353
+        ],
+        [
+          1190.058823529412,
+          2935.294117647059
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "7b5fffb2_https___wink.ru_.png",
+  "imageData": null,
+  "imageHeight": 3000,
+  "imageWidth": 1826
+}

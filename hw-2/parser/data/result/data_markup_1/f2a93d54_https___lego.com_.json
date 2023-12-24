@@ -1,0 +1,197 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "button",
+      "points": [
+        [
+          424.3027888446215,
+          44.6215139442231
+        ],
+        [
+          503.1872509960159,
+          71.31474103585657
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          16.733067729083665,
+          8.764940239043824
+        ],
+        [
+          103.58565737051792,
+          25.89641434262948
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          888.4462151394422,
+          45.41832669322709
+        ],
+        [
+          911.9521912350597,
+          70.91633466135457
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          885.7574257425744,
+          489.6039603960396
+        ],
+        [
+          916.450495049505,
+          520.2970297029703
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          93.18316831683168,
+          634.1584158415842
+        ],
+        [
+          278.33168316831683,
+          673.2673267326733
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          292.68811881188117,
+          635.1485148514852
+        ],
+        [
+          478.8267326732674,
+          671.2871287128713
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          497.6386138613861,
+          638.6138613861386
+        ],
+        [
+          678.3316831683169,
+          672.2772277227723
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          699.1237623762377,
+          635.1485148514852
+        ],
+        [
+          882.2920792079209,
+          671.7821782178218
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          792.6881188118813,
+          895.049504950495
+        ],
+        [
+          908.5297029702971,
+          931.6831683168317
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          93.18316831683168,
+          1755.4455445544554
+        ],
+        [
+          275.85643564356434,
+          1792.079207920792
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          80.3118811881188,
+          2682.1782178217823
+        ],
+        [
+          147.14356435643563,
+          2711.3861386138615
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "f2a93d54_https___lego.com_.png",
+  "imageData": null,
+  "imageHeight": 3000,
+  "imageWidth": 973
+}

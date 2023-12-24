@@ -1,0 +1,112 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "button",
+      "points": [
+        [
+          372.10655737704917,
+          2.9508196721311473
+        ],
+        [
+          393.7459016393442,
+          14.754098360655737
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          193.09016393442622,
+          109.50819672131146
+        ],
+        [
+          266.86065573770486,
+          126.2295081967213
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          332.3679245283019,
+          1846.2264150943397
+        ],
+        [
+          342.3679245283019,
+          1855.8490566037735
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          343.4,
+          1846.6
+        ],
+        [
+          352.1,
+          1855.9
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          194.45864661654133,
+          2610.3383458646617
+        ],
+        [
+          266.45112781954884,
+          2625.187969924812
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          41.78165374677003,
+          2900.7751937984494
+        ],
+        [
+          78.47416020671837,
+          2915.762273901809
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "6e33b7d8_https___github.com_.png",
+  "imageData": null,
+  "imageHeight": 3000,
+  "imageWidth": 397
+}

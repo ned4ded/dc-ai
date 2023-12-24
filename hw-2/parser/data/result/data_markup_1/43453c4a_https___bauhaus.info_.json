@@ -1,0 +1,214 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "button",
+      "points": [
+        [
+          607.8688524590164,
+          21.311475409836063
+        ],
+        [
+          699.9999999999999,
+          40.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          268.5245901639344,
+          307.54098360655735
+        ],
+        [
+          384.2622950819672,
+          341.311475409836
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          397.37704918032784,
+          448.19672131147536
+        ],
+        [
+          464.9180327868852,
+          470.8196721311475
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          577.3770491803278,
+          447.21311475409834
+        ],
+        [
+          685.5737704918032,
+          468.52459016393436
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          106.39805825242718,
+          1753.7216828478965
+        ],
+        [
+          221.28478964401296,
+          1780.906148867314
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          217.4012944983819,
+          1753.074433656958
+        ],
+        [
+          330.99352750809066,
+          1779.9352750809062
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          327.75728155339806,
+          1752.7508090614888
+        ],
+        [
+          441.6731391585761,
+          1780.2588996763754
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          439.08414239482204,
+          1752.4271844660195
+        ],
+        [
+          551.3818770226537,
+          1780.5825242718447
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          170.15210355987057,
+          1724.5954692556636
+        ],
+        [
+          248.14563106796118,
+          1745.307443365696
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          324.19741100323625,
+          1724.5954692556636
+        ],
+        [
+          392.15857605177996,
+          1741.1003236245956
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          449.76375404530745,
+          1726.2135922330099
+        ],
+        [
+          540.7022653721683,
+          1743.6893203883496
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          620.9611650485438,
+          1724.9190938511329
+        ],
+        [
+          691.1877022653722,
+          1745.307443365696
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "43453c4a_https___bauhaus.info_.png",
+  "imageData": null,
+  "imageHeight": 3000,
+  "imageWidth": 806
+}

@@ -1,0 +1,197 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "button",
+      "points": [
+        [
+          926.7857142857142,
+          524.6753246753246
+        ],
+        [
+          1208.603896103896,
+          563.6363636363636
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          161.2012987012987,
+          670.1298701298701
+        ],
+        [
+          319.64285714285717,
+          696.7532467532467
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          328.7337662337662,
+          670.1298701298701
+        ],
+        [
+          452.7597402597402,
+          698.051948051948
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          461.85064935064935,
+          669.4805194805194
+        ],
+        [
+          567.0454545454545,
+          696.7532467532467
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          576.1363636363635,
+          669.4805194805194
+        ],
+        [
+          718.3441558441559,
+          698.051948051948
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          1147.564935064935,
+          1128.5714285714284
+        ],
+        [
+          1180.0324675324675,
+          1160.3896103896104
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          1146.9155844155844,
+          1374.6753246753246
+        ],
+        [
+          1180.681818181818,
+          1405.1948051948052
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          1145.616883116883,
+          1621.4285714285713
+        ],
+        [
+          1178.7337662337661,
+          1654.5454545454545
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          1146.2662337662337,
+          1844.8051948051948
+        ],
+        [
+          1181.9805194805194,
+          1883.1168831168832
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          1146.9155844155844,
+          2123.3766233766232
+        ],
+        [
+          1181.9805194805194,
+          2156.4935064935066
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          1146.9155844155844,
+          2532.4675324675322
+        ],
+        [
+          1180.0324675324675,
+          2562.337662337662
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "8987319a_https___houzz.com_.png",
+  "imageData": null,
+  "imageHeight": 3000,
+  "imageWidth": 1325
+}

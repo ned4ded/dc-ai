@@ -1,0 +1,146 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "button",
+      "points": [
+        [
+          639.5588235294117,
+          5.294117647058823
+        ],
+        [
+          717.7941176470588,
+          35.88235294117647
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          117.79411764705884,
+          284.70588235294116
+        ],
+        [
+          194.8529411764706,
+          315.29411764705884
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          123.08823529411768,
+          2872.9411764705883
+        ],
+        [
+          205.4411764705883,
+          2902.3529411764707
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          483.6764705882353,
+          2954.7058823529414
+        ],
+        [
+          615.4411764705883,
+          2985.294117647059
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          281.398916967509,
+          2957.400722021661
+        ],
+        [
+          309.19675090252707,
+          2983.032490974729
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          316.4169675090253,
+          2957.400722021661
+        ],
+        [
+          340.60469314079427,
+          2983.3935018050543
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          349.26895306859205,
+          2957.0397111913358
+        ],
+        [
+          374.90072202166067,
+          2983.3935018050543
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          383.5649819494585,
+          2956.6787003610107
+        ],
+        [
+          409.9187725631769,
+          2984.115523465704
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "d7261df6_https___whatsapp.com_.png",
+  "imageData": null,
+  "imageHeight": 3000,
+  "imageWidth": 735
+}

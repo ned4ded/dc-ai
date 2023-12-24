@@ -1,0 +1,44 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "button",
+      "points": [
+        [
+          3974.6031746031745,
+          46.03174603174603
+        ],
+        [
+          4376.190476190476,
+          163.4920634920635
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "button",
+      "points": [
+        [
+          1622.2222222222222,
+          2053.968253968254
+        ],
+        [
+          2803.1746031746034,
+          2171.4285714285716
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "034c98a7_https___roblox.com_.png",
+  "imageData": null,
+  "imageHeight": 3000,
+  "imageWidth": 4427
+}
