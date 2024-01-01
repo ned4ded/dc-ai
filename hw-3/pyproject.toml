@@ -1,0 +1,24 @@
+[tool.poetry]
+name = "multimodal-data"
+version = "0.1.0"
+description = ""
+authors = ["Eugen Bazhenov <wtf.czabe@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+numpy = "^1.26.2"
+pandas = "^2.1.3"
+matplotlib = "^3.8.2"
+ipython = "^8.17.2"
+notebook = "^7.0.6"
+scikit-learn = "^1.3.2"
+datasets = "^2.16.1"
+kaggle = "^1.5.16"
+imagehash = "^4.3.1"
+thefuzz = "^0.20.0"
+seaborn = "^0.13.1"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
